@@ -187,8 +187,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/direct.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 172,
-          "accepted_rules_before_deduplication": 172,
+          "candidate_rules": 173,
+          "accepted_rules_before_deduplication": 173,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -237,18 +237,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 111037,
+        "source_rules_after_semantic_deduplication": 111038,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 111037,
+        "main_rules": 111038,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 222325,
+          "input_rules": 222326,
           "exact_duplicates_removed": 110735,
           "parent_covered_removed": 553,
           "semantic_merges": 0,
-          "output_rules": 111037
+          "output_rules": 111038
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -267,15 +267,15 @@
           "path": "rules/domain/CN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 111037,
-          "sha256": "756592b1e2dc0a020c0dd1da83cc7ab77eed119dd805724614e67a0d7b9c322b"
+          "rules": 111038,
+          "sha256": "f7cb807b9203bf6bb1dd2e4265fc2a20b083489132ffc68d6ca0d2df463aaa68"
         },
         {
           "path": "rules/domain/CN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 111037,
-          "sha256": "6400f08a7b09c27bd7e19e9a257d71d9d9d67598a12fd10f3885f6a5a093024d"
+          "rules": 111038,
+          "sha256": "4dccd161e74d5e73b930adb0ae95e111ffac28d86bfb04202b9324ade8eb539a"
         }
       ]
     },

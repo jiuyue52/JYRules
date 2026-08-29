@@ -111025,6 +111025,7 @@ injections.adguard.org
 instant.arubanetworks.com
 izattime.qcomgeo2.com
 local.adguard.org
+mirrorlist.cdn.skk.moe
 mobile.hotspot
 ntt.setup
 pi.hole
