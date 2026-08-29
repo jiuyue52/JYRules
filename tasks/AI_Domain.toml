@@ -1,0 +1,17 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "AI_Domain"
+
+[[sources]]
+name = "XL_AI AI domains"
+url = "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/ai.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "LL_AI AI domains"
+url = "https://github.com/666OS/rules/raw/release/mihomo/domain/AI.mrs"
+format = "mrs"
+optional = true
+

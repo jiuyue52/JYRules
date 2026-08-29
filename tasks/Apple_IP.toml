@@ -1,0 +1,18 @@
+version = 1
+enabled = true
+behavior = "ipcidr"
+output = "Apple_IP"
+
+[[sources]]
+name = "Skk_AppleIP Apple ip"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/apple_services.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Bett_AppleIP Apple ip"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/apple.mrs"
+format = "mrs"
+optional = true
+
+

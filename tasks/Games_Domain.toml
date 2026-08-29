@@ -1,0 +1,17 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "Games_Domain"
+
+[[sources]]
+name = "DW_Games Games domains"
+url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/games.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "MX_Steam Games domains"
+url = "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/steam.mrs"
+format = "mrs"
+optional = true
+

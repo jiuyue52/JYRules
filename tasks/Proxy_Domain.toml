@@ -1,0 +1,23 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "Proxy_Domain"
+
+[[sources]]
+name = "Skk_Global Proxy domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/global.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Bett_geolocation-!cn Proxy domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-!cn.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "DW_proxy Proxy domains"
+url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.mrs"
+format = "mrs"
+optional = true

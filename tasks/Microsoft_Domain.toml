@@ -1,0 +1,17 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "Microsoft_Domain"
+
+[[sources]]
+name = "MX_Microsoft Microsoft domains"
+url = "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/microsoft.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Skk_Microsoft Microsoft domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/microsoft.mrs"
+format = "mrs"
+optional = true
+

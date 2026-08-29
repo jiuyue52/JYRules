@@ -1,0 +1,35 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "CN_Domain"
+
+[[sources]]
+name = "CN domains (MRS example)"
+url = "https://rules.example.invalid/cn-domains.mrs"
+format = "mrs"
+optional = false
+
+[[sources]]
+name = "CN domains (auto-detected YAML example)"
+url = "https://rules.example.invalid/cn-domains.yaml"
+format = "auto"
+optional = true
+
+# A repository-relative source can be used instead of a URL:
+# [[sources]]
+# name = "Local additions"
+# path = "local/CN_Domain.list"
+# format = "list"
+# optional = false
+
+[[exclude]]
+name = "Non-CN domains"
+url = "https://rules.example.invalid/geolocation-not-cn.list"
+format = "list"
+optional = false
+
+[[exclude]]
+name = "Global proxy domains"
+url = "https://rules.example.invalid/global-proxy.mrs"
+format = "mrs"
+optional = true

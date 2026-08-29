@@ -1,0 +1,154 @@
+name: Update Mihomo rules
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "rules/**"
+      - "reports/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update-mihomo-rules-main
+  cancel-in-progress: false
+
+env:
+  MIHOMO_VERSION: v1.19.30
+  MIHOMO_ASSET: mihomo-linux-amd64-v1.19.30.gz
+  MIHOMO_SHA256: cf06ce2c7d1421bdbda14ee4a5b6046672dc35ebf8eecd8e77504ec3c0ed9a84
+  PYTHONDONTWRITEBYTECODE: "1"
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@42375524e23c412d93fb67b49958b491fce71c38 # v5.4.0
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check --requirement requirements.txt
+
+      - name: Download verified Mihomo
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/$MIHOMO_ASSET"
+          url="https://github.com/MetaCubeX/mihomo/releases/download/$MIHOMO_VERSION/$MIHOMO_ASSET"
+
+          curl --fail --location --silent --show-error --retry 3 \
+            --output "$archive" "$url"
+          printf '%s  %s\n' "$MIHOMO_SHA256" "$archive" | sha256sum --check --strict
+          gzip --decompress --stdout "$archive" > "$RUNNER_TEMP/mihomo"
+          chmod +x "$RUNNER_TEMP/mihomo"
+          "$RUNNER_TEMP/mihomo" -v
+
+      - name: Run unit tests
+        env:
+          MIHOMO_BIN: ${{ runner.temp }}/mihomo
+        run: python -B -m unittest discover -s tests -v
+
+      - name: Build rules in staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf "$RUNNER_TEMP/jyrules-build"
+          python scripts/build_rules.py \
+            --tasks tasks \
+            --output-root "$RUNNER_TEMP/jyrules-build" \
+            --repo-root "$GITHUB_WORKSPACE" \
+            --mihomo "$RUNNER_TEMP/mihomo" \
+            --mihomo-version "$MIHOMO_VERSION"
+          test -d "$RUNNER_TEMP/jyrules-build/rules"
+          test -f "$RUNNER_TEMP/jyrules-build/reports/conversion-report.json"
+
+      - name: Upload verified output
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: jyrules-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            ${{ runner.temp }}/jyrules-build/rules
+            ${{ runner.temp }}/jyrules-build/reports
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          persist-credentials: false
+
+      - name: Download verified output
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          name: jyrules-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/jyrules-publish
+
+      - name: Replace generated output
+        shell: bash
+        run: |
+          set -euo pipefail
+          stage="$RUNNER_TEMP/jyrules-publish"
+
+          if [[ "$(git rev-parse HEAD)" != "$GITHUB_SHA" ]]; then
+            echo "main changed while this build was running; refusing to publish stale output." >&2
+            exit 1
+          fi
+
+          rm -rf rules.next reports.next
+          mkdir rules.next
+          if [[ -d "$stage/rules" ]]; then
+            cp -a "$stage/rules/." rules.next/
+          fi
+          test -d "$stage/reports"
+          cp -a "$stage/reports" reports.next
+          rm -rf rules reports
+          mv rules.next rules
+          mv reports.next reports
+
+      - name: Commit changed output
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -z "$(git status --porcelain -- rules reports)" ]]; then
+            echo "Generated rules are unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- rules reports
+          git commit -m "chore: update generated Mihomo rules"
+          auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
+          git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic $auth" \
+            push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

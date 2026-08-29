@@ -1,0 +1,30 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "CN_Domain"
+
+[[sources]]
+name = "Skk_Direct CN domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/direct.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Skk_Domestic CN domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/domestic.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "DW_CN CN domains"
+url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_CN CN domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/cn.mrs"
+format = "mrs"
+optional = true

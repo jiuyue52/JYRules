@@ -1,0 +1,42 @@
+version = 1
+enabled = true
+behavior = "ipcidr"
+output = "CN_IP"
+
+[[sources]]
+name = "Skk_cnip CN ip"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/china_ip.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Skk_cnipv6 CN ip"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Duakc_CNIP CN ip"
+url = "https://github.com/duakc/geoip/raw/refs/heads/release/mrs/cn.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_CNip CN ip"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/cn.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "XL_CNip CN ip"
+url = "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/cn_ip.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "DW_CNip CN ip"
+url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs"
+format = "mrs"
+optional = true

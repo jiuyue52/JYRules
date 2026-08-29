@@ -1,0 +1,17 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "Stream_Domain"
+
+[[sources]]
+name = "Skk_Stream Stream domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "DW_Media Stream domains"
+url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/media.mrs"
+format = "mrs"
+optional = true
+

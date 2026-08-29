@@ -1,0 +1,17 @@
+version = 1
+enabled = true
+behavior = "domain"
+output = "GamesCN_Domain"
+
+[[sources]]
+name = "MX_SteamCN Games CN domains"
+url = "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/steam@cn.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "XL_GamesCN Games CN domains"
+url = "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/category-cngames.mrs"
+format = "mrs"
+optional = true
+

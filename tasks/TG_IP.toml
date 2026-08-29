@@ -1,0 +1,18 @@
+version = 1
+enabled = true
+behavior = "ipcidr"
+output = "TG_IP"
+
+[[sources]]
+name = "Skk_TgIP TG ip"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/telegram.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Bett_TGIP TG ip"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/telegram.mrs"
+format = "mrs"
+optional = true
+
+
