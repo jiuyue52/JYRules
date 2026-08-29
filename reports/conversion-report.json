@@ -323,8 +323,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 34581,
-          "accepted_rules_before_deduplication": 34581,
+          "candidate_rules": 34761,
+          "accepted_rules_before_deduplication": 34761,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -373,18 +373,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11689,
+        "source_rules_after_semantic_deduplication": 11693,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11689,
+        "main_rules": 11693,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69354,
-          "exact_duplicates_removed": 23141,
-          "parent_covered_removed": 34285,
+          "input_rules": 69534,
+          "exact_duplicates_removed": 23140,
+          "parent_covered_removed": 34462,
           "semantic_merges": 239,
-          "output_rules": 11689
+          "output_rules": 11693
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -403,15 +403,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11689,
-          "sha256": "f6f6c65bc94704afc7ffe0a1fe2534108c4e4f3e64d6625a536a3ca80c4284a4"
+          "rules": 11693,
+          "sha256": "f55970dec76ec34837e1e9e238868c4704ab61f4146a399c6d43f2f5ce2e0b7c"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11689,
-          "sha256": "96a660ccad82ee361dcb30609757024cf0c5aee50c85995a7384d555628dcaff"
+          "rules": 11693,
+          "sha256": "506b0549708984c13115522691bbc8c463f9a558e378a4b9582b328cf3156c51"
         }
       ]
     },
