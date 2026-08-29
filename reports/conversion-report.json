@@ -1,0 +1,913 @@
+{
+  "schema_version": 2,
+  "mihomo_version": "v1.19.30",
+  "summary": {
+    "task_definitions": 10,
+    "enabled_tasks": 10,
+    "disabled_tasks": 0,
+    "generated_files": 20,
+    "mrs_files": 10,
+    "partial_overlaps_retained": 0
+  },
+  "disabled": [],
+  "tasks": [
+    {
+      "task": "AI_Domain",
+      "definition": "AI_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "AI_Domain",
+      "sources": [
+        {
+          "name": "XL_AI AI domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/ai.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/ai.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 30,
+          "accepted_rules_before_deduplication": 30,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "LL_AI AI domains",
+          "kind": "url",
+          "source": "https://github.com/666OS/rules/raw/release/mihomo/domain/AI.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/666OS/rules/release/mihomo/domain/AI.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 259,
+          "accepted_rules_before_deduplication": 259,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 227,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 227,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 289,
+          "exact_duplicates_removed": 2,
+          "parent_covered_removed": 60,
+          "semantic_merges": 0,
+          "output_rules": 227
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/AI_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 227,
+          "sha256": "a9ecde1bde79454061185bd4369ea1e86341e6e975a0923e5cd49e90c2ac5b0c"
+        },
+        {
+          "path": "rules/domain/AI_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 227,
+          "sha256": "20db25b87c119ec2f82f74744221211d02f6f66986b3892433f1536fd3408a77"
+        }
+      ]
+    },
+    {
+      "task": "Apple_IP",
+      "definition": "Apple_IP.toml",
+      "behavior": "ipcidr",
+      "output_directory": "rules/ip",
+      "output": "Apple_IP",
+      "sources": [
+        {
+          "name": "Skk_AppleIP Apple ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/apple_services.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/apple_services.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 10,
+          "accepted_rules_before_deduplication": 10,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_AppleIP Apple ip",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/apple.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/apple.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 167,
+          "accepted_rules_before_deduplication": 167,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 52,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 52,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 177,
+          "exact_duplicates_removed": 6,
+          "parent_covered_removed": 119,
+          "semantic_merges": 0,
+          "output_rules": 52
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/ip/Apple_IP.mrs",
+          "format": "mrs",
+          "behavior": "ipcidr",
+          "rules": 52,
+          "sha256": "5c47840d5f8c350143e4b0cff927fb0f97cc4f8b9bd304a86aa783fae13d5884"
+        },
+        {
+          "path": "rules/ip/Apple_IP.txt",
+          "format": "text",
+          "behavior": "ipcidr",
+          "rules": 52,
+          "sha256": "dc6fb96a25a19b83cd88ab185cc9b64c8eae38548e68640fa438b4ec9f96fb32"
+        }
+      ]
+    },
+    {
+      "task": "CN_Domain",
+      "definition": "CN_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "CN_Domain",
+      "sources": [
+        {
+          "name": "Skk_Direct CN domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/direct.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/direct.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 172,
+          "accepted_rules_before_deduplication": 172,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Domestic CN domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/domestic.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/domestic.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 864,
+          "accepted_rules_before_deduplication": 864,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "DW_CN CN domains",
+          "kind": "url",
+          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/bcf23468-0b0c-4ef1-a0fc-1fbb7def611c",
+          "detected_format": "mrs",
+          "candidate_rules": 110722,
+          "accepted_rules_before_deduplication": 110722,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_CN CN domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 110567,
+          "accepted_rules_before_deduplication": 110567,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 111037,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 111037,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 222325,
+          "exact_duplicates_removed": 110735,
+          "parent_covered_removed": 553,
+          "semantic_merges": 0,
+          "output_rules": 111037
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/CN_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 111037,
+          "sha256": "756592b1e2dc0a020c0dd1da83cc7ab77eed119dd805724614e67a0d7b9c322b"
+        },
+        {
+          "path": "rules/domain/CN_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 111037,
+          "sha256": "6400f08a7b09c27bd7e19e9a257d71d9d9d67598a12fd10f3885f6a5a093024d"
+        }
+      ]
+    },
+    {
+      "task": "CN_IP",
+      "definition": "CN_IP.toml",
+      "behavior": "ipcidr",
+      "output_directory": "rules/ip",
+      "output": "CN_IP",
+      "sources": [
+        {
+          "name": "Skk_cnip CN ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/china_ip.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 3905,
+          "accepted_rules_before_deduplication": 3905,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_cnipv6 CN ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 3406,
+          "accepted_rules_before_deduplication": 3406,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Duakc_CNIP CN ip",
+          "kind": "url",
+          "source": "https://github.com/duakc/geoip/raw/refs/heads/release/mrs/cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 34581,
+          "accepted_rules_before_deduplication": 34581,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_CNip CN ip",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 10672,
+          "accepted_rules_before_deduplication": 10672,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "XL_CNip CN ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/cn_ip.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/cn_ip.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 7667,
+          "accepted_rules_before_deduplication": 7667,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "DW_CNip CN ip",
+          "kind": "url",
+          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/45790d48-e710-481a-9401-fde896e0cd4a",
+          "detected_format": "mrs",
+          "candidate_rules": 9123,
+          "accepted_rules_before_deduplication": 9123,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 11689,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 11689,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 69354,
+          "exact_duplicates_removed": 23141,
+          "parent_covered_removed": 34285,
+          "semantic_merges": 239,
+          "output_rules": 11689
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/ip/CN_IP.mrs",
+          "format": "mrs",
+          "behavior": "ipcidr",
+          "rules": 11689,
+          "sha256": "f6f6c65bc94704afc7ffe0a1fe2534108c4e4f3e64d6625a536a3ca80c4284a4"
+        },
+        {
+          "path": "rules/ip/CN_IP.txt",
+          "format": "text",
+          "behavior": "ipcidr",
+          "rules": 11689,
+          "sha256": "96a660ccad82ee361dcb30609757024cf0c5aee50c85995a7384d555628dcaff"
+        }
+      ]
+    },
+    {
+      "task": "Games_Domain",
+      "definition": "Games_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "Games_Domain",
+      "sources": [
+        {
+          "name": "DW_Games Games domains",
+          "kind": "url",
+          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/games.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/064cebee-0fc3-4d27-8b1a-978d4b84a3c9",
+          "detected_format": "mrs",
+          "candidate_rules": 899,
+          "accepted_rules_before_deduplication": 899,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "MX_Steam Games domains",
+          "kind": "url",
+          "source": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/steam.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 60,
+          "accepted_rules_before_deduplication": 60,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 914,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 914,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 959,
+          "exact_duplicates_removed": 32,
+          "parent_covered_removed": 13,
+          "semantic_merges": 0,
+          "output_rules": 914
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/Games_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 914,
+          "sha256": "da2e8afaa7fc7229fa5068d9b1125e72fbcf9b80630c23ab76dd2df9ec7e5b2f"
+        },
+        {
+          "path": "rules/domain/Games_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 914,
+          "sha256": "a2e13d2aa1380afd5b418f53698140133a1a05a896e2fdfc606e4aaf2506f237"
+        }
+      ]
+    },
+    {
+      "task": "GamesCN_Domain",
+      "definition": "GamesCN_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "GamesCN_Domain",
+      "sources": [
+        {
+          "name": "MX_SteamCN Games CN domains",
+          "kind": "url",
+          "source": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/steam@cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam%40cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 19,
+          "accepted_rules_before_deduplication": 19,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "XL_GamesCN Games CN domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/category-cngames.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/category-cngames.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 37,
+          "accepted_rules_before_deduplication": 37,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 37,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 37,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 56,
+          "exact_duplicates_removed": 19,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 37
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/GamesCN_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 37,
+          "sha256": "69277435faafabdc0836cf14901918302efff1f59b6eb107becc16931749c804"
+        },
+        {
+          "path": "rules/domain/GamesCN_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 37,
+          "sha256": "0bec91e5332bf3eaf8c2427c53b523bbbf87fe97fd37373821aa53b2f9a93bfb"
+        }
+      ]
+    },
+    {
+      "task": "Microsoft_Domain",
+      "definition": "Microsoft_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "Microsoft_Domain",
+      "sources": [
+        {
+          "name": "MX_Microsoft Microsoft domains",
+          "kind": "url",
+          "source": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/microsoft.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/microsoft.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 746,
+          "accepted_rules_before_deduplication": 746,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Microsoft Microsoft domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/microsoft.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/microsoft.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 80,
+          "accepted_rules_before_deduplication": 80,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 659,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 659,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 826,
+          "exact_duplicates_removed": 58,
+          "parent_covered_removed": 109,
+          "semantic_merges": 0,
+          "output_rules": 659
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/Microsoft_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 659,
+          "sha256": "2a6cf9e00760ee190055034841b1758ec26ec96c2940452a3a981d3df218aa70"
+        },
+        {
+          "path": "rules/domain/Microsoft_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 659,
+          "sha256": "992c95d0bb8898075f9b66d1b071d1c77f1dcda30337509290b740cd8e5d2ce5"
+        }
+      ]
+    },
+    {
+      "task": "Proxy_Domain",
+      "definition": "Proxy_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "Proxy_Domain",
+      "sources": [
+        {
+          "name": "Skk_Global Proxy domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/global.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/global.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 1259,
+          "accepted_rules_before_deduplication": 1259,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_geolocation-!cn Proxy domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-!cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/geolocation-!cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 34114,
+          "accepted_rules_before_deduplication": 34114,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "DW_proxy Proxy domains",
+          "kind": "url",
+          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/761b0027-c7b6-4a5c-84d9-60d6b102e6cb",
+          "detected_format": "mrs",
+          "candidate_rules": 26374,
+          "accepted_rules_before_deduplication": 26374,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 33347,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 33347,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 61747,
+          "exact_duplicates_removed": 20212,
+          "parent_covered_removed": 8188,
+          "semantic_merges": 0,
+          "output_rules": 33347
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/Proxy_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 33347,
+          "sha256": "2364563117244becedc4f16b4eadab1348e04ca9c11d8abd75822852d99cb453"
+        },
+        {
+          "path": "rules/domain/Proxy_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 33347,
+          "sha256": "a453ca1ee90a342e8951283e20ab35419ad89253f714bb56d634c35a887cb627"
+        }
+      ]
+    },
+    {
+      "task": "Stream_Domain",
+      "definition": "Stream_Domain.toml",
+      "behavior": "domain",
+      "output_directory": "rules/domain",
+      "output": "Stream_Domain",
+      "sources": [
+        {
+          "name": "Skk_Stream Stream domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 258,
+          "accepted_rules_before_deduplication": 258,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "DW_Media Stream domains",
+          "kind": "url",
+          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/media.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/ae7ccc2a-6892-45e6-a0cd-65e7a75ce015",
+          "detected_format": "mrs",
+          "candidate_rules": 1283,
+          "accepted_rules_before_deduplication": 1283,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 1307,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 1307,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 1541,
+          "exact_duplicates_removed": 189,
+          "parent_covered_removed": 45,
+          "semantic_merges": 0,
+          "output_rules": 1307
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/domain/Stream_Domain.mrs",
+          "format": "mrs",
+          "behavior": "domain",
+          "rules": 1307,
+          "sha256": "f277c40a45785ad2f030c112fd2e6771ef7a65bfed52579f498e93babc473791"
+        },
+        {
+          "path": "rules/domain/Stream_Domain.txt",
+          "format": "text",
+          "behavior": "domain",
+          "rules": 1307,
+          "sha256": "f3373fabded1ba922f29257d48a194c1e6fdd84278e5379bcb7240a4159240f1"
+        }
+      ]
+    },
+    {
+      "task": "TG_IP",
+      "definition": "TG_IP.toml",
+      "behavior": "ipcidr",
+      "output_directory": "rules/ip",
+      "output": "TG_IP",
+      "sources": [
+        {
+          "name": "Skk_TgIP TG ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/telegram.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/telegram.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 13,
+          "accepted_rules_before_deduplication": 13,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_TGIP TG ip",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/telegram.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/telegram.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 12,
+          "accepted_rules_before_deduplication": 12,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 12,
+        "exclude_rules_after_semantic_deduplication": 0,
+        "main_rules": 12,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 25,
+          "exact_duplicates_removed": 10,
+          "parent_covered_removed": 3,
+          "semantic_merges": 0,
+          "output_rules": 12
+        },
+        "exclude_deduplication": {
+          "input_rules": 0,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 0
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/ip/TG_IP.mrs",
+          "format": "mrs",
+          "behavior": "ipcidr",
+          "rules": 12,
+          "sha256": "8eedddc4f6e49602189dcfd7a7841f96adad5cb839778b7dda6a493bc19915b5"
+        },
+        {
+          "path": "rules/ip/TG_IP.txt",
+          "format": "text",
+          "behavior": "ipcidr",
+          "rules": 12,
+          "sha256": "5922eb49648b6a53b3fbc3262651970a41b1fa5118b44572b43bd53a7b528267"
+        }
+      ]
+    }
+  ]
+}
