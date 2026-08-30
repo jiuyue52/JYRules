@@ -213,10 +213,10 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/bcf23468-0b0c-4ef1-a0fc-1fbb7def611c",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/5edb7f53-c78c-4af5-91c9-ecaaeb2f9bde",
           "detected_format": "mrs",
-          "candidate_rules": 110722,
-          "accepted_rules_before_deduplication": 110722,
+          "candidate_rules": 110697,
+          "accepted_rules_before_deduplication": 110697,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -229,26 +229,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 110567,
-          "accepted_rules_before_deduplication": 110567,
+          "candidate_rules": 110549,
+          "accepted_rules_before_deduplication": 110549,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 111038,
+        "source_rules_after_semantic_deduplication": 111013,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 111038,
+        "main_rules": 111013,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 222326,
-          "exact_duplicates_removed": 110735,
+          "input_rules": 222283,
+          "exact_duplicates_removed": 110717,
           "parent_covered_removed": 553,
           "semantic_merges": 0,
-          "output_rules": 111038
+          "output_rules": 111013
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -267,15 +267,15 @@
           "path": "rules/domain/CN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 111038,
-          "sha256": "f7cb807b9203bf6bb1dd2e4265fc2a20b083489132ffc68d6ca0d2df463aaa68"
+          "rules": 111013,
+          "sha256": "e4680265917d966fe4f4368ee0dfaee79342d5164c74655a5dd3b43ff263cc41"
         },
         {
           "path": "rules/domain/CN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 111038,
-          "sha256": "4dccd161e74d5e73b930adb0ae95e111ffac28d86bfb04202b9324ade8eb539a"
+          "rules": 111013,
+          "sha256": "ef44ba4184e83ba307becb727250ba3e1b7ab5b868173a1cfdac92c81cf65daf"
         }
       ]
     },
@@ -337,8 +337,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 10672,
-          "accepted_rules_before_deduplication": 10672,
+          "candidate_rules": 10673,
+          "accepted_rules_before_deduplication": 10673,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -363,28 +363,28 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/45790d48-e710-481a-9401-fde896e0cd4a",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/de9bbdc3-6acd-4d9d-a0b9-ed1f9cd3afeb",
           "detected_format": "mrs",
-          "candidate_rules": 9123,
-          "accepted_rules_before_deduplication": 9123,
+          "candidate_rules": 9419,
+          "accepted_rules_before_deduplication": 9419,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11693,
+        "source_rules_after_semantic_deduplication": 11670,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11693,
+        "main_rules": 11670,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69534,
-          "exact_duplicates_removed": 23140,
-          "parent_covered_removed": 34462,
-          "semantic_merges": 239,
-          "output_rules": 11693
+          "input_rules": 69831,
+          "exact_duplicates_removed": 23390,
+          "parent_covered_removed": 34506,
+          "semantic_merges": 265,
+          "output_rules": 11670
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -403,15 +403,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11693,
-          "sha256": "f55970dec76ec34837e1e9e238868c4704ab61f4146a399c6d43f2f5ce2e0b7c"
+          "rules": 11670,
+          "sha256": "5d48f918331e929035d77ba2ff4a025a50b01c8abd59cdc657392c9c3b0548c8"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11693,
-          "sha256": "506b0549708984c13115522691bbc8c463f9a558e378a4b9582b328cf3156c51"
+          "rules": 11670,
+          "sha256": "3f4b2e0d55587b8135c940c83ddadca5eecfc4cf7e5ac4a5789c8f072a71831a"
         }
       ]
     },
@@ -429,7 +429,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/064cebee-0fc3-4d27-8b1a-978d4b84a3c9",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/6396ac98-079f-4194-8db7-6feb66209eb4",
           "detected_format": "mrs",
           "candidate_rules": 899,
           "accepted_rules_before_deduplication": 899,
@@ -697,7 +697,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/761b0027-c7b6-4a5c-84d9-60d6b102e6cb",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/5da6cade-278a-4bef-b51c-70fb962bc0fc",
           "detected_format": "mrs",
           "candidate_rules": 26374,
           "accepted_rules_before_deduplication": 26374,
@@ -777,7 +777,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/ae7ccc2a-6892-45e6-a0cd-65e7a75ce015",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/f96256a7-4291-4eb0-a12f-7d121b737dca",
           "detected_format": "mrs",
           "candidate_rules": 1283,
           "accepted_rules_before_deduplication": 1283,
