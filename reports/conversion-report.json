@@ -309,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3406,
-          "accepted_rules_before_deduplication": 3406,
+          "candidate_rules": 3397,
+          "accepted_rules_before_deduplication": 3397,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -380,10 +380,10 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69841,
-          "exact_duplicates_removed": 23396,
-          "parent_covered_removed": 34506,
-          "semantic_merges": 267,
+          "input_rules": 69832,
+          "exact_duplicates_removed": 23381,
+          "parent_covered_removed": 34513,
+          "semantic_merges": 266,
           "output_rules": 11672
         },
         "exclude_deduplication": {
@@ -404,14 +404,14 @@
           "format": "mrs",
           "behavior": "ipcidr",
           "rules": 11672,
-          "sha256": "f57456db83f16419cb6c9b957161dc5ee2063ea73ee02759e27a3e6a9a32e624"
+          "sha256": "d905625e18cc3744d582fa1223d7a5b5c0532d87cd72e9144a55a122bc5a9e2e"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
           "rules": 11672,
-          "sha256": "43d96387e0e9c514f236b7bb91569c43ec0da55d87ecfc335c3bfe9656f621cd"
+          "sha256": "9701bb9d61352251f8f2bb3991f066d6ad685797cc2f1851c925a47831bd28c8"
         }
       ]
     },
