@@ -323,8 +323,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 34761,
-          "accepted_rules_before_deduplication": 34761,
+          "candidate_rules": 34762,
+          "accepted_rules_before_deduplication": 34762,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -380,8 +380,8 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69770,
-          "exact_duplicates_removed": 23381,
+          "input_rules": 69771,
+          "exact_duplicates_removed": 23382,
           "parent_covered_removed": 34485,
           "semantic_merges": 267,
           "output_rules": 11637
