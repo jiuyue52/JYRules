@@ -1166,7 +1166,6 @@
 +.2gis.com
 +.2gis.tech
 +.2gugu.com
-+.2heng.xin
 +.2hz006.com
 +.2k.com
 +.2kcoretech.online
@@ -6475,6 +6474,7 @@
 +.asahi.com
 +.asasmr.com
 +.ascelibrary.org
++.asda
 +.ase69.com
 +.asebay.com
 +.asexdoll.com
@@ -11965,6 +11965,7 @@
 +.dtiblog.com
 +.dtku41.xyz
 +.dtsell.com
++.dtv
 +.dtv2009offers.com
 +.dtvce.com
 +.dualeotruyen1s.com
@@ -14547,6 +14548,7 @@
 +.galenwu.com
 +.gallery-dump.club
 +.galleryarchives.com
++.gallo
 +.gallup
 +.galstars.net
 +.gamboporn.com
@@ -19104,6 +19106,7 @@
 +.kodingen.com
 +.koeln
 +.kokvip1.com
++.komatsu
 +.komoot.com
 +.komoot.net
 +.kompoz.com
@@ -25790,6 +25793,7 @@
 +.sberbank.com
 +.sbercloud.tech
 +.sbgkstv.shop
++.sbi
 +.sbitravelcard.com
 +.sbme.me
 +.sbnation.com
@@ -31498,13 +31502,15 @@
 +.xn--74q434dwff.com
 +.xn--74q434dwff.net
 +.xn--7hv594h.com
++.xn--80adxhks
 +.xn--80ao21a
 +.xn--80aqcf7a6do.com
++.xn--80asehdb
++.xn--80aswg
 +.xn--90a3ac
 +.xn--90ab.com
 +.xn--90ae
 +.xn--90aifd0az.shop
-+.xn--90aifd0azb.xn--p1acf
 +.xn--90ais
 +.xn--90wwvt03e.com
 +.xn--9iqy04a7fi01l.com
@@ -31514,11 +31520,13 @@
 +.xn--av-o44ep1d.com
 +.xn--b1aechhj6bof8g5a.site
 +.xn--b4w605ferd
++.xn--c1avg
 +.xn--cck4d8b3009a.com
 +.xn--cckwcxetd
 +.xn--cg4bki
 +.xn--czq75pvv1aj5c.org
 +.xn--d1abkf4ap.fun
++.xn--d1acj3b
 +.xn--d1alf
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1a4c
@@ -31599,6 +31607,7 @@
 +.xn--o3cw4h
 +.xn--ogbpf8fl
 +.xn--oiq.cc
++.xn--p1acf
 +.xn--p1ai
 +.xn--pearsonenespaol-brb.com
 +.xn--pgbs0dh

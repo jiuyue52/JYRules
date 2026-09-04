@@ -229,26 +229,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 110352,
-          "accepted_rules_before_deduplication": 110352,
+          "candidate_rules": 109074,
+          "accepted_rules_before_deduplication": 109074,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 110832,
+        "source_rules_after_semantic_deduplication": 110530,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 110832,
+        "main_rules": 110530,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 221884,
-          "exact_duplicates_removed": 110499,
-          "parent_covered_removed": 553,
+          "input_rules": 220606,
+          "exact_duplicates_removed": 109587,
+          "parent_covered_removed": 489,
           "semantic_merges": 0,
-          "output_rules": 110832
+          "output_rules": 110530
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -267,15 +267,15 @@
           "path": "rules/domain/CN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 110832,
-          "sha256": "0c612855b86520b8287a2b2ddfcaa6be352aaece0e22ed1d90368b0ef229086b"
+          "rules": 110530,
+          "sha256": "4cfe156501553bafc9002dd0192d6c41f16c4365ce7d46fafd8096d48d1a7339"
         },
         {
           "path": "rules/domain/CN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 110832,
-          "sha256": "82353fec3838ecc851f6a69ee977beb754e18094807740251645b82c97b36f22"
+          "rules": 110530,
+          "sha256": "247cfca6561e34ae09fca4461f933e33b39f12e7e0e672c4d9b3535811865a7d"
         }
       ]
     },
@@ -685,8 +685,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/geolocation-!cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 34117,
-          "accepted_rules_before_deduplication": 34117,
+          "candidate_rules": 34116,
+          "accepted_rules_before_deduplication": 34116,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -707,18 +707,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 33350,
+        "source_rules_after_semantic_deduplication": 33359,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 33350,
+        "main_rules": 33359,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 61758,
-          "exact_duplicates_removed": 20219,
-          "parent_covered_removed": 8189,
+          "input_rules": 61757,
+          "exact_duplicates_removed": 20208,
+          "parent_covered_removed": 8190,
           "semantic_merges": 0,
-          "output_rules": 33350
+          "output_rules": 33359
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -737,15 +737,15 @@
           "path": "rules/domain/Proxy_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 33350,
-          "sha256": "b73a314d88de73157cf6a343d9dace45f88d10872fe1911c7f7b849e7f1f7912"
+          "rules": 33359,
+          "sha256": "ee4abb335ab83348441a533bcf56b8425d9eef9bfeab64a64f4264738cdeb830"
         },
         {
           "path": "rules/domain/Proxy_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 33350,
-          "sha256": "fd8e2247488c15305fc6d54cde3e3615aa03b22a982f3098ec3f76cf5a3f358b"
+          "rules": 33359,
+          "sha256": "c20c8145e730a98c128ddf95185ed2a6d514ae2716af58c61137f1ac67db08c7"
         }
       ]
     },
