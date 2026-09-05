@@ -309,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3394,
-          "accepted_rules_before_deduplication": 3394,
+          "candidate_rules": 3395,
+          "accepted_rules_before_deduplication": 3395,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -380,9 +380,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71394,
-          "exact_duplicates_removed": 23306,
-          "parent_covered_removed": 36023,
+          "input_rules": 71395,
+          "exact_duplicates_removed": 23305,
+          "parent_covered_removed": 36025,
           "semantic_merges": 265,
           "output_rules": 11800
         },
@@ -856,29 +856,24 @@
           "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/telegram.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/telegram.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 12,
-          "accepted_rules_before_deduplication": 12,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/telegram.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 12,
+        "source_rules_after_semantic_deduplication": 13,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 12,
+        "main_rules": 13,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 25,
-          "exact_duplicates_removed": 10,
-          "parent_covered_removed": 3,
+          "input_rules": 13,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 12
+          "output_rules": 13
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -897,15 +892,15 @@
           "path": "rules/ip/TG_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 12,
-          "sha256": "8eedddc4f6e49602189dcfd7a7841f96adad5cb839778b7dda6a493bc19915b5"
+          "rules": 13,
+          "sha256": "37ca2736970b8c39a04cd9dd4c587c6cba78df2e9af8af20a758fc3567c9a1e7"
         },
         {
           "path": "rules/ip/TG_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 12,
-          "sha256": "5922eb49648b6a53b3fbc3262651970a41b1fa5118b44572b43bd53a7b528267"
+          "rules": 13,
+          "sha256": "f24ff7c22b3707d33e6dccd65822bbcfbb7806805a8738b05b2248a9450ce377"
         }
       ]
     }
