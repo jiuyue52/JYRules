@@ -509,7 +509,6 @@
 +.0574bbs.com
 +.0574nbjg.com
 +.0575.host
-+.057555.com
 +.0575bbs.com
 +.0575jb.com
 +.0575life.com
@@ -2462,6 +2461,7 @@
 +.1zhe.com
 +.1zhengji.com
 +.1zhixue.com
++.1zidc.com
 +.1zj.com
 +.1zjob.com
 +.1zu.com
@@ -3987,7 +3987,6 @@
 +.393.com
 +.3937.com
 +.3939339.com
-+.394394.com
 +.3949006e510272.beer
 +.394afb34a1020.beer
 +.39507037133f.icu
@@ -16422,6 +16421,7 @@
 +.bktsj.com
 +.bkvps.com
 +.bkweek.com
++.bkwsq.com
 +.bkzhibo.com
 +.bkzzy.com
 +.bl.com
@@ -18326,6 +18326,7 @@
 +.cangzhouhd.com
 +.canhighcenter.com
 +.canhot.net
++.canhui.xyz
 +.caniculab.com
 +.canidc.com
 +.canjio.com
@@ -22577,7 +22578,6 @@
 +.ck921.com
 +.ckair.com
 +.ckan.tv
-+.ckbv165.org
 +.ckd-mbd.com
 +.ckd.im
 +.ckd.so
@@ -33347,7 +33347,6 @@
 +.fapiao.com
 +.fapiao365.com
 +.fapiaobang.com
-+.faq-whtasapp.com
 +.faqianjia.com
 +.faqiren.com
 +.far-china.com
@@ -38609,7 +38608,6 @@
 +.gredmedic.com
 +.gree-jd.com
 +.gree.com
-+.greebox.com
 +.greedc.com
 +.greedongaohotel.com
 +.greefinance.com
@@ -58618,7 +58616,6 @@
 +.laijuba.com
 +.laikan.com
 +.laikanxia.com
-+.laikanxing.com
 +.laikanxs.com
 +.laike.net
 +.laiketui.com
@@ -59547,7 +59544,6 @@
 +.leiyunge.com
 +.leiyunge.net
 +.leji.com
-+.lejiachao.com
 +.lejian.com
 +.lejiao.tv
 +.lejiaolexue.com
@@ -63364,7 +63360,6 @@
 +.maproelec.com
 +.maptalks.com
 +.mapvq.com
-+.maqingbo.com
 +.maqinnews.com
 +.mararun.com
 +.marathonbm.com
@@ -75952,6 +75947,7 @@
 +.redisfans.com
 +.redmagic.com
 +.redmart.com
++.redmid.com
 +.redmou.com
 +.rednetdns.com
 +.rednote.com
@@ -92444,6 +92440,7 @@
 +.vxiaocheng.com
 +.vxinyou.com
 +.vxixi.com
++.vxni.ink
 +.vxo7tu.com
 +.vxocok3197.vip
 +.vxsnk.com
