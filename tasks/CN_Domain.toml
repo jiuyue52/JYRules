@@ -16,11 +16,7 @@ format = "mrs"
 optional = true
 
 
-[[sources]]
-name = "DW_CN CN domains"
-url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.mrs"
-format = "mrs"
-optional = true
+
 
 
 [[sources]]
@@ -29,8 +25,3 @@ url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/c
 format = "mrs"
 optional = true
 
-[[sources]]
-name = "Bett_CN geolocation-cn domains"
-url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-cn.mrs"
-format = "mrs"
-optional = true
