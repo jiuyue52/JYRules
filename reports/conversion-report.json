@@ -207,20 +207,6 @@
           "rejected": {}
         },
         {
-          "name": "DW_CN CN domains",
-          "kind": "url",
-          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.mrs",
-          "declared_format": "mrs",
-          "optional": true,
-          "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/7c29b624-a514-40b9-93c2-bba22239ceaa",
-          "detected_format": "mrs",
-          "candidate_rules": 110532,
-          "accepted_rules_before_deduplication": 110532,
-          "rejected_rules": 0,
-          "rejected": {}
-        },
-        {
           "name": "Bett_CN CN domains",
           "kind": "url",
           "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/cn.mrs",
@@ -233,36 +219,22 @@
           "accepted_rules_before_deduplication": 109100,
           "rejected_rules": 0,
           "rejected": {}
-        },
-        {
-          "name": "Bett_CN geolocation-cn domains",
-          "kind": "url",
-          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-cn.mrs",
-          "declared_format": "mrs",
-          "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/geolocation-cn.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 5303,
-          "accepted_rules_before_deduplication": 5303,
-          "rejected_rules": 0,
-          "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 110545,
+        "source_rules_after_semantic_deduplication": 109304,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 110545,
+        "main_rules": 109304,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 225972,
-          "exact_duplicates_removed": 113788,
-          "parent_covered_removed": 1639,
+          "input_rules": 110137,
+          "exact_duplicates_removed": 663,
+          "parent_covered_removed": 170,
           "semantic_merges": 0,
-          "output_rules": 110545
+          "output_rules": 109304
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -281,15 +253,15 @@
           "path": "rules/domain/CN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 110545,
-          "sha256": "6d06665fd032632ca128c5c654d6c265de0a7c20c8bf6cd9f4a4adc10ceca9ab"
+          "rules": 109304,
+          "sha256": "66ca92d070916624ff847a3930c96e9c9ba4d2c5abca265d4deb9aa607ab9abc"
         },
         {
           "path": "rules/domain/CN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 110545,
-          "sha256": "18b231ad316dbef9b8f2b601e3a545997466d4dc485356dd6ecb9b9a841f7779"
+          "rules": 109304,
+          "sha256": "fa8a611222a9b310a240a41a49340be6e0cb229dac3dcec446813d8da9b789b8"
         }
       ]
     },
@@ -309,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3903,
-          "accepted_rules_before_deduplication": 3903,
+          "candidate_rules": 3902,
+          "accepted_rules_before_deduplication": 3902,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -394,8 +366,8 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71264,
-          "exact_duplicates_removed": 23320,
+          "input_rules": 71263,
+          "exact_duplicates_removed": 23319,
           "parent_covered_removed": 35866,
           "semantic_merges": 268,
           "output_rules": 11810
