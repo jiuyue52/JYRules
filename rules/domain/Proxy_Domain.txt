@@ -25398,6 +25398,7 @@
 +.roborecall.com
 +.robotoffice.com
 +.robustnessiskey.com
++.roc-taiwan.org
 +.rocket-inc.net
 +.rocket.chat
 +.rocketfishproducts.com
@@ -25449,6 +25450,7 @@
 +.roupuc.cfd
 +.rourouwu.info
 +.rousewu.xyz
++.roushuwo.com
 +.routerboard.com
 +.routledge.com
 +.routledgehandbooks.com
@@ -27677,6 +27679,7 @@
 +.taiwanbible.com
 +.taiwandaily.net
 +.taiwandc.org
++.taiwanembassy.org
 +.taiwanhot.net
 +.taiwanjustice.com
 +.taiwanjustice.net
