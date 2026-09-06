@@ -10523,7 +10523,6 @@
 +.commerceos.com
 +.communistcrimes.org
 +.community
-+.community.oneplus.com
 +.communitychoicecu.com
 +.como-hackearfacebook.com
 +.comodo.com
@@ -16338,7 +16337,6 @@
 +.home-song.com
 +.home.blog
 +.home.saxo
-+.home.sina.com
 +.homealonemilfs.com
 +.homebox.com
 +.homeboxoffice.com
@@ -33194,7 +33192,6 @@
 +.zsrhao.com
 +.zsuxtx-ktv.shop
 +.ztbzh.com
-+.ztedevices.com
 +.zteman.net
 +.ztrendlab.com
 +.zuckerberg.com
@@ -33303,6 +33300,7 @@ cbsservice.aws.syncbak.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
 cisco.evergage.com
+community.oneplus.com
 crl.versign.net
 databank.worldbank.org
 datarouter.apps.netherrealm.com

@@ -18419,6 +18419,7 @@
 +.capsuleshanghai.com
 +.captain-cro.com
 +.captainbi.com
++.captive.apple.com
 +.capturetheflag.fun
 +.capvision.com
 +.capwhale.com
@@ -23171,6 +23172,7 @@
 +.cn.bing.net
 +.cn.net
 +.cn.pool.ntp.org
++.cn.samsungapps.com
 +.cn.sc.com
 +.cn0-6.com
 +.cn006.com
@@ -93271,6 +93273,7 @@
 +.wearosbox.com
 +.weartrends.com
 +.weasing.com
++.weather-data.apple.com
 +.weathercn.com
 +.weatherdt.com
 +.weatherol.com
@@ -110516,7 +110519,6 @@
 +.zzzzzz.me
 127.skk.moe
 aterm.me
-captive.apple.com
 cn.download.nvidia.com
 config.ubnt.com
 console.gl-inet.com
