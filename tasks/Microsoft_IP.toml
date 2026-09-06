@@ -1,0 +1,12 @@
+version = 1
+enabled = true
+behavior = "ipcidr"
+output = "Microsoft_IP"
+
+[[sources]]
+name = "Bett_Microsoft Microsoft ip"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/microsoft.mrs"
+format = "mrs"
+optional = true
+
+

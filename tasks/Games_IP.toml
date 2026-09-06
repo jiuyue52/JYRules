@@ -1,0 +1,12 @@
+version = 1
+enabled = true
+behavior = "ipcidr"
+output = "Games_IP"
+
+[[sources]]
+name = "Bett_Steam Steam ip"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/steam.mrs"
+format = "mrs"
+optional = true
+
+

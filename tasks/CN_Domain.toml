@@ -28,3 +28,9 @@ name = "Bett_CN CN domains"
 url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/cn.mrs"
 format = "mrs"
 optional = true
+
+[[sources]]
+name = "Bett_CN geolocation-cn domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-cn.mrs"
+format = "mrs"
+optional = true

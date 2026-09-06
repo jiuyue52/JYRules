@@ -15,3 +15,8 @@ url = "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosi
 format = "mrs"
 optional = true
 
+[[sources]]
+name = "Bett_Steam Games domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/steam.mrs"
+format = "mrs"
+optional = true
