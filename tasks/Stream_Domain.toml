@@ -72,7 +72,7 @@ optional = true
 
 [[sources]]
 name = "Bett_Netflix Netflix domains"
-url = "hhttps://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/netflix.mrs"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/netflix.mrs"
 format = "mrs"
 optional = true
 
