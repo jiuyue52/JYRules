@@ -121,8 +121,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/apple.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 167,
-          "accepted_rules_before_deduplication": 167,
+          "candidate_rules": 169,
+          "accepted_rules_before_deduplication": 169,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -136,9 +136,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 177,
+          "input_rules": 179,
           "exact_duplicates_removed": 6,
-          "parent_covered_removed": 119,
+          "parent_covered_removed": 121,
           "semantic_merges": 0,
           "output_rules": 52
         },
@@ -323,8 +323,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 10850,
-          "accepted_rules_before_deduplication": 10850,
+          "candidate_rules": 10871,
+          "accepted_rules_before_deduplication": 10871,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11802,
+        "source_rules_after_semantic_deduplication": 11818,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11802,
+        "main_rules": 11818,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71256,
-          "exact_duplicates_removed": 23303,
-          "parent_covered_removed": 35877,
+          "input_rules": 71277,
+          "exact_duplicates_removed": 23312,
+          "parent_covered_removed": 35873,
           "semantic_merges": 274,
-          "output_rules": 11802
+          "output_rules": 11818
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11802,
-          "sha256": "9191141683ac0a1f21cac85b087c93090258be17f3bf951deb413493d284b336"
+          "rules": 11818,
+          "sha256": "b222731e00bebdfa7dc130c389573f48f05d4ecf6be69fa94257e945f0ea4f32"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11802,
-          "sha256": "b9f434555c35707e8f83f05331a20118f522cc8c86996b34b87ed06737f0db6f"
+          "rules": 11818,
+          "sha256": "c9fdddde51bc9296736443dfa29da4fbea51182c38e9475a82f5a49c201c80a7"
         }
       ]
     },
