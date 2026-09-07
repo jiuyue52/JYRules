@@ -349,28 +349,28 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/cc183ccd-3b58-426f-a284-49d0fb18d7eb",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/57769d2c-7cf1-47c9-8659-ccfce6a801d3",
           "detected_format": "mrs",
-          "candidate_rules": 9429,
-          "accepted_rules_before_deduplication": 9429,
+          "candidate_rules": 9425,
+          "accepted_rules_before_deduplication": 9425,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11810,
+        "source_rules_after_semantic_deduplication": 11802,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11810,
+        "main_rules": 11802,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71263,
-          "exact_duplicates_removed": 23319,
-          "parent_covered_removed": 35866,
-          "semantic_merges": 268,
-          "output_rules": 11810
+          "input_rules": 71259,
+          "exact_duplicates_removed": 23305,
+          "parent_covered_removed": 35878,
+          "semantic_merges": 274,
+          "output_rules": 11802
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11810,
-          "sha256": "1e0c590c483a06fab987bb7735c508922c63f6f72c60d8e74e08875ecac4ac72"
+          "rules": 11802,
+          "sha256": "9191141683ac0a1f21cac85b087c93090258be17f3bf951deb413493d284b336"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11810,
-          "sha256": "96b9a0d11c225fd3c6be13618d60dc5ce02a77ba5081970a008e8a7585a8a91f"
+          "rules": 11802,
+          "sha256": "b9f434555c35707e8f83f05331a20118f522cc8c86996b34b87ed06737f0db6f"
         }
       ]
     },
@@ -415,7 +415,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/d86d2357-e618-4356-a1e3-870cb619fd4c",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/265d9d2a-5989-4c1d-b341-51c95db06c32",
           "detected_format": "mrs",
           "candidate_rules": 899,
           "accepted_rules_before_deduplication": 899,
@@ -737,26 +737,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/microsoft.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 1054,
-          "accepted_rules_before_deduplication": 1054,
+          "candidate_rules": 1053,
+          "accepted_rules_before_deduplication": 1053,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 1054,
+        "source_rules_after_semantic_deduplication": 1053,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 1054,
+        "main_rules": 1053,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 1054,
+          "input_rules": 1053,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 1054
+          "output_rules": 1053
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -775,15 +775,15 @@
           "path": "rules/ip/Microsoft_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 1054,
-          "sha256": "2da5c1719ec88b90eddaf2459ba268dabf8faeb362eca2d0a26b1bcc5b0b46f0"
+          "rules": 1053,
+          "sha256": "077b057f90d4e2becaeebfc9fe1fd25ddef9a74d658713462630bb06e12889fc"
         },
         {
           "path": "rules/ip/Microsoft_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 1054,
-          "sha256": "dceb8d4c2abdce287f8223f1de29962ec88f491cbbc04a1d59311e45c885bc91"
+          "rules": 1053,
+          "sha256": "cdfea846294a34649ab1b378147024a0068f4db3b76663a5afcf9009f87861ca"
         }
       ]
     },
@@ -829,7 +829,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/cc54d983-35b0-4bbf-9419-32dfb07c9196",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/2ab3551f-621b-4a8d-8a71-00bb8159229f",
           "detected_format": "mrs",
           "candidate_rules": 26389,
           "accepted_rules_before_deduplication": 26389,
@@ -903,34 +903,202 @@
           "rejected": {}
         },
         {
-          "name": "DW_Media Stream domains",
+          "name": "Skk_Stream stream_biliintl domains",
           "kind": "url",
-          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/media.mrs",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_biliintl.mrs",
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/1a6b740d-5269-4f91-b25e-f47c137ee087",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_biliintl.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 1283,
-          "accepted_rules_before_deduplication": 1283,
+          "candidate_rules": 5,
+          "accepted_rules_before_deduplication": 5,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Stream stream_eu domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_eu.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_eu.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 6,
+          "accepted_rules_before_deduplication": 6,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Stream stream_hk domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_hk.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_hk.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 27,
+          "accepted_rules_before_deduplication": 27,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Stream stream_jp domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_jp.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_jp.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 25,
+          "accepted_rules_before_deduplication": 25,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Stream stream_kr domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_kr.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_kr.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 2,
+          "accepted_rules_before_deduplication": 2,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Stream stream_tw domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_tw.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_tw.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 33,
+          "accepted_rules_before_deduplication": 33,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_Stream stream_us domains",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_us.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_us.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 42,
+          "accepted_rules_before_deduplication": 42,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_spotify spotify domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/spotify.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/spotify.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 28,
+          "accepted_rules_before_deduplication": 28,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_hbo hbo domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hbo.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/hbo.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 65,
+          "accepted_rules_before_deduplication": 65,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_Netflix Netflix domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/netflix.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/netflix.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 24,
+          "accepted_rules_before_deduplication": 24,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_disney disney domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/disney.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/disney.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 224,
+          "accepted_rules_before_deduplication": 224,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_Prime Video Amazon Prime Video domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/primevideo.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/primevideo.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 23,
+          "accepted_rules_before_deduplication": 23,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Bett_hulu hulu domains",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hulu.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/hulu.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 48,
+          "accepted_rules_before_deduplication": 48,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 1307,
+        "source_rules_after_semantic_deduplication": 559,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 1307,
+        "main_rules": 559,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 1541,
-          "exact_duplicates_removed": 189,
-          "parent_covered_removed": 45,
+          "input_rules": 810,
+          "exact_duplicates_removed": 244,
+          "parent_covered_removed": 7,
           "semantic_merges": 0,
-          "output_rules": 1307
+          "output_rules": 559
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -949,15 +1117,15 @@
           "path": "rules/domain/Stream_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 1307,
-          "sha256": "f277c40a45785ad2f030c112fd2e6771ef7a65bfed52579f498e93babc473791"
+          "rules": 559,
+          "sha256": "5f190d01032a6cc68bb92d784aec0a2a4730136041f1dca4d3e68fa3a715d77d"
         },
         {
           "path": "rules/domain/Stream_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 1307,
-          "sha256": "f3373fabded1ba922f29257d48a194c1e6fdd84278e5379bcb7240a4159240f1"
+          "rules": 559,
+          "sha256": "d078d6ac5ac04ecd2a2eeba6f02c10852e051e50af25388162b647c77c0060b5"
         }
       ]
     },
