@@ -10,8 +10,88 @@ format = "mrs"
 optional = true
 
 [[sources]]
-name = "DW_Media Stream domains"
-url = "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/media.mrs"
+name = "Skk_Stream stream_biliintl domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_biliintl.mrs"
 format = "mrs"
 optional = true
 
+[[sources]]
+name = "Skk_Stream stream_eu domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_eu.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Skk_Stream stream_hk domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_hk.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Skk_Stream stream_jp domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_jp.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Skk_Stream stream_kr domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_kr.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Skk_Stream stream_tw domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_tw.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Skk_Stream stream_us domains"
+url = "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_us.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_spotify spotify domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/spotify.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_hbo hbo domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hbo.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_Netflix Netflix domains"
+url = "hhttps://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/netflix.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_disney disney domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/disney.mrs"
+format = "mrs"
+optional = true
+
+
+[[sources]]
+name = "Bett_Prime Video Amazon Prime Video domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/primevideo.mrs"
+format = "mrs"
+optional = true
+
+[[sources]]
+name = "Bett_hulu hulu domains"
+url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hulu.mrs"
+format = "mrs"
+optional = true
