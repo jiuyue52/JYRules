@@ -337,8 +337,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/cn_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 7633,
-          "accepted_rules_before_deduplication": 7633,
+          "candidate_rules": 7637,
+          "accepted_rules_before_deduplication": 7637,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11818,
+        "source_rules_after_semantic_deduplication": 11819,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11818,
+        "main_rules": 11819,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71277,
-          "exact_duplicates_removed": 23312,
-          "parent_covered_removed": 35873,
+          "input_rules": 71281,
+          "exact_duplicates_removed": 23331,
+          "parent_covered_removed": 35857,
           "semantic_merges": 274,
-          "output_rules": 11818
+          "output_rules": 11819
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11818,
-          "sha256": "b222731e00bebdfa7dc130c389573f48f05d4ecf6be69fa94257e945f0ea4f32"
+          "rules": 11819,
+          "sha256": "19e4bfc952099ae893da7b11f4044e23be69b1bd4edbaae743f2442fccb65c82"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11818,
-          "sha256": "c9fdddde51bc9296736443dfa29da4fbea51182c38e9475a82f5a49c201c80a7"
+          "rules": 11819,
+          "sha256": "5850066fbce7e4fcc6aac5ef72104f5a92c849eb642f22b35e5d093bb3e58e3d"
         }
       ]
     },
