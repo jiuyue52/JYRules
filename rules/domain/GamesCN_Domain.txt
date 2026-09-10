@@ -1,3 +1,4 @@
++.bluearchive-cn.com
 +.client-update.queniuqe.com
 +.csgo.com.cn
 +.csgo.wmsj.cn
@@ -5,6 +6,16 @@
 +.dota2.com.cn
 +.dota2.wmsj.cn
 +.gstore.val.manlaxy.com
++.leagueoflegends.cn
++.legendofzelda.cn
++.legendofzelda.com.cn
++.lpl.com.cn
++.mariokart.cn
++.mariokart.com.cn
++.miitomo.com.cn
++.nintendolabo.cn
++.nintendoswitch.cn
++.nintendoswitch.com.cn
 +.st.dl.bscstorage.net
 +.st.dl.eccdnx.com
 +.st.dl.pinyuncloud.com
@@ -13,7 +24,14 @@
 +.steamserver.net
 +.steamstatic.com.8686c.com
 +.steamusercontent.com
++.supermariobros.com.cn
++.supersmashbros.cn
++.supersmashbros.com.cn
 +.wmsjsteam.com
++.xboxlive.cn
++.xn--mts47c3w9b1qr.cn
++.yostar.cn
 alibaba.cdn.steampipe.steamcontent.com
+gog.qtlglb.com
 lv.queniujq.cn
 xz.pphimalayanrt.com
