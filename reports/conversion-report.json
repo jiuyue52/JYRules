@@ -118,29 +118,24 @@
           "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/apple.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/apple.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 169,
-          "accepted_rules_before_deduplication": 169,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/apple.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 52,
+        "source_rules_after_semantic_deduplication": 10,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 52,
+        "main_rules": 10,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 179,
-          "exact_duplicates_removed": 6,
-          "parent_covered_removed": 121,
+          "input_rules": 10,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 52
+          "output_rules": 10
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -159,15 +154,15 @@
           "path": "rules/ip/Apple_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 52,
-          "sha256": "5c47840d5f8c350143e4b0cff927fb0f97cc4f8b9bd304a86aa783fae13d5884"
+          "rules": 10,
+          "sha256": "9c3ac6e550ff760e7af78040ceac1711e4b6173876069926e40a492ad1683cb5"
         },
         {
           "path": "rules/ip/Apple_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 52,
-          "sha256": "dc6fb96a25a19b83cd88ab185cc9b64c8eae38548e68640fa438b4ec9f96fb32"
+          "rules": 10,
+          "sha256": "60a78f1a77b8097b0e102bb541d426b6fc4093ffe69b29aaf11b87413ff5fedc"
         }
       ]
     },
@@ -323,8 +318,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 10874,
-          "accepted_rules_before_deduplication": 10874,
+          "candidate_rules": 10861,
+          "accepted_rules_before_deduplication": 10861,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -348,29 +343,24 @@
           "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/e551eade-4adc-4e98-9068-ede221ea8225",
-          "detected_format": "mrs",
-          "candidate_rules": 9429,
-          "accepted_rules_before_deduplication": 9429,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11821,
+        "source_rules_after_semantic_deduplication": 11781,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11821,
+        "main_rules": 11781,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71157,
-          "exact_duplicates_removed": 23355,
-          "parent_covered_removed": 35706,
-          "semantic_merges": 275,
-          "output_rules": 11821
+          "input_rules": 61715,
+          "exact_duplicates_removed": 14488,
+          "parent_covered_removed": 34906,
+          "semantic_merges": 540,
+          "output_rules": 11781
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +379,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11821,
-          "sha256": "2dfb09626093928bb378dbd28732127558e1329de3799251084e2d39904e4682"
+          "rules": 11781,
+          "sha256": "0e637eb9f173f1cc614aedc90a27ead9a44698069b20ef8be31b2a1006b5a002"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11821,
-          "sha256": "f79412976ba18d232dbba5cd46ae2ef24a59a297a0bd12b7837334c62f4893f8"
+          "rules": 11781,
+          "sha256": "160dfb72f688943962e9da94b0d5c027c94e3b527c01770ee31ea480aa27f26b"
         }
       ]
     },
@@ -415,7 +405,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/05ba1707-73c8-4611-8551-864643ab68c2",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/c98e1ea0-bdd9-4009-88e8-43b7afce9743",
           "detected_format": "mrs",
           "candidate_rules": 899,
           "accepted_rules_before_deduplication": 899,
@@ -588,29 +578,24 @@
           "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/category-cngames.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/category-cngames.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 37,
-          "accepted_rules_before_deduplication": 37,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/category-cngames.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 37,
+        "source_rules_after_semantic_deduplication": 19,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 37,
+        "main_rules": 19,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 56,
-          "exact_duplicates_removed": 19,
+          "input_rules": 19,
+          "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 37
+          "output_rules": 19
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -629,15 +614,15 @@
           "path": "rules/domain/GamesCN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 37,
-          "sha256": "69277435faafabdc0836cf14901918302efff1f59b6eb107becc16931749c804"
+          "rules": 19,
+          "sha256": "fd88dd091178deb2881b1f3be35d0bd0d0e92d912104e989b8b348e9d607e8d9"
         },
         {
           "path": "rules/domain/GamesCN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 37,
-          "sha256": "0bec91e5332bf3eaf8c2427c53b523bbbf87fe97fd37373821aa53b2f9a93bfb"
+          "rules": 19,
+          "sha256": "bb69f5a8ae3518c8f39095753c2b3cd3dc8c1e5abf245e8966dc3955e1aae91f"
         }
       ]
     },
@@ -737,26 +722,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/microsoft.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 1052,
-          "accepted_rules_before_deduplication": 1052,
+          "candidate_rules": 1053,
+          "accepted_rules_before_deduplication": 1053,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 1052,
+        "source_rules_after_semantic_deduplication": 1053,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 1052,
+        "main_rules": 1053,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 1052,
+          "input_rules": 1053,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 1052
+          "output_rules": 1053
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -775,15 +760,15 @@
           "path": "rules/ip/Microsoft_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 1052,
-          "sha256": "da219238d54cf4079e025a17113404e38cf71cea717eb46d8cbd1e0ecc0cf1af"
+          "rules": 1053,
+          "sha256": "61caf246f47b67234eccd0183ab1834c493df1de6f6f0a3980de3bce7ef39f5e"
         },
         {
           "path": "rules/ip/Microsoft_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 1052,
-          "sha256": "8c328ecd8a46359cd3ac0d0084f1cd887ab89d5bbdf9b43dc91cd3c3aeb2fa9a"
+          "rules": 1053,
+          "sha256": "d9e21c021f0847e2b1ad0d1d32714a981a592b3ad3da799f969dae8e39efe4d2"
         }
       ]
     },
@@ -800,13 +785,8 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/global.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/global.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 1259,
-          "accepted_rules_before_deduplication": 1259,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/global.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         },
         {
           "name": "Bett_geolocation-!cn Proxy domains",
@@ -829,7 +809,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/f9219c4c-af5f-413b-b0a2-524c0676dd0d",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/73f03d0c-1ecd-43b0-ab2a-2d3ff158a0c4",
           "detected_format": "mrs",
           "candidate_rules": 26390,
           "accepted_rules_before_deduplication": 26390,
@@ -839,18 +819,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 33361,
+        "source_rules_after_semantic_deduplication": 33497,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 33361,
+        "main_rules": 33497,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 61085,
-          "exact_duplicates_removed": 20188,
-          "parent_covered_removed": 7536,
+          "input_rules": 59826,
+          "exact_duplicates_removed": 19292,
+          "parent_covered_removed": 7037,
           "semantic_merges": 0,
-          "output_rules": 33361
+          "output_rules": 33497
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -869,15 +849,15 @@
           "path": "rules/domain/Proxy_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 33361,
-          "sha256": "90ea73cc0c1da45f660284c258223fdaac58de7694749e5fc05b2f3a82d6fa99"
+          "rules": 33497,
+          "sha256": "65008732d2c5a56a10b66806532d5aa7d7a6d4b01f867503cc0e55c24aa5a456"
         },
         {
           "path": "rules/domain/Proxy_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 33361,
-          "sha256": "63705a10795c3ee2642b0e156947a638836e29739f8b88b4de4f1286e8c94713"
+          "rules": 33497,
+          "sha256": "91ed0f990edaedb9e4d5e8f806157c700963bd5ecbc58a6e333bf2980c97e794"
         }
       ]
     },
@@ -894,13 +874,8 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 258,
-          "accepted_rules_before_deduplication": 258,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         },
         {
           "name": "Skk_Stream stream_biliintl domains",
@@ -978,13 +953,8 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_tw.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_tw.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 33,
-          "accepted_rules_before_deduplication": 33,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_tw.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         },
         {
           "name": "Skk_Stream stream_us domains",
@@ -1076,29 +1046,24 @@
           "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hulu.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/hulu.mrs",
-          "detected_format": "mrs",
-          "candidate_rules": 48,
-          "accepted_rules_before_deduplication": 48,
-          "rejected_rules": 0,
-          "rejected": {}
+          "status": "skipped",
+          "error": "failed to download https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hulu.mrs: <urlopen error [Errno 104] Connection reset by peer>"
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 559,
+        "source_rules_after_semantic_deduplication": 445,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 559,
+        "main_rules": 445,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 810,
-          "exact_duplicates_removed": 244,
-          "parent_covered_removed": 7,
+          "input_rules": 471,
+          "exact_duplicates_removed": 21,
+          "parent_covered_removed": 5,
           "semantic_merges": 0,
-          "output_rules": 559
+          "output_rules": 445
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -1117,15 +1082,15 @@
           "path": "rules/domain/Stream_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 559,
-          "sha256": "5f190d01032a6cc68bb92d784aec0a2a4730136041f1dca4d3e68fa3a715d77d"
+          "rules": 445,
+          "sha256": "b47e17f41ebf1909f143c92b73cd2d7a91c07e2a79871fcffc6ae06e9ed4b5e4"
         },
         {
           "path": "rules/domain/Stream_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 559,
-          "sha256": "d078d6ac5ac04ecd2a2eeba6f02c10852e051e50af25388162b647c77c0060b5"
+          "rules": 445,
+          "sha256": "ccf2f3d2d7796b04304c409e479aa6431bbce8202a86aa838f84a550626081e6"
         }
       ]
     },
