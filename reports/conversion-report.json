@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3458,
-          "accepted_rules_before_deduplication": 3458,
+          "candidate_rules": 3459,
+          "accepted_rules_before_deduplication": 3459,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11824,
+        "source_rules_after_semantic_deduplication": 11825,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11824,
+        "main_rules": 11825,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71297,
-          "exact_duplicates_removed": 23473,
-          "parent_covered_removed": 35724,
+          "input_rules": 71298,
+          "exact_duplicates_removed": 23472,
+          "parent_covered_removed": 35725,
           "semantic_merges": 276,
-          "output_rules": 11824
+          "output_rules": 11825
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11824,
-          "sha256": "1752935c3aa1bb1a9974df925b508ab555622f3d913e1775496f6bd856ed9978"
+          "rules": 11825,
+          "sha256": "a2624b488f6d86b07c47a703b22114e5026fd0e140e114b86940b144ccb5c7e4"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11824,
-          "sha256": "e9bc6de4dbf8aa7148f1713d7cec4c7a9c147587b27dbe686efd78525f531072"
+          "rules": 11825,
+          "sha256": "9b01d2af9cba16ceb8e3e85ed69b03012aafbaa28a4d43e40ec156d50354feb1"
         }
       ]
     },
