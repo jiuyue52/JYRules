@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3459,
-          "accepted_rules_before_deduplication": 3459,
+          "candidate_rules": 3461,
+          "accepted_rules_before_deduplication": 3461,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11827,
+        "source_rules_after_semantic_deduplication": 11829,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11827,
+        "main_rules": 11829,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71300,
-          "exact_duplicates_removed": 23471,
-          "parent_covered_removed": 35727,
+          "input_rules": 71302,
+          "exact_duplicates_removed": 23469,
+          "parent_covered_removed": 35729,
           "semantic_merges": 275,
-          "output_rules": 11827
+          "output_rules": 11829
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11827,
-          "sha256": "96c391a17a48a371c78d35cc5da06c25f11608aeb00d70b581c40aa05ab4396c"
+          "rules": 11829,
+          "sha256": "c6b4f3d5976eb376dafec0b21af87f11942bc43bd0dda0526f1324ab5124e021"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11827,
-          "sha256": "f5762f31623e929d8d497ab5fb9abfb3f0c24b78a1823b9a92b44d685d09cc98"
+          "rules": 11829,
+          "sha256": "87d4b20a072e787837544ae2a604d57e7fcbbbd530e803a66e61e49ac8fb7a25"
         }
       ]
     },
