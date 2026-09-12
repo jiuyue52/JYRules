@@ -367,8 +367,8 @@
         "partial_overlaps_retained": 0,
         "source_deduplication": {
           "input_rules": 71300,
-          "exact_duplicates_removed": 23469,
-          "parent_covered_removed": 35729,
+          "exact_duplicates_removed": 23471,
+          "parent_covered_removed": 35727,
           "semantic_merges": 275,
           "output_rules": 11827
         },
