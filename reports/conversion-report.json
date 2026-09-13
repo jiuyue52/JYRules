@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3461,
-          "accepted_rules_before_deduplication": 3461,
+          "candidate_rules": 3459,
+          "accepted_rules_before_deduplication": 3459,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -309,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 35938,
-          "accepted_rules_before_deduplication": 35938,
+          "candidate_rules": 36560,
+          "accepted_rules_before_deduplication": 36560,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11806,
+        "source_rules_after_semantic_deduplication": 11754,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11806,
+        "main_rules": 11754,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71318,
-          "exact_duplicates_removed": 23458,
-          "parent_covered_removed": 35784,
-          "semantic_merges": 270,
-          "output_rules": 11806
+          "input_rules": 71938,
+          "exact_duplicates_removed": 23466,
+          "parent_covered_removed": 36452,
+          "semantic_merges": 266,
+          "output_rules": 11754
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11806,
-          "sha256": "a72d3ad444b32c879a49ff60d14d7daa343b8432adedbb195acaab702af10098"
+          "rules": 11754,
+          "sha256": "606227b66eb3a1ae892e6bb9b18fc4da7b580dd5ee0ad8431f4e1a23f2ab36bd"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11806,
-          "sha256": "c2e8c7c5e4f87dc0fdb271d5f514f176d86dd062f0661129e51c63d0dd677c46"
+          "rules": 11754,
+          "sha256": "ed51421275e5b99c6c4442e6d3690dcb81a13203d2e8907868d2bac2661f0f05"
         }
       ]
     },
@@ -803,8 +803,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/global.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 1259,
-          "accepted_rules_before_deduplication": 1259,
+          "candidate_rules": 1260,
+          "accepted_rules_before_deduplication": 1260,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -839,18 +839,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 33362,
+        "source_rules_after_semantic_deduplication": 33363,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 33362,
+        "main_rules": 33363,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 61087,
+          "input_rules": 61088,
           "exact_duplicates_removed": 20189,
           "parent_covered_removed": 7536,
           "semantic_merges": 0,
-          "output_rules": 33362
+          "output_rules": 33363
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -869,15 +869,15 @@
           "path": "rules/domain/Proxy_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 33362,
-          "sha256": "bdfc3a3afcd2ba11783640ed279fa5810f605c1161df9e35a1774ce7755bf0f3"
+          "rules": 33363,
+          "sha256": "8d48f221ae468b92fe5b91ad4595914e7b94c8b0d672399aaf87c7094781e8eb"
         },
         {
           "path": "rules/domain/Proxy_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 33362,
-          "sha256": "13ccac39fd8c63f900f6896e40583e22b08e0f04f94d0de33ee6314565837bb1"
+          "rules": 33363,
+          "sha256": "c64ff5236c5d602b2c4ad77d5f7d2dfc019b33b6c7dcc1fc31e635e62bbf3f93"
         }
       ]
     },
