@@ -27370,6 +27370,8 @@
 +.stripchatlive.com
 +.stripe-terminal-local-reader.net
 +.stripe.com
++.stripe.events
++.stripe.global
 +.stripecdn.com
 +.stripparadise.com
 +.stripselector.com
