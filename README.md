@@ -88,7 +88,7 @@ Domain 任务接受原生精确域名、`+.` / `.` 原子，以及 classical 的
 
 ## 本地验证
 
-需要 Python 3.11+ 和对应平台的 Mihomo `v1.19.30`。
+需要 Python 3.11+ 和对应平台的 Mihomo `Prerelease-Alpha`。
 
 ```bash
 python -m pip install --requirement requirements.txt
@@ -98,7 +98,7 @@ python scripts/build_rules.py \
   --output-root /tmp/jyrules-build \
   --repo-root "$PWD" \
   --mihomo /path/to/mihomo \
-  --mihomo-version v1.19.30
+  --mihomo-version Prerelease-Alpha
 ```
 
 `--output-root` 必须位于仓库目录树之外。构建器会在首次创建的新目录中写入所有权标记；再次使用时只会清理带有有效标记的 staging 目录，拒绝已有的普通目录，因此不会误删其中同名的 `rules/` 或 `reports/`。MRS 生成后会立即反向导出并比较语义集合，回读不一致时整个构建失败。
@@ -111,7 +111,7 @@ python scripts/build_rules.py \
 - `main` 分支中除生成的 `rules/**`、`reports/**` 外任意文件发生变化；这也覆盖任务引用在任意仓库相对路径下的本地规则源；
 - 在 Actions 页面手动运行。
 
-工作流的只读构建任务会安装 `requirements.txt`，运行全部单元测试，下载并用 SHA256 校验固定的 Mihomo `v1.19.30`，再把 staging 产物作为短期 artifact 交给独立发布任务。只有发布任务拥有写权限，并且仅在 `main` 未于构建期间变化、生成内容确有变化时，才由 `github-actions[bot]` 提交并推送。
+工作流的只读构建任务会安装 `requirements.txt`，运行全部单元测试，每次从 Mihomo `Prerelease-Alpha` Release 解析最新 compatible Linux 资产并用 Release API 提供的 SHA256 校验，再把 staging 产物作为短期 artifact 交给独立发布任务。只有发布任务拥有写权限，并且仅在 `main` 未于构建期间变化、生成内容确有变化时，才由 `github-actions[bot]` 提交并推送。
 
 仓库初次使用时，还需在 **Settings → Actions → General → Workflow permissions** 中选择 **Read and write permissions**。工作流内已声明 `contents: write`，但仓库级权限仍必须允许写入。
 
