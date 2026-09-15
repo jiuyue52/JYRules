@@ -309,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 36558,
-          "accepted_rules_before_deduplication": 36558,
+          "candidate_rules": 35705,
+          "accepted_rules_before_deduplication": 35705,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11790,
+        "source_rules_after_semantic_deduplication": 11743,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11790,
+        "main_rules": 11743,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 72033,
-          "exact_duplicates_removed": 23489,
-          "parent_covered_removed": 36489,
+          "input_rules": 71180,
+          "exact_duplicates_removed": 23493,
+          "parent_covered_removed": 35679,
           "semantic_merges": 265,
-          "output_rules": 11790
+          "output_rules": 11743
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11790,
-          "sha256": "feee92cb5a8d897ee54db78b397cb0a2aae16bd381f0d179ab7a1ba3999282dd"
+          "rules": 11743,
+          "sha256": "8d2343579d34258061ecf5d410ab00abef47a48f5f079aa1b62a4625c9806fef"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11790,
-          "sha256": "8ca496cf673ca218c26738f3c97391fa825a6ca88c14b2e31eae646b5c460d8c"
+          "rules": 11743,
+          "sha256": "35004a2fd7a8e71ceac42ab956a53598831c64dd1472cbe67dd31f5f7f4dee58"
         }
       ]
     },
