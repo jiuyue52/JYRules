@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3472,
-          "accepted_rules_before_deduplication": 3472,
+          "candidate_rules": 3468,
+          "accepted_rules_before_deduplication": 3468,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -366,9 +366,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71178,
-          "exact_duplicates_removed": 23485,
-          "parent_covered_removed": 35685,
+          "input_rules": 71174,
+          "exact_duplicates_removed": 23484,
+          "parent_covered_removed": 35682,
           "semantic_merges": 265,
           "output_rules": 11743
         },
