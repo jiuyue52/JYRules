@@ -348,24 +348,29 @@
           "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs: HTTP Error 500: Internal Server Error"
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/bcf88225-d55d-433e-9324-0e8c069384b7",
+          "detected_format": "mrs",
+          "candidate_rules": 9512,
+          "accepted_rules_before_deduplication": 9512,
+          "rejected_rules": 0,
+          "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11700,
+        "source_rules_after_semantic_deduplication": 11752,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11700,
+        "main_rules": 11752,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 61679,
-          "exact_duplicates_removed": 14560,
-          "parent_covered_removed": 34869,
-          "semantic_merges": 550,
-          "output_rules": 11700
+          "input_rules": 71191,
+          "exact_duplicates_removed": 23492,
+          "parent_covered_removed": 35688,
+          "semantic_merges": 259,
+          "output_rules": 11752
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -384,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11700,
-          "sha256": "89b189bf139be5c23c3ee729e57df2edbf69beac8e0522f58148b4f089e3435e"
+          "rules": 11752,
+          "sha256": "ac6f381af8b21f85f875d7298a53db9ef86eab00c2184c62fc624d9d09d143e6"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11700,
-          "sha256": "0fd80fcb47f12c19c21ef599117d54782c183983be4983069c71d32a0dc6834c"
+          "rules": 11752,
+          "sha256": "2326d0a8d4563a1f7548a91d24118d92935dd0de68f9c35e076d07e69b92c766"
         }
       ]
     },
