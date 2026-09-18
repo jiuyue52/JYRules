@@ -309,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 35705,
-          "accepted_rules_before_deduplication": 35705,
+          "candidate_rules": 36152,
+          "accepted_rules_before_deduplication": 36152,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -359,18 +359,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11933,
+        "source_rules_after_semantic_deduplication": 11738,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 11933,
+        "main_rules": 11738,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71135,
-          "exact_duplicates_removed": 23438,
-          "parent_covered_removed": 35487,
-          "semantic_merges": 277,
-          "output_rules": 11933
+          "input_rules": 71582,
+          "exact_duplicates_removed": 23423,
+          "parent_covered_removed": 36155,
+          "semantic_merges": 266,
+          "output_rules": 11738
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -389,15 +389,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11933,
-          "sha256": "bbdefe58bc67832b7d15a71bff5a9ac69793c660df470d09bc7ad9bc51c60fa9"
+          "rules": 11738,
+          "sha256": "9f7ea2b4f8d58e50a2673ce7bbd9a4e2f21b636407518d0b0458243fb9a14b3d"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11933,
-          "sha256": "b17a36a3f0dcb83ca7e6c158839dcbed7b16a493c50b8306f35bf95f52c70140"
+          "rules": 11738,
+          "sha256": "dcea28b06d344bf3177accb32cb5cd662d95769791fcb3bd3dde98e57ca5a844"
         }
       ]
     },
