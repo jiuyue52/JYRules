@@ -1,7 +1,7 @@
 version = 1
 enabled = true
 behavior = "ipcidr"
-output = "CN_Lite_IP"
+output = "CN_IP_min"
 
 
 [[sources]]

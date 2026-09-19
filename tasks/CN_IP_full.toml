@@ -1,7 +1,7 @@
 version = 1
 enabled = true
 behavior = "ipcidr"
-output = "CN_IP"
+output = "CN_IP_full"
 
 [[sources]]
 name = "Skk_cnip CN ip"
