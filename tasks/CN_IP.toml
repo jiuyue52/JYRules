@@ -23,11 +23,6 @@ format = "mrs"
 optional = true
 
 
-[[sources]]
-name = "Bett_CNip CN ip"
-url = "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/cn.mrs"
-format = "mrs"
-optional = true
 
 [[sources]]
 name = "XL_CNip CN ip"
