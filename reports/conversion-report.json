@@ -2,11 +2,11 @@
   "schema_version": 2,
   "mihomo_version": "alpha-fbb6742",
   "summary": {
-    "task_definitions": 12,
-    "enabled_tasks": 12,
+    "task_definitions": 13,
+    "enabled_tasks": 13,
     "disabled_tasks": 0,
-    "generated_files": 24,
-    "mrs_files": 12,
+    "generated_files": 30,
+    "mrs_files": 15,
     "partial_overlaps_retained": 0
   },
   "disabled": [],
@@ -315,6 +315,20 @@
           "rejected": {}
         },
         {
+          "name": "Bett_CNip CN ip",
+          "kind": "url",
+          "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geoip/cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 10902,
+          "accepted_rules_before_deduplication": 10902,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
           "name": "XL_CNip CN ip",
           "kind": "url",
           "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/cn_ip.mrs",
@@ -341,32 +355,204 @@
           "accepted_rules_before_deduplication": 9428,
           "rejected_rules": 0,
           "rejected": {}
+        },
+        {
+          "name": "gaoyifan China IPv4",
+          "kind": "url",
+          "source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
+          "declared_format": "text",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
+          "detected_format": "text",
+          "candidate_rules": 6250,
+          "accepted_rules_before_deduplication": 6250,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "gaoyifan China IPv6",
+          "kind": "url",
+          "source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
+          "declared_format": "text",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
+          "detected_format": "text",
+          "candidate_rules": 3411,
+          "accepted_rules_before_deduplication": 3411,
+          "rejected_rules": 0,
+          "rejected": {}
         }
       ],
-      "exclude": [],
+      "exclude": [
+        {
+          "name": "No-CN ips",
+          "kind": "path",
+          "source": "LocalRules/exclude/CNIP.txt",
+          "declared_format": "text",
+          "optional": true,
+          "status": "ok",
+          "final_source": "LocalRules/exclude/CNIP.txt",
+          "detected_format": "text",
+          "candidate_rules": 9,
+          "accepted_rules_before_deduplication": 9,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 24838,
-        "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 24838,
-        "removed_source_rules": 0,
-        "converted_source_rules": 0,
+        "source_rules_after_semantic_deduplication": 11735,
+        "exclude_rules_after_semantic_deduplication": 9,
+        "main_rules": 11816,
+        "removed_source_rules": 5,
+        "converted_source_rules": 4,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 60627,
-          "exact_duplicates_removed": 15168,
-          "parent_covered_removed": 20051,
-          "semantic_merges": 570,
-          "output_rules": 24838
+          "input_rules": 81190,
+          "exact_duplicates_removed": 32967,
+          "parent_covered_removed": 36226,
+          "semantic_merges": 262,
+          "output_rules": 11735
         },
         "exclude_deduplication": {
-          "input_rules": 0,
+          "input_rules": 9,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 0
+          "output_rules": 9
         },
-        "removed": [],
-        "converted": [],
+        "removed": [
+          "77.105.163.0/24",
+          "140.248.33.0/24",
+          "146.75.187.0/24",
+          "146.75.189.0/24",
+          "193.8.231.0/24"
+        ],
+        "converted": [
+          {
+            "source": "103.41.184.0/22",
+            "replacements": [
+              "103.41.184.0/24",
+              "103.41.186.0/23"
+            ],
+            "replacement_count": 2,
+            "replacements_truncated": false,
+            "reason": "ipcidr_difference"
+          },
+          {
+            "source": "103.49.212.0/22",
+            "replacements": [
+              "103.49.213.0/24",
+              "103.49.214.0/23"
+            ],
+            "replacement_count": 2,
+            "replacements_truncated": false,
+            "reason": "ipcidr_difference"
+          },
+          {
+            "source": "103.51.12.0/22",
+            "replacements": [
+              "103.51.13.0/24",
+              "103.51.14.0/23"
+            ],
+            "replacement_count": 2,
+            "replacements_truncated": false,
+            "reason": "ipcidr_difference"
+          },
+          {
+            "source": "2001:4860:4800::/44",
+            "replacements": [
+              "2001:4860:4800::/47",
+              "2001:4860:4802::/59",
+              "2001:4860:4802:20::/60",
+              "2001:4860:4802:30::/63",
+              "2001:4860:4802:32::/125",
+              "2001:4860:4802:32::8/127",
+              "2001:4860:4802:32::b/128",
+              "2001:4860:4802:32::c/126",
+              "2001:4860:4802:32::10/124",
+              "2001:4860:4802:32::20/123",
+              "2001:4860:4802:32::40/122",
+              "2001:4860:4802:32::80/121",
+              "2001:4860:4802:32::100/120",
+              "2001:4860:4802:32::200/119",
+              "2001:4860:4802:32::400/118",
+              "2001:4860:4802:32::800/117",
+              "2001:4860:4802:32::1000/116",
+              "2001:4860:4802:32::2000/115",
+              "2001:4860:4802:32::4000/114",
+              "2001:4860:4802:32::8000/113",
+              "2001:4860:4802:32::1:0/112",
+              "2001:4860:4802:32::2:0/111",
+              "2001:4860:4802:32::4:0/110",
+              "2001:4860:4802:32::8:0/109",
+              "2001:4860:4802:32::10:0/108",
+              "2001:4860:4802:32::20:0/107",
+              "2001:4860:4802:32::40:0/106",
+              "2001:4860:4802:32::80:0/105",
+              "2001:4860:4802:32::100:0/104",
+              "2001:4860:4802:32::200:0/103",
+              "2001:4860:4802:32::400:0/102",
+              "2001:4860:4802:32::800:0/101",
+              "2001:4860:4802:32::1000:0/100",
+              "2001:4860:4802:32::2000:0/99",
+              "2001:4860:4802:32::4000:0/98",
+              "2001:4860:4802:32::8000:0/97",
+              "2001:4860:4802:32:0:1::/96",
+              "2001:4860:4802:32:0:2::/95",
+              "2001:4860:4802:32:0:4::/94",
+              "2001:4860:4802:32:0:8::/93",
+              "2001:4860:4802:32:0:10::/92",
+              "2001:4860:4802:32:0:20::/91",
+              "2001:4860:4802:32:0:40::/90",
+              "2001:4860:4802:32:0:80::/89",
+              "2001:4860:4802:32:0:100::/88",
+              "2001:4860:4802:32:0:200::/87",
+              "2001:4860:4802:32:0:400::/86",
+              "2001:4860:4802:32:0:800::/85",
+              "2001:4860:4802:32:0:1000::/84",
+              "2001:4860:4802:32:0:2000::/83",
+              "2001:4860:4802:32:0:4000::/82",
+              "2001:4860:4802:32:0:8000::/81",
+              "2001:4860:4802:32:1::/80",
+              "2001:4860:4802:32:2::/79",
+              "2001:4860:4802:32:4::/78",
+              "2001:4860:4802:32:8::/77",
+              "2001:4860:4802:32:10::/76",
+              "2001:4860:4802:32:20::/75",
+              "2001:4860:4802:32:40::/74",
+              "2001:4860:4802:32:80::/73",
+              "2001:4860:4802:32:100::/72",
+              "2001:4860:4802:32:200::/71",
+              "2001:4860:4802:32:400::/70",
+              "2001:4860:4802:32:800::/69",
+              "2001:4860:4802:32:1000::/68",
+              "2001:4860:4802:32:2000::/67",
+              "2001:4860:4802:32:4000::/66",
+              "2001:4860:4802:32:8000::/65",
+              "2001:4860:4802:33::/64",
+              "2001:4860:4802:34::/62",
+              "2001:4860:4802:38::/61",
+              "2001:4860:4802:40::/58",
+              "2001:4860:4802:80::/57",
+              "2001:4860:4802:100::/56",
+              "2001:4860:4802:200::/55",
+              "2001:4860:4802:400::/54",
+              "2001:4860:4802:800::/53",
+              "2001:4860:4802:1000::/52",
+              "2001:4860:4802:2000::/51",
+              "2001:4860:4802:4000::/50",
+              "2001:4860:4802:8000::/49",
+              "2001:4860:4803::/48",
+              "2001:4860:4804::/46",
+              "2001:4860:4808::/45"
+            ],
+            "replacement_count": 84,
+            "replacements_truncated": false,
+            "reason": "ipcidr_difference"
+          }
+        ],
         "partial_overlap_retained": [],
         "examples_truncated": false
       },
@@ -375,15 +561,208 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 24838,
-          "sha256": "7ab4df2c8e501439877a0582e61bb5bc15c912625f621ea3a286edfc1be7801e"
+          "rules": 11816,
+          "sha256": "a99b13680771ab1d1e0bae803c07dc90e517961e3f1c725218602af9f4b8d998"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
+          "rules": 11816,
+          "sha256": "5044070e131119ab1fd178cda19cd6314cfe518fd802165ef9a48e3c45cd3bea"
+        },
+        {
+          "path": "rules/ip/NO_CN_IP.mrs",
+          "format": "mrs",
+          "behavior": "ipcidr",
+          "rules": 9,
+          "sha256": "8e5aa6a2e9d8a8bbb18d759d68bb4fadff8ca7d100961f45191aef97137ac78d"
+        },
+        {
+          "path": "rules/ip/NO_CN_IP.txt",
+          "format": "text",
+          "behavior": "ipcidr",
+          "rules": 9,
+          "sha256": "64b3714d4c6023a9326c0310c0a8c13c10566197840404e13bdeabc2cc39b45f"
+        }
+      ]
+    },
+    {
+      "task": "CN_Lite_IP",
+      "definition": "CN_Lite_IP.toml",
+      "behavior": "ipcidr",
+      "output_directory": "rules/ip",
+      "output": "CN_Lite_IP",
+      "sources": [
+        {
+          "name": "Skk_cnip CN ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/china_ip.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 3900,
+          "accepted_rules_before_deduplication": 3900,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Skk_cnipv6 CN ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 3411,
+          "accepted_rules_before_deduplication": 3411,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "Duakc_CNIP CN ip",
+          "kind": "url",
+          "source": "https://github.com/duakc/geoip/raw/refs/heads/release/mrs/cn.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 36154,
+          "accepted_rules_before_deduplication": 36154,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "XL_CNip CN ip",
+          "kind": "url",
+          "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/cn_ip.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/cn_ip.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 7734,
+          "accepted_rules_before_deduplication": 7734,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "DW_CNip CN ip",
+          "kind": "url",
+          "source": "https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cnip.mrs",
+          "declared_format": "mrs",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/b40ec435-8aea-496f-abab-8f539d14e0fc",
+          "detected_format": "mrs",
+          "candidate_rules": 9428,
+          "accepted_rules_before_deduplication": 9428,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "gaoyifan China IPv4",
+          "kind": "url",
+          "source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
+          "declared_format": "text",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
+          "detected_format": "text",
+          "candidate_rules": 6250,
+          "accepted_rules_before_deduplication": 6250,
+          "rejected_rules": 0,
+          "rejected": {}
+        },
+        {
+          "name": "gaoyifan China IPv6",
+          "kind": "url",
+          "source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
+          "declared_format": "text",
+          "optional": true,
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
+          "detected_format": "text",
+          "candidate_rules": 3411,
+          "accepted_rules_before_deduplication": 3411,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "exclude": [
+        {
+          "name": "No-CN ips",
+          "kind": "path",
+          "source": "LocalRules/exclude/CNIP.txt",
+          "declared_format": "text",
+          "optional": true,
+          "status": "ok",
+          "final_source": "LocalRules/exclude/CNIP.txt",
+          "detected_format": "text",
+          "candidate_rules": 9,
+          "accepted_rules_before_deduplication": 9,
+          "rejected_rules": 0,
+          "rejected": {}
+        }
+      ],
+      "set_operations": {
+        "source_rules_after_semantic_deduplication": 24838,
+        "exclude_rules_after_semantic_deduplication": 9,
+        "main_rules": 24838,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
+        "partial_overlaps_retained": 0,
+        "source_deduplication": {
+          "input_rules": 70288,
+          "exact_duplicates_removed": 24744,
+          "parent_covered_removed": 20136,
+          "semantic_merges": 570,
+          "output_rules": 24838
+        },
+        "exclude_deduplication": {
+          "input_rules": 9,
+          "exact_duplicates_removed": 0,
+          "parent_covered_removed": 0,
+          "semantic_merges": 0,
+          "output_rules": 9
+        },
+        "removed": [],
+        "converted": [],
+        "partial_overlap_retained": [],
+        "examples_truncated": false
+      },
+      "outputs": [
+        {
+          "path": "rules/ip/CN_Lite_IP.mrs",
+          "format": "mrs",
+          "behavior": "ipcidr",
           "rules": 24838,
-          "sha256": "714ca9de9ebb0dbd01a61a46cadb731328a321488b8679f2e066c60da145c55f"
+          "sha256": "c6eec3498e7a52d6ff877cad474829a449d19d623714c5633baf813363840eec"
+        },
+        {
+          "path": "rules/ip/CN_Lite_IP.txt",
+          "format": "text",
+          "behavior": "ipcidr",
+          "rules": 24838,
+          "sha256": "121adc80fc8187356f971ce5ed3a9a96714500e359b66aadb158a365159d4116"
+        },
+        {
+          "path": "rules/ip/NO_CN_Lite_IP.mrs",
+          "format": "mrs",
+          "behavior": "ipcidr",
+          "rules": 9,
+          "sha256": "8e5aa6a2e9d8a8bbb18d759d68bb4fadff8ca7d100961f45191aef97137ac78d"
+        },
+        {
+          "path": "rules/ip/NO_CN_Lite_IP.txt",
+          "format": "text",
+          "behavior": "ipcidr",
+          "rules": 9,
+          "sha256": "64b3714d4c6023a9326c0310c0a8c13c10566197840404e13bdeabc2cc39b45f"
         }
       ]
     },
