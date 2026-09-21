@@ -10445,6 +10445,7 @@
 +.cockyboys.com
 +.code.org
 +.codeberg.org
++.codebuff.com
 +.codecademy.com
 +.codeforces.com
 +.codeforces.org
@@ -13711,6 +13712,7 @@
 +.firebaseapp.com
 +.firebaseio.com
 +.fireemblemawakening.com
++.firefox-portal-detection.com
 +.firefox.com
 +.firefoxtweetmachine.com
 +.firefoxusercontent.com
@@ -14130,6 +14132,7 @@
 +.freebrowser.org
 +.freebs.com
 +.freebsd.org
++.freebuff.com
 +.freecamsfan.com
 +.freecartoons.biz
 +.freechal.com
