@@ -281,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3902,
-          "accepted_rules_before_deduplication": 3902,
+          "candidate_rules": 3904,
+          "accepted_rules_before_deduplication": 3904,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -388,18 +388,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 24849,
+        "source_rules_after_semantic_deduplication": 24850,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 24849,
+        "main_rules": 24850,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 70305,
+          "input_rules": 70307,
           "exact_duplicates_removed": 24762,
-          "parent_covered_removed": 20110,
+          "parent_covered_removed": 20111,
           "semantic_merges": 584,
-          "output_rules": 24849
+          "output_rules": 24850
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -418,15 +418,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 24849,
-          "sha256": "396c6a12b8aaf32484b64d0a5f3ec7ffa1bb176266d028675a93b5d8944d4dcb"
+          "rules": 24850,
+          "sha256": "f5209167c099e148accdaaf1ac617729d44ad7ab26057de95f0235a221fa3c9a"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 24849,
-          "sha256": "d3817e31dc4e73f00c59e15cc1a8e62a0ed519eba27014b1d6b631ab4ffd6cc7"
+          "rules": 24850,
+          "sha256": "4476029e2231c42a52921fa16af47616c1c998101eab046303e817c79486f5f9"
         },
         {
           "path": "rules/ip/NO_CN_IP.mrs",
@@ -460,8 +460,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3902,
-          "accepted_rules_before_deduplication": 3902,
+          "candidate_rules": 3904,
+          "accepted_rules_before_deduplication": 3904,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -581,18 +581,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11736,
+        "source_rules_after_semantic_deduplication": 11737,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 11817,
+        "main_rules": 11818,
         "removed_source_rules": 6,
         "converted_source_rules": 5,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 81207,
+          "input_rules": 81209,
           "exact_duplicates_removed": 32984,
-          "parent_covered_removed": 36218,
+          "parent_covered_removed": 36219,
           "semantic_merges": 269,
-          "output_rules": 11736
+          "output_rules": 11737
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -751,15 +751,15 @@
           "path": "rules/ip/CN_IP_full.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11817,
-          "sha256": "d4003c9ef74439f0daa5076d17ad2a3d242b3a583bcfef84203a2728524e9b2f"
+          "rules": 11818,
+          "sha256": "e6d5998c4c6e18fd2edd9e4c0b7aeced8246df0648e5528d77a22244e4525d64"
         },
         {
           "path": "rules/ip/CN_IP_full.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11817,
-          "sha256": "b1feb53fbd10de3339c8fbbf0eac249428308b232383ed1ed5c69e1c34aec39f"
+          "rules": 11818,
+          "sha256": "9fe418f2b46073b46267767a12478085d4589b80db055d785c1ac59d2388722f"
         },
         {
           "path": "rules/ip/NO_CN_IP_full.mrs",
