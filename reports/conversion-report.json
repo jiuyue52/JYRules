@@ -335,10 +335,10 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/c3cf2194-2740-41f0-b290-a67d878f7d2e",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/e5fdf259-c29b-4fe9-87bb-3c8e6829ab12",
           "detected_format": "mrs",
-          "candidate_rules": 9399,
-          "accepted_rules_before_deduplication": 9399,
+          "candidate_rules": 9395,
+          "accepted_rules_before_deduplication": 9395,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71028,
-          "exact_duplicates_removed": 24727,
-          "parent_covered_removed": 20554,
+          "input_rules": 71024,
+          "exact_duplicates_removed": 24729,
+          "parent_covered_removed": 20548,
           "semantic_merges": 561,
           "output_rules": 25186
         },
@@ -419,14 +419,14 @@
           "format": "mrs",
           "behavior": "ipcidr",
           "rules": 25186,
-          "sha256": "31e201b5c9da923bed472eaaf9e83e24f585cc1949f7107874b4f440e4521910"
+          "sha256": "aa3c999203c61bbc6079d53154cb7cb90eccdb52b3d69afbb53d735ee06214bd"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
           "rules": 25186,
-          "sha256": "ba7d0ae10370cb3b64ab485311a97e2747df869e64e940ad3b520b0114b00830"
+          "sha256": "af18f7ab384dc75c2b41246dc14fd5be1909f68d73cceda039dcd4002a07758b"
         },
         {
           "path": "rules/ip/NO_CN_IP.mrs",
@@ -528,10 +528,10 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/c3cf2194-2740-41f0-b290-a67d878f7d2e",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/e5fdf259-c29b-4fe9-87bb-3c8e6829ab12",
           "detected_format": "mrs",
-          "candidate_rules": 9399,
-          "accepted_rules_before_deduplication": 9399,
+          "candidate_rules": 9395,
+          "accepted_rules_before_deduplication": 9395,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,9 +588,9 @@
         "converted_source_rules": 5,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 82088,
-          "exact_duplicates_removed": 32950,
-          "parent_covered_removed": 37005,
+          "input_rules": 82084,
+          "exact_duplicates_removed": 32952,
+          "parent_covered_removed": 36999,
           "semantic_merges": 279,
           "output_rules": 11854
         },
@@ -752,14 +752,14 @@
           "format": "mrs",
           "behavior": "ipcidr",
           "rules": 11935,
-          "sha256": "e1c3495ef6665ae11ae1f25739bd9721c1ba83d67739d88cf8e000606c0f7a34"
+          "sha256": "b508b855483294f74a58f81d4d2f9ac7bdd0ab74ed339322eb26b9321194ae73"
         },
         {
           "path": "rules/ip/CN_IP_full.txt",
           "format": "text",
           "behavior": "ipcidr",
           "rules": 11935,
-          "sha256": "46205068f5c691535daeaf65037d94feaf505bc9da6e87d93e7dc31a9bbaf888"
+          "sha256": "a03294331841e3aaba5f0133f4263adf796908bd90ac9f3121c324fc47e7c540"
         },
         {
           "path": "rules/ip/NO_CN_IP_full.mrs",
@@ -900,7 +900,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/aac550d7-4588-4f42-ba34-722b4c68d7c4",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/0280abc0-44fb-476a-8862-473ecb1aa444",
           "detected_format": "mrs",
           "candidate_rules": 899,
           "accepted_rules_before_deduplication": 899,
@@ -1314,7 +1314,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/e72a38d5-5eee-4c7a-a146-6df86c5802e7",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/5ddffb15-89a6-4b09-8533-b33d9dc3b3ac",
           "detected_format": "mrs",
           "candidate_rules": 26402,
           "accepted_rules_before_deduplication": 26402,
