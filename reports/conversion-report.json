@@ -281,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3903,
-          "accepted_rules_before_deduplication": 3903,
+          "candidate_rules": 3904,
+          "accepted_rules_before_deduplication": 3904,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3409,
-          "accepted_rules_before_deduplication": 3409,
+          "candidate_rules": 3410,
+          "accepted_rules_before_deduplication": 3410,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,8 +395,8 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71121,
-          "exact_duplicates_removed": 24744,
+          "input_rules": 71123,
+          "exact_duplicates_removed": 24746,
           "parent_covered_removed": 20583,
           "semantic_merges": 578,
           "output_rules": 25216
@@ -460,8 +460,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3903,
-          "accepted_rules_before_deduplication": 3903,
+          "candidate_rules": 3904,
+          "accepted_rules_before_deduplication": 3904,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -474,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3409,
-          "accepted_rules_before_deduplication": 3409,
+          "candidate_rules": 3410,
+          "accepted_rules_before_deduplication": 3410,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,8 +588,8 @@
         "converted_source_rules": 5,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 82183,
-          "exact_duplicates_removed": 32969,
+          "input_rules": 82185,
+          "exact_duplicates_removed": 32971,
           "parent_covered_removed": 37090,
           "semantic_merges": 280,
           "output_rules": 11844
@@ -1222,26 +1222,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/microsoft.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 1065,
-          "accepted_rules_before_deduplication": 1065,
+          "candidate_rules": 1066,
+          "accepted_rules_before_deduplication": 1066,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 1065,
+        "source_rules_after_semantic_deduplication": 1066,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 1065,
+        "main_rules": 1066,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 1065,
+          "input_rules": 1066,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 1065
+          "output_rules": 1066
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -1260,15 +1260,15 @@
           "path": "rules/ip/Microsoft_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 1065,
-          "sha256": "e2580d68e8a30dfb97edf2d884b6d86c04c674441a2f702ebfe4cf985f51bfb2"
+          "rules": 1066,
+          "sha256": "3d71225a6e9fc4e5e3132f08d5b6b5c96a42f05868d17ae2b32f3288918bbede"
         },
         {
           "path": "rules/ip/Microsoft_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 1065,
-          "sha256": "79609a69f9cc96e9b58b985e55fe7d3d5dc4f5ca48f740b3eb11824d22872695"
+          "rules": 1066,
+          "sha256": "375b8c45aaf6740f95b20b8efc87a51d0b80568c5ac6074f510396dd7a979509"
         }
       ]
     },
@@ -1302,8 +1302,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/geolocation-!cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 33444,
-          "accepted_rules_before_deduplication": 33444,
+          "candidate_rules": 33446,
+          "accepted_rules_before_deduplication": 33446,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -1324,18 +1324,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 33369,
+        "source_rules_after_semantic_deduplication": 33371,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 33369,
+        "main_rules": 33371,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 61106,
+          "input_rules": 61108,
           "exact_duplicates_removed": 20198,
           "parent_covered_removed": 7539,
           "semantic_merges": 0,
-          "output_rules": 33369
+          "output_rules": 33371
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -1354,15 +1354,15 @@
           "path": "rules/domain/Proxy_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 33369,
-          "sha256": "3f019c922564d680b2cc5d9f7232f9e0c57caad436e608ff75182df8d264e104"
+          "rules": 33371,
+          "sha256": "736cb19838de12aca66903404e0daf83d519fb743613321b3fc9d4cff161a72c"
         },
         {
           "path": "rules/domain/Proxy_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 33369,
-          "sha256": "23a2cc8bc90b5e9427d7d42057d57cb1c9520508d42b54c9bac133a94b1398b1"
+          "rules": 33371,
+          "sha256": "4a71eed9a57cfbba066d3f0d13c4809b2b9b35463669e985ca416cae4bcdaed9"
         }
       ]
     },
