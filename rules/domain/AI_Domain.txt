@@ -86,6 +86,7 @@
 +.events.statsigapi.net
 +.featuregates.org
 +.flow.google
++.flow.google.com
 +.gateway.ai.cloudflare.com
 +.gateway.icloud.com
 +.gemini.google
@@ -138,6 +139,7 @@
 +.mistral.ai
 +.moonshot.ai
 +.mozilla.ai
++.notebook.google
 +.notebook.google.com
 +.notebooklm.google
 +.notebooklm.google.com
