@@ -121,26 +121,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/apple.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 169,
-          "accepted_rules_before_deduplication": 169,
+          "candidate_rules": 53,
+          "accepted_rules_before_deduplication": 53,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 52,
+        "source_rules_after_semantic_deduplication": 53,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 52,
+        "main_rules": 53,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 179,
-          "exact_duplicates_removed": 6,
-          "parent_covered_removed": 121,
+          "input_rules": 63,
+          "exact_duplicates_removed": 7,
+          "parent_covered_removed": 3,
           "semantic_merges": 0,
-          "output_rules": 52
+          "output_rules": 53
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -159,15 +159,15 @@
           "path": "rules/ip/Apple_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 52,
-          "sha256": "5c47840d5f8c350143e4b0cff927fb0f97cc4f8b9bd304a86aa783fae13d5884"
+          "rules": 53,
+          "sha256": "3e8f9072a86f511eb06fab181cabe08e83497c7cbe4cd4d3634931ede5c85987"
         },
         {
           "path": "rules/ip/Apple_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 52,
-          "sha256": "dc6fb96a25a19b83cd88ab185cc9b64c8eae38548e68640fa438b4ec9f96fb32"
+          "rules": 53,
+          "sha256": "943bfd956b2916f3b2536000a32f2734be50915ad4f96985221bd22abf2cee00"
         }
       ]
     },
@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3410,
-          "accepted_rules_before_deduplication": 3410,
+          "candidate_rules": 3415,
+          "accepted_rules_before_deduplication": 3415,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71137,
-          "exact_duplicates_removed": 24747,
-          "parent_covered_removed": 20587,
+          "input_rules": 71142,
+          "exact_duplicates_removed": 24753,
+          "parent_covered_removed": 20586,
           "semantic_merges": 587,
           "output_rules": 25216
         },
@@ -474,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3410,
-          "accepted_rules_before_deduplication": 3410,
+          "candidate_rules": 3415,
+          "accepted_rules_before_deduplication": 3415,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -502,8 +502,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 11062,
-          "accepted_rules_before_deduplication": 11062,
+          "candidate_rules": 9254,
+          "accepted_rules_before_deduplication": 9254,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -581,18 +581,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 11844,
+        "source_rules_after_semantic_deduplication": 25103,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 11925,
-        "removed_source_rules": 6,
-        "converted_source_rules": 5,
+        "main_rules": 25103,
+        "removed_source_rules": 0,
+        "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 82199,
-          "exact_duplicates_removed": 32972,
-          "parent_covered_removed": 37102,
-          "semantic_merges": 281,
-          "output_rules": 11844
+          "input_rules": 80396,
+          "exact_duplicates_removed": 33954,
+          "parent_covered_removed": 20786,
+          "semantic_merges": 553,
+          "output_rules": 25103
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -601,148 +601,8 @@
           "semantic_merges": 0,
           "output_rules": 11
         },
-        "removed": [
-          "77.105.163.0/24",
-          "103.41.125.0/24",
-          "140.248.33.0/24",
-          "146.75.187.0/24",
-          "146.75.189.0/24",
-          "193.8.231.0/24"
-        ],
-        "converted": [
-          {
-            "source": "43.230.144.0/22",
-            "replacements": [
-              "43.230.145.0/24",
-              "43.230.146.0/23"
-            ],
-            "replacement_count": 2,
-            "replacements_truncated": false,
-            "reason": "ipcidr_difference"
-          },
-          {
-            "source": "103.41.184.0/22",
-            "replacements": [
-              "103.41.184.0/24",
-              "103.41.186.0/23"
-            ],
-            "replacement_count": 2,
-            "replacements_truncated": false,
-            "reason": "ipcidr_difference"
-          },
-          {
-            "source": "103.49.212.0/22",
-            "replacements": [
-              "103.49.213.0/24",
-              "103.49.214.0/23"
-            ],
-            "replacement_count": 2,
-            "replacements_truncated": false,
-            "reason": "ipcidr_difference"
-          },
-          {
-            "source": "103.51.12.0/22",
-            "replacements": [
-              "103.51.13.0/24",
-              "103.51.14.0/23"
-            ],
-            "replacement_count": 2,
-            "replacements_truncated": false,
-            "reason": "ipcidr_difference"
-          },
-          {
-            "source": "2001:4860:4800::/44",
-            "replacements": [
-              "2001:4860:4800::/47",
-              "2001:4860:4802::/59",
-              "2001:4860:4802:20::/60",
-              "2001:4860:4802:30::/63",
-              "2001:4860:4802:32::/125",
-              "2001:4860:4802:32::8/127",
-              "2001:4860:4802:32::b/128",
-              "2001:4860:4802:32::c/126",
-              "2001:4860:4802:32::10/124",
-              "2001:4860:4802:32::20/123",
-              "2001:4860:4802:32::40/122",
-              "2001:4860:4802:32::80/121",
-              "2001:4860:4802:32::100/120",
-              "2001:4860:4802:32::200/119",
-              "2001:4860:4802:32::400/118",
-              "2001:4860:4802:32::800/117",
-              "2001:4860:4802:32::1000/116",
-              "2001:4860:4802:32::2000/115",
-              "2001:4860:4802:32::4000/114",
-              "2001:4860:4802:32::8000/113",
-              "2001:4860:4802:32::1:0/112",
-              "2001:4860:4802:32::2:0/111",
-              "2001:4860:4802:32::4:0/110",
-              "2001:4860:4802:32::8:0/109",
-              "2001:4860:4802:32::10:0/108",
-              "2001:4860:4802:32::20:0/107",
-              "2001:4860:4802:32::40:0/106",
-              "2001:4860:4802:32::80:0/105",
-              "2001:4860:4802:32::100:0/104",
-              "2001:4860:4802:32::200:0/103",
-              "2001:4860:4802:32::400:0/102",
-              "2001:4860:4802:32::800:0/101",
-              "2001:4860:4802:32::1000:0/100",
-              "2001:4860:4802:32::2000:0/99",
-              "2001:4860:4802:32::4000:0/98",
-              "2001:4860:4802:32::8000:0/97",
-              "2001:4860:4802:32:0:1::/96",
-              "2001:4860:4802:32:0:2::/95",
-              "2001:4860:4802:32:0:4::/94",
-              "2001:4860:4802:32:0:8::/93",
-              "2001:4860:4802:32:0:10::/92",
-              "2001:4860:4802:32:0:20::/91",
-              "2001:4860:4802:32:0:40::/90",
-              "2001:4860:4802:32:0:80::/89",
-              "2001:4860:4802:32:0:100::/88",
-              "2001:4860:4802:32:0:200::/87",
-              "2001:4860:4802:32:0:400::/86",
-              "2001:4860:4802:32:0:800::/85",
-              "2001:4860:4802:32:0:1000::/84",
-              "2001:4860:4802:32:0:2000::/83",
-              "2001:4860:4802:32:0:4000::/82",
-              "2001:4860:4802:32:0:8000::/81",
-              "2001:4860:4802:32:1::/80",
-              "2001:4860:4802:32:2::/79",
-              "2001:4860:4802:32:4::/78",
-              "2001:4860:4802:32:8::/77",
-              "2001:4860:4802:32:10::/76",
-              "2001:4860:4802:32:20::/75",
-              "2001:4860:4802:32:40::/74",
-              "2001:4860:4802:32:80::/73",
-              "2001:4860:4802:32:100::/72",
-              "2001:4860:4802:32:200::/71",
-              "2001:4860:4802:32:400::/70",
-              "2001:4860:4802:32:800::/69",
-              "2001:4860:4802:32:1000::/68",
-              "2001:4860:4802:32:2000::/67",
-              "2001:4860:4802:32:4000::/66",
-              "2001:4860:4802:32:8000::/65",
-              "2001:4860:4802:33::/64",
-              "2001:4860:4802:34::/62",
-              "2001:4860:4802:38::/61",
-              "2001:4860:4802:40::/58",
-              "2001:4860:4802:80::/57",
-              "2001:4860:4802:100::/56",
-              "2001:4860:4802:200::/55",
-              "2001:4860:4802:400::/54",
-              "2001:4860:4802:800::/53",
-              "2001:4860:4802:1000::/52",
-              "2001:4860:4802:2000::/51",
-              "2001:4860:4802:4000::/50",
-              "2001:4860:4802:8000::/49",
-              "2001:4860:4803::/48",
-              "2001:4860:4804::/46",
-              "2001:4860:4808::/45"
-            ],
-            "replacement_count": 84,
-            "replacements_truncated": false,
-            "reason": "ipcidr_difference"
-          }
-        ],
+        "removed": [],
+        "converted": [],
         "partial_overlap_retained": [],
         "examples_truncated": false
       },
@@ -751,15 +611,15 @@
           "path": "rules/ip/CN_IP_full.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 11925,
-          "sha256": "80fb0dd3829dc884064185e7f64d8fb3dace2e666f7a8ba767fea8c14cdf7788"
+          "rules": 25103,
+          "sha256": "0560f619b3034e9a22c18611ef6bc2ae6329f1f8076fb5764a10c601af820635"
         },
         {
           "path": "rules/ip/CN_IP_full.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 11925,
-          "sha256": "19a3b31786d32592dfd1f634c0b83724ba691e1abe9c18a443393ad582a50e86"
+          "rules": 25103,
+          "sha256": "94e6a1ab1cb983416170c9fbc1384554884251436076b7f23e4fc47325144930"
         },
         {
           "path": "rules/ip/NO_CN_IP_full.mrs",
@@ -1222,26 +1082,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/microsoft.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 1066,
-          "accepted_rules_before_deduplication": 1066,
+          "candidate_rules": 1059,
+          "accepted_rules_before_deduplication": 1059,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 1066,
+        "source_rules_after_semantic_deduplication": 1059,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 1066,
+        "main_rules": 1059,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 1066,
+          "input_rules": 1059,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 1066
+          "output_rules": 1059
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -1260,15 +1120,15 @@
           "path": "rules/ip/Microsoft_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 1066,
-          "sha256": "3d71225a6e9fc4e5e3132f08d5b6b5c96a42f05868d17ae2b32f3288918bbede"
+          "rules": 1059,
+          "sha256": "c7c2e6f559c45623f61ff831d01cb300b596f3447bf5555d5cf56a760b537c92"
         },
         {
           "path": "rules/ip/Microsoft_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 1066,
-          "sha256": "375b8c45aaf6740f95b20b8efc87a51d0b80568c5ac6074f510396dd7a979509"
+          "rules": 1059,
+          "sha256": "0f05daaf56f96da61237223e5178e1a98eb930e03b46ab3c74684be411a179b7"
         }
       ]
     },
