@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "mihomo_version": "alpha-f103639",
+  "mihomo_version": "alpha-63bd52e",
   "summary": {
     "task_definitions": 14,
     "enabled_tasks": 14,
@@ -215,26 +215,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 109340,
-          "accepted_rules_before_deduplication": 109340,
+          "candidate_rules": 109286,
+          "accepted_rules_before_deduplication": 109286,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 109544,
+        "source_rules_after_semantic_deduplication": 109490,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 109544,
+        "main_rules": 109490,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 110379,
+          "input_rules": 110325,
           "exact_duplicates_removed": 665,
           "parent_covered_removed": 170,
           "semantic_merges": 0,
-          "output_rules": 109544
+          "output_rules": 109490
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -253,15 +253,15 @@
           "path": "rules/domain/CN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 109544,
-          "sha256": "cfa78f8d412bec5347365debef8e9f20f352e96511424bd7b477fe4ce146140f"
+          "rules": 109490,
+          "sha256": "5e5a0eea78a871c3f369ded300517b943ccfaf574da26413e1168d1f251af7c9"
         },
         {
           "path": "rules/domain/CN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 109544,
-          "sha256": "c12deea52bccddcb33a865ae9b879aa4753de93c119d74a37e493aa5ade53873"
+          "rules": 109490,
+          "sha256": "247f70388f90bf3a8652d08c5bca42c64cd1f82094c8e6e760eee5de00bcbae1"
         }
       ]
     },
@@ -335,10 +335,10 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/f38d8f97-926b-41c7-a142-731190910039",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/d0f5eaad-9e49-4771-a267-a02816eab218",
           "detected_format": "mrs",
-          "candidate_rules": 9392,
-          "accepted_rules_before_deduplication": 9392,
+          "candidate_rules": 9399,
+          "accepted_rules_before_deduplication": 9399,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,10 +395,10 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 71123,
-          "exact_duplicates_removed": 24746,
-          "parent_covered_removed": 20583,
-          "semantic_merges": 578,
+          "input_rules": 71130,
+          "exact_duplicates_removed": 24747,
+          "parent_covered_removed": 20580,
+          "semantic_merges": 587,
           "output_rules": 25216
         },
         "exclude_deduplication": {
@@ -528,10 +528,10 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/f38d8f97-926b-41c7-a142-731190910039",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/d0f5eaad-9e49-4771-a267-a02816eab218",
           "detected_format": "mrs",
-          "candidate_rules": 9392,
-          "accepted_rules_before_deduplication": 9392,
+          "candidate_rules": 9399,
+          "accepted_rules_before_deduplication": 9399,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,10 +588,10 @@
         "converted_source_rules": 5,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 82185,
-          "exact_duplicates_removed": 32971,
-          "parent_covered_removed": 37090,
-          "semantic_merges": 280,
+          "input_rules": 82192,
+          "exact_duplicates_removed": 32972,
+          "parent_covered_removed": 37095,
+          "semantic_merges": 281,
           "output_rules": 11844
         },
         "exclude_deduplication": {
@@ -900,7 +900,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/808d46a6-2e9f-4c89-80d3-43eeb46c4912",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/08901d57-6b10-4d5c-a0d8-ecd0e86d2e95",
           "detected_format": "mrs",
           "candidate_rules": 899,
           "accepted_rules_before_deduplication": 899,
@@ -1314,10 +1314,10 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/1963aeed-09a7-4e71-b6c2-e13b08e86fe1",
+          "final_source": "https://release-assets.githubusercontent.com/github-production-release-asset/624368088/7a0cc233-f2b8-4c98-9e92-eb4611b5625b",
           "detected_format": "mrs",
-          "candidate_rules": 26402,
-          "accepted_rules_before_deduplication": 26402,
+          "candidate_rules": 26404,
+          "accepted_rules_before_deduplication": 26404,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -1331,8 +1331,8 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 61108,
-          "exact_duplicates_removed": 20198,
+          "input_rules": 61110,
+          "exact_duplicates_removed": 20200,
           "parent_covered_removed": 7539,
           "semantic_merges": 0,
           "output_rules": 33371
