@@ -323,8 +323,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/cn_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 7825,
-          "accepted_rules_before_deduplication": 7825,
+          "candidate_rules": 7840,
+          "accepted_rules_before_deduplication": 7840,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -388,18 +388,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 25262,
+        "source_rules_after_semantic_deduplication": 25309,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 25262,
+        "main_rules": 25309,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 68013,
-          "exact_duplicates_removed": 24734,
-          "parent_covered_removed": 17440,
-          "semantic_merges": 577,
-          "output_rules": 25262
+          "input_rules": 68028,
+          "exact_duplicates_removed": 24731,
+          "parent_covered_removed": 17423,
+          "semantic_merges": 565,
+          "output_rules": 25309
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -418,15 +418,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 25262,
-          "sha256": "5cc37262d6dcdae8b0a4ff9d5ea132e29c70a93de1f563074a57acfce7e5120e"
+          "rules": 25309,
+          "sha256": "cb510c8f8f1361600776a500ac1c1e9bb2f3993b6f959b4b077963c7ed84976e"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 25262,
-          "sha256": "88cef3f28039c1b3553013f61d1449ab58cc9b2101d0819fd513b93232d72403"
+          "rules": 25309,
+          "sha256": "80cbb113f66485ddfd0c1ccabc1857bd2649e94bec7e283101243698a14c6ce4"
         },
         {
           "path": "rules/ip/NO_CN_IP.mrs",
@@ -502,8 +502,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geoip/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 9254,
-          "accepted_rules_before_deduplication": 9254,
+          "candidate_rules": 9239,
+          "accepted_rules_before_deduplication": 9239,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -516,8 +516,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/cn_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 7825,
-          "accepted_rules_before_deduplication": 7825,
+          "candidate_rules": 7840,
+          "accepted_rules_before_deduplication": 7840,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -581,18 +581,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 25149,
+        "source_rules_after_semantic_deduplication": 25183,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 25149,
+        "main_rules": 25183,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
           "input_rules": 77267,
-          "exact_duplicates_removed": 33934,
-          "parent_covered_removed": 17627,
-          "semantic_merges": 557,
-          "output_rules": 25149
+          "exact_duplicates_removed": 33916,
+          "parent_covered_removed": 17623,
+          "semantic_merges": 545,
+          "output_rules": 25183
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -611,15 +611,15 @@
           "path": "rules/ip/CN_IP_full.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 25149,
-          "sha256": "36ce4ce57ff6d3ebd7f9161f393782d4300e3e2df9c79bc07d8e3ae718b9d8a9"
+          "rules": 25183,
+          "sha256": "9bb0b67a8d165cfac65b70d06f15b6ccd6899fdf47a2f3b6b41bd38e28d223b7"
         },
         {
           "path": "rules/ip/CN_IP_full.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 25149,
-          "sha256": "42c3a5576096e199df9052d26109126f78cccf2b213a0d7a28d8cb3fa6aa91bd"
+          "rules": 25183,
+          "sha256": "d799a2b76ee93217ec60bc3b93173f40a8d3f587af7b971cea3b74d6a3e62bc7"
         },
         {
           "path": "rules/ip/NO_CN_IP_full.mrs",
