@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "mihomo_version": "alpha-63bd52e",
+  "mihomo_version": "alpha-60f70ce",
   "summary": {
     "task_definitions": 14,
     "enabled_tasks": 14,
@@ -307,7 +307,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
+          "final_source": "https://raw.githubusercontent.com/imduaky/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
           "candidate_rules": 33852,
           "accepted_rules_before_deduplication": 33852,
@@ -486,7 +486,7 @@
           "declared_format": "mrs",
           "optional": true,
           "status": "ok",
-          "final_source": "https://raw.githubusercontent.com/duakc/geoip/refs/heads/release/mrs/cn.mrs",
+          "final_source": "https://raw.githubusercontent.com/imduaky/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
           "candidate_rules": 33852,
           "accepted_rules_before_deduplication": 33852,
