@@ -92,6 +92,8 @@
 +.gemini.google
 +.gemini.google.com
 +.gemini.gstatic.com
++.geminiweb-pa.clients.google.com
++.geminiweb-pa.clients6.google.com
 +.generativeai.google
 +.githubcopilot.com
 +.githubnext.com
