@@ -24,8 +24,13 @@
           "source": "https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/ai.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/jiuyue52/CRules/raw/refs/heads/mihomo/resources/rules/ai.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/CRules/refs/heads/mihomo/resources/rules/ai.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 32,
+          "accepted_rules_before_deduplication": 32,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "LL_AI AI domains",
@@ -44,18 +49,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 228,
+        "source_rules_after_semantic_deduplication": 231,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 228,
+        "main_rules": 231,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 261,
-          "exact_duplicates_removed": 0,
-          "parent_covered_removed": 33,
+          "input_rules": 293,
+          "exact_duplicates_removed": 2,
+          "parent_covered_removed": 60,
           "semantic_merges": 0,
-          "output_rules": 228
+          "output_rules": 231
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -74,15 +79,15 @@
           "path": "rules/domain/AI_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 228,
-          "sha256": "e6b5be2482cf249233c28be4fa3409f6a680562356862d339bd7bb59f97909f2"
+          "rules": 231,
+          "sha256": "325b94e08207ede5cf3e172d1a3dfb7796da93ce2e35b58cacfe32ec8b5db614"
         },
         {
           "path": "rules/domain/AI_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 228,
-          "sha256": "d6338f60b775121eb2f1626e1096f37d09d33bd98d42f034b3790ba2c13d77e4"
+          "rules": 231,
+          "sha256": "01abc090957957657a233dab024039f99f30f18bfdd921f2885240b6691b4888"
         }
       ]
     },
@@ -290,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3442,
-          "accepted_rules_before_deduplication": 3442,
+          "candidate_rules": 3443,
+          "accepted_rules_before_deduplication": 3443,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -390,8 +395,8 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 67264,
-          "exact_duplicates_removed": 24778,
+          "input_rules": 67265,
+          "exact_duplicates_removed": 24779,
           "parent_covered_removed": 17026,
           "semantic_merges": 614,
           "output_rules": 24846
@@ -469,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3442,
-          "accepted_rules_before_deduplication": 3442,
+          "candidate_rules": 3443,
+          "accepted_rules_before_deduplication": 3443,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -583,8 +588,8 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 76877,
-          "exact_duplicates_removed": 32956,
+          "input_rules": 76878,
+          "exact_duplicates_removed": 32957,
           "parent_covered_removed": 22356,
           "semantic_merges": 401,
           "output_rules": 21164
