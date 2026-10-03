@@ -33,6 +33,7 @@
 +.clau.de
 +.claude.ai
 +.claude.com
++.claude.dev
 +.claudemcpclient.com
 +.claudemcpcontent.com
 +.claudeusercontent.com
@@ -135,12 +136,14 @@
 +.manuscdn.com
 +.marscode.com
 +.meta.ai
++.metaaivm.com
 +.microsoft-copilot.com
 +.midjourney.com
 +.minimax.io
 +.mistral.ai
 +.moonshot.ai
 +.mozilla.ai
++.muse.ai
 +.notebook.google
 +.notebook.google.com
 +.notebooklm.google
@@ -165,6 +168,7 @@
 +.openaicomproductionae4b.blob.core.windows.net
 +.openart.ai
 +.openclaw.ai
++.opencode.ai
 +.openrouter.ai
 +.openspec.dev
 +.oystermercury.top
