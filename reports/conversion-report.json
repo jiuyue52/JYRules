@@ -351,8 +351,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6208,
-          "accepted_rules_before_deduplication": 6208,
+          "candidate_rules": 6209,
+          "accepted_rules_before_deduplication": 6209,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -365,8 +365,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
           "detected_format": "text",
-          "candidate_rules": 3447,
-          "accepted_rules_before_deduplication": 3447,
+          "candidate_rules": 3446,
+          "accepted_rules_before_deduplication": 3446,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -544,8 +544,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6208,
-          "accepted_rules_before_deduplication": 6208,
+          "candidate_rules": 6209,
+          "accepted_rules_before_deduplication": 6209,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -558,8 +558,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
           "detected_format": "text",
-          "candidate_rules": 3447,
-          "accepted_rules_before_deduplication": 3447,
+          "candidate_rules": 3446,
+          "accepted_rules_before_deduplication": 3446,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -666,8 +666,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6208,
-          "accepted_rules_before_deduplication": 6208,
+          "candidate_rules": 6209,
+          "accepted_rules_before_deduplication": 6209,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -680,8 +680,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
           "detected_format": "text",
-          "candidate_rules": 3447,
-          "accepted_rules_before_deduplication": 3447,
+          "candidate_rules": 3446,
+          "accepted_rules_before_deduplication": 3446,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -734,14 +734,14 @@
           "format": "mrs",
           "behavior": "ipcidr",
           "rules": 9655,
-          "sha256": "1c816f5e35c2a43b8424afdd83670a5600a7e6a80a0e66ed8f4d3c99f1d7c954"
+          "sha256": "156ea29745acaee0e3ac8e7fcca3f1e71cc6de085be6437f38756cf83caa4f2a"
         },
         {
           "path": "rules/ip/CN_IP_min.txt",
           "format": "text",
           "behavior": "ipcidr",
           "rules": 9655,
-          "sha256": "2acdc7b9c29bf415a287641354829c8b47c7298e3782a690e6e31128475ec58c"
+          "sha256": "fe7994ca3fb792d4e5f666c94b882993522b5bd1a4bf7f406399458b050e5a2b"
         },
         {
           "path": "rules/ip/NO_CN_IP_min.mrs",
