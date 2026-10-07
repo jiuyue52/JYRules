@@ -309,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/imduaky/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 33676,
-          "accepted_rules_before_deduplication": 33676,
+          "candidate_rules": 33675,
+          "accepted_rules_before_deduplication": 33675,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -351,8 +351,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6208,
-          "accepted_rules_before_deduplication": 6208,
+          "candidate_rules": 6163,
+          "accepted_rules_before_deduplication": 6163,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -388,18 +388,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 25312,
+        "source_rules_after_semantic_deduplication": 25284,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 25312,
+        "main_rules": 25284,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 67944,
-          "exact_duplicates_removed": 24784,
-          "parent_covered_removed": 17230,
+          "input_rules": 67898,
+          "exact_duplicates_removed": 24745,
+          "parent_covered_removed": 17251,
           "semantic_merges": 618,
-          "output_rules": 25312
+          "output_rules": 25284
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -418,15 +418,15 @@
           "path": "rules/ip/CN_IP.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 25312,
-          "sha256": "0b50493bc3cc30e9daff448d8e2eb2e1d5337bbc0eaeb81f4cf97eeed80ec8c6"
+          "rules": 25284,
+          "sha256": "cef552b153e4f0a6a7ed60f895b81768c2c6bdf397a93e4f524ddc38441b4dcd"
         },
         {
           "path": "rules/ip/CN_IP.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 25312,
-          "sha256": "93c3d9c02ae31db231bc31fa07488a59607e5a9af91db5ab3f842a8334ffb67f"
+          "rules": 25284,
+          "sha256": "901270b73d4f5fd21f944009cc874162e699073d69d5c89cf046ee95e42e6320"
         },
         {
           "path": "rules/ip/NO_CN_IP.mrs",
@@ -488,8 +488,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/imduaky/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 33676,
-          "accepted_rules_before_deduplication": 33676,
+          "candidate_rules": 33675,
+          "accepted_rules_before_deduplication": 33675,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -544,8 +544,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6208,
-          "accepted_rules_before_deduplication": 6208,
+          "candidate_rules": 6163,
+          "accepted_rules_before_deduplication": 6163,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,9 +588,9 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 77556,
-          "exact_duplicates_removed": 32960,
-          "parent_covered_removed": 22811,
+          "input_rules": 77510,
+          "exact_duplicates_removed": 32928,
+          "parent_covered_removed": 22797,
           "semantic_merges": 409,
           "output_rules": 21376
         },
@@ -666,8 +666,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6208,
-          "accepted_rules_before_deduplication": 6208,
+          "candidate_rules": 6163,
+          "accepted_rules_before_deduplication": 6163,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -703,18 +703,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 9654,
+        "source_rules_after_semantic_deduplication": 9609,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 9654,
+        "main_rules": 9609,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 9654,
+          "input_rules": 9609,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 9654
+          "output_rules": 9609
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -733,15 +733,15 @@
           "path": "rules/ip/CN_IP_min.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 9654,
-          "sha256": "010f9f9e42694a14e50670067282dd04b5a7c7647388ec11b19a0bde2911c742"
+          "rules": 9609,
+          "sha256": "d95b3d125f6c74ce3c15e19ef794f142de91e21c3b8fb7767e76aebfabff5149"
         },
         {
           "path": "rules/ip/CN_IP_min.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 9654,
-          "sha256": "8476ff1366a69afb3289bddbc147e1ed94b28c8efec8a07d51e691375bc8d36d"
+          "rules": 9609,
+          "sha256": "bc06042ce5c479f48d82d54878b9ad698e5c8297b4a770ba943b87cc5437fb08"
         },
         {
           "path": "rules/ip/NO_CN_IP_min.mrs",
