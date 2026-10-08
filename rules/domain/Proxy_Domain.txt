@@ -6289,6 +6289,7 @@
 +.appmediagroup.com
 +.appmovie.net
 +.approvedusedbmw.com
++.approveit.today
 +.apps.evozi.com
 +.apps5.oingo.com
 +.appsflayer.com
@@ -27510,6 +27511,7 @@
 +.surrenderat20.net
 +.suruga-ya.com
 +.surveycake.com
++.surveymonkey.com
 +.sushi.ski
 +.susiewildin.com
 +.sustainablebuildingstudio.com
@@ -29519,6 +29521,7 @@
 +.vanityfair.com
 +.vanpeople.com
 +.vansky.com
++.vanta.com
 +.vantagefx.com
 +.vantrue.store
 +.vastenm.com
