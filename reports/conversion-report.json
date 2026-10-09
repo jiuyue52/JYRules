@@ -38,24 +38,29 @@
           "source": "https://github.com/666OS/rules/raw/release/mihomo/domain/AI.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/666OS/rules/raw/release/mihomo/domain/AI.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/666OS/rules/release/mihomo/domain/AI.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 268,
+          "accepted_rules_before_deduplication": 268,
+          "rejected_rules": 0,
+          "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 32,
+        "source_rules_after_semantic_deduplication": 235,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 32,
+        "main_rules": 235,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 32,
-          "exact_duplicates_removed": 0,
-          "parent_covered_removed": 0,
+          "input_rules": 300,
+          "exact_duplicates_removed": 2,
+          "parent_covered_removed": 63,
           "semantic_merges": 0,
-          "output_rules": 32
+          "output_rules": 235
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -74,15 +79,15 @@
           "path": "rules/domain/AI_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 32,
-          "sha256": "8077e1d59c4f28fa8f0bb58db9fa1ee74fcca262e32101fbab2f0acbe7c571d7"
+          "rules": 235,
+          "sha256": "99666bb1a0630605f6cb324ea8676ac8a1284028971025937b3e67d763a27e92"
         },
         {
           "path": "rules/domain/AI_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 32,
-          "sha256": "ce50431f52e9ccaa0f00b63d926495bf9abfe396a0382a4eecd8fe81315e1e33"
+          "rules": 235,
+          "sha256": "0f08123dcd2f6f8799e1bd514cd753e5e141f354431823977c5e4b367da7b182"
         }
       ]
     },
@@ -179,8 +184,13 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/direct.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/direct.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/direct.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 173,
+          "accepted_rules_before_deduplication": 173,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "Skk_Domestic CN domains",
@@ -188,8 +198,13 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/domestic.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/domestic.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/domestic.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 867,
+          "accepted_rules_before_deduplication": 867,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "Bett_CN CN domains",
@@ -208,18 +223,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 109657,
+        "source_rules_after_semantic_deduplication": 109862,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 109657,
+        "main_rules": 109862,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 109657,
-          "exact_duplicates_removed": 0,
-          "parent_covered_removed": 0,
+          "input_rules": 110697,
+          "exact_duplicates_removed": 665,
+          "parent_covered_removed": 170,
           "semantic_merges": 0,
-          "output_rules": 109657
+          "output_rules": 109862
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -238,15 +253,15 @@
           "path": "rules/domain/CN_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 109657,
-          "sha256": "291704ef2cd00a62d53c93189b555385b41007baab27ca341a58f207681a911c"
+          "rules": 109862,
+          "sha256": "fa14bc69fc5d7ffe84e680486f1ba40492c06a0a25597c271daa61cd059eb620"
         },
         {
           "path": "rules/domain/CN_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 109657,
-          "sha256": "79874c40c6735965332c8fd4d755e28be9d679781b2062117873d6119163a859"
+          "rules": 109862,
+          "sha256": "9ac42911936e87df60c9ca60f297e9952cadf466ce3d125eec39db62e350d2db"
         }
       ]
     },
@@ -294,8 +309,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/imduaky/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 35991,
-          "accepted_rules_before_deduplication": 35991,
+          "candidate_rules": 35990,
+          "accepted_rules_before_deduplication": 35990,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -336,8 +351,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6530,
-          "accepted_rules_before_deduplication": 6530,
+          "candidate_rules": 6528,
+          "accepted_rules_before_deduplication": 6528,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -350,8 +365,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
           "detected_format": "text",
-          "candidate_rules": 3467,
-          "accepted_rules_before_deduplication": 3467,
+          "candidate_rules": 3466,
+          "accepted_rules_before_deduplication": 3466,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -380,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 70929,
-          "exact_duplicates_removed": 25499,
-          "parent_covered_removed": 19438,
+          "input_rules": 70925,
+          "exact_duplicates_removed": 25493,
+          "parent_covered_removed": 19440,
           "semantic_merges": 600,
           "output_rules": 25392
         },
@@ -473,8 +488,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/imduaky/geoip/refs/heads/release/mrs/cn.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 35991,
-          "accepted_rules_before_deduplication": 35991,
+          "candidate_rules": 35990,
+          "accepted_rules_before_deduplication": 35990,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -529,8 +544,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6530,
-          "accepted_rules_before_deduplication": 6530,
+          "candidate_rules": 6528,
+          "accepted_rules_before_deduplication": 6528,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -543,8 +558,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
           "detected_format": "text",
-          "candidate_rules": 3467,
-          "accepted_rules_before_deduplication": 3467,
+          "candidate_rules": 3466,
+          "accepted_rules_before_deduplication": 3466,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -573,9 +588,9 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 80927,
-          "exact_duplicates_removed": 34075,
-          "parent_covered_removed": 25062,
+          "input_rules": 80923,
+          "exact_duplicates_removed": 34069,
+          "parent_covered_removed": 25064,
           "semantic_merges": 403,
           "output_rules": 21387
         },
@@ -651,8 +666,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
           "detected_format": "text",
-          "candidate_rules": 6530,
-          "accepted_rules_before_deduplication": 6530,
+          "candidate_rules": 6528,
+          "accepted_rules_before_deduplication": 6528,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -665,8 +680,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
           "detected_format": "text",
-          "candidate_rules": 3467,
-          "accepted_rules_before_deduplication": 3467,
+          "candidate_rules": 3466,
+          "accepted_rules_before_deduplication": 3466,
           "rejected_rules": 0,
           "rejected": {}
         }
@@ -688,18 +703,18 @@
         }
       ],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 9997,
+        "source_rules_after_semantic_deduplication": 9994,
         "exclude_rules_after_semantic_deduplication": 11,
-        "main_rules": 9997,
+        "main_rules": 9994,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 9997,
+          "input_rules": 9994,
           "exact_duplicates_removed": 0,
           "parent_covered_removed": 0,
           "semantic_merges": 0,
-          "output_rules": 9997
+          "output_rules": 9994
         },
         "exclude_deduplication": {
           "input_rules": 11,
@@ -718,15 +733,15 @@
           "path": "rules/ip/CN_IP_min.mrs",
           "format": "mrs",
           "behavior": "ipcidr",
-          "rules": 9997,
-          "sha256": "2ee877d1c42018f84cf64d866ba3781a38c35dbd4864ef4b129ef51a207f6dcc"
+          "rules": 9994,
+          "sha256": "31c43556c08c53b736bb2663789a11f56ab4a89d122bcc5e16b1298edd1bf02b"
         },
         {
           "path": "rules/ip/CN_IP_min.txt",
           "format": "text",
           "behavior": "ipcidr",
-          "rules": 9997,
-          "sha256": "3223b30beb86d6ce62058b4f40f1261229ad68691d223980bd0cf7726cda2db7"
+          "rules": 9994,
+          "sha256": "fdec6a9b1084c3c902584239715e1e22c7f6f9147fa6aaec02e7a6ac7cb38e21"
         },
         {
           "path": "rules/ip/NO_CN_IP_min.mrs",
@@ -1157,8 +1172,13 @@
           "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-!cn.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/geolocation-!cn.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/geolocation-!cn.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 33459,
+          "accepted_rules_before_deduplication": 33459,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "DW_proxy Proxy domains",
@@ -1177,18 +1197,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 21554,
+        "source_rules_after_semantic_deduplication": 33386,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 21554,
+        "main_rules": 33386,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 27708,
-          "exact_duplicates_removed": 791,
-          "parent_covered_removed": 5363,
+          "input_rules": 61167,
+          "exact_duplicates_removed": 20218,
+          "parent_covered_removed": 7563,
           "semantic_merges": 0,
-          "output_rules": 21554
+          "output_rules": 33386
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -1207,15 +1227,15 @@
           "path": "rules/domain/Proxy_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 21554,
-          "sha256": "152be31cd20b7de37f9fc67a32da0ffe58c5efc084ed59dbc40afbcdb2100cda"
+          "rules": 33386,
+          "sha256": "eb32b8d9377961f183d922bcb4fcbcf60e4e27804aec438bd639883b4d89c9d2"
         },
         {
           "path": "rules/domain/Proxy_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 21554,
-          "sha256": "42be2bd76630d9b5e4d9a1bbb2ebac565d538dd1b4f4a6796999f85c77a3bb4e"
+          "rules": 33386,
+          "sha256": "2be3e824217b3d980e91a98d3a90023c392f654c7e6d3afa508d6d367c46d9b1"
         }
       ]
     },
@@ -1260,8 +1280,13 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_eu.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_eu.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_eu.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 6,
+          "accepted_rules_before_deduplication": 6,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "Skk_Stream stream_hk domains",
@@ -1325,8 +1350,13 @@
           "source": "https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_us.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/jiuyue52/MihomoRules/raw/refs/heads/main/rules/skk/non_ip/stream_us.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/non_ip/stream_us.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 42,
+          "accepted_rules_before_deduplication": 42,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "Bett_spotify spotify domains",
@@ -1348,8 +1378,13 @@
           "source": "https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hbo.mrs",
           "declared_format": "mrs",
           "optional": true,
-          "status": "skipped",
-          "error": "failed to download https://github.com/appshubcc/bett-rules/raw/refs/heads/meta/geo/geosite/hbo.mrs: HTTP Error 504: Gateway Time-out"
+          "status": "ok",
+          "final_source": "https://raw.githubusercontent.com/appshubcc/bett-rules/refs/heads/meta/geo/geosite/hbo.mrs",
+          "detected_format": "mrs",
+          "candidate_rules": 65,
+          "accepted_rules_before_deduplication": 65,
+          "rejected_rules": 0,
+          "rejected": {}
         },
         {
           "name": "Bett_Netflix Netflix domains",
@@ -1410,18 +1445,18 @@
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 508,
+        "source_rules_after_semantic_deduplication": 559,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 508,
+        "main_rules": 559,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 697,
-          "exact_duplicates_removed": 182,
+          "input_rules": 810,
+          "exact_duplicates_removed": 244,
           "parent_covered_removed": 7,
           "semantic_merges": 0,
-          "output_rules": 508
+          "output_rules": 559
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -1440,15 +1475,15 @@
           "path": "rules/domain/Stream_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 508,
-          "sha256": "9183a467907c7fe829f4da079acc3dcbd26acb665afc3315aefeeb5b1ce0def2"
+          "rules": 559,
+          "sha256": "5f190d01032a6cc68bb92d784aec0a2a4730136041f1dca4d3e68fa3a715d77d"
         },
         {
           "path": "rules/domain/Stream_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 508,
-          "sha256": "218da6011b5a0195ca0ef259c0d88e0065055ecee74ba7c6de9d65665561ec42"
+          "rules": 559,
+          "sha256": "d078d6ac5ac04ecd2a2eeba6f02c10852e051e50af25388162b647c77c0060b5"
         }
       ]
     },
