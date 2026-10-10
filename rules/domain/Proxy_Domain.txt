@@ -10343,7 +10343,6 @@
 +.cloudn.me
 +.cloudns.net
 +.cloudrobotics.com
-+.cloudru.cn
 +.cloudvolumes.com
 +.cloudyzgirl.com
 +.cloupia.com
@@ -12172,7 +12171,6 @@
 +.eamythic.net
 +.eanordic.com
 +.eaplay.com
-+.eaptechka.online
 +.earlytibet.com
 +.earngeek.com
 +.earphonescheapest.com
@@ -12558,6 +12556,7 @@
 +.enemas4fun.com
 +.enemasexfetish.com
 +.enematube.com
++.energotransbank.com
 +.energystarbuildings.com
 +.enewstree.com
 +.enf-cmnf.com
@@ -14950,7 +14949,6 @@
 +.giffgaff.design
 +.gifnuki.com
 +.gifree.com
-+.giga.chat
 +.giga102.com
 +.giga5.com
 +.giga888.com
@@ -16345,6 +16343,7 @@
 +.home-made-videos.com
 +.home-sex-tapes.com
 +.home-song.com
++.home.bank
 +.home.blog
 +.home.saxo
 +.homealonemilfs.com
@@ -18349,10 +18348,6 @@
 +.jiuse960.com
 +.jiuse980.com
 +.jivara.global
-+.jivo.chat
-+.jivochat.com
-+.jivochat.com.co
-+.jivosite.com
 +.jiyou520.com
 +.jizy8.com
 +.jizzboom.com
@@ -19147,7 +19142,7 @@
 +.koreanpornmovie.com
 +.korenan2.com
 +.korewaeroi.com
-+.korona.com
++.koronapay.com
 +.kostenlosepornoclips.com
 +.kotlinconf.com
 +.kotlinlang.org
@@ -20331,6 +20326,7 @@
 +.mariokart7.com
 +.mariokart8.com
 +.mariosupersluggers.com
++.maritimebank.com
 +.marketexecutive.net
 +.marketing-cloud.com
 +.marketing-nirvana.com
@@ -20563,7 +20559,6 @@
 +.megaeth.com
 +.megafilmporno.com
 +.megafon.com
-+.megamarket.tech
 +.megapornfreehd.com
 +.megapornpics.com
 +.megaproxy.com
@@ -21172,6 +21167,7 @@
 +.moeload.com
 +.moepedia.net
 +.moeshare.cc
++.moex.com
 +.moez-m.com
 +.mof.kemomi.me
 +.mofos.com
@@ -24527,6 +24523,7 @@
 +.printersetupsupport.com
 +.printspots.com
 +.printspots.net
++.priovtb.com
 +.prism-break.org
 +.prismlauncher.org
 +.prismlive.com
@@ -24627,6 +24624,7 @@
 +.pshvpn.com
 +.psiphon3.com
 +.psiphontoday.com
++.pskb.com
 +.psmag.com
 +.pstatic.net
 +.pstorage.space
@@ -25807,11 +25805,7 @@
 +.sb-cd.com
 +.sb-telecom.net
 +.sb24.com
-+.sber.pro
-+.sberauto.com
-+.sberbank-tele.com
 +.sberbank.com
-+.sbercloud.tech
 +.sbgkstv.shop
 +.sbi
 +.sbitravelcard.com
@@ -26405,6 +26399,7 @@
 +.shazam.com
 +.shdd.ink
 +.shebb.com
++.shedevrum.com
 +.sheflix.com
 +.shegg.com
 +.shegods.com
@@ -30079,6 +30074,7 @@
 +.vsphere.net
 +.vsw8a9h75jq5f0tdz.com
 +.vtb-direct.com
++.vtb.com
 +.vtbglobalperspectives.com
 +.vtsociety.org
 +.vtunnel.com
@@ -32226,17 +32222,23 @@
 +.yanai6.cc
 +.yandex
 +.yandex-bank.net
++.yandex-team.com
 +.yandex.aero
 +.yandex.asia
 +.yandex.cloud
 +.yandex.com
 +.yandex.jobs
++.yandex.market
 +.yandex.mobi
 +.yandex.net
 +.yandex.org
++.yandex.pro
++.yandex.taxi
++.yandex.travel
 +.yandexadexchange.net
 +.yandexcloud.net
 +.yandexcom.net
++.yandexdataschool.com
 +.yandexgo.com
 +.yandexwebcache.net
 +.yandexwebcache.org
@@ -32298,6 +32300,7 @@
 +.yclients.com
 +.ycombinator.com
 +.ycytfj.com
++.ydb.tech
 +.ydlecu.com
 +.ydmod.cc
 +.yds777.com
@@ -33236,8 +33239,6 @@
 +.zuozuoli1.com
 +.zvereff.com
 +.zvrlcbd.com
-+.zvuk-b2b.com
-+.zvuk.com
 +.zw
 +.zw34.com
 +.zweiporn.com
