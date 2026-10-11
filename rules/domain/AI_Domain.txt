@@ -201,6 +201,7 @@
 +.stripe.com
 +.sydney.bing.com
 +.synthesia.io
++.syntx.ai
 +.tabnine.com
 +.talkai.info
 +.tapnow.ai

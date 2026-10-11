@@ -41,26 +41,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/666OS/rules/release/mihomo/domain/AI.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 268,
-          "accepted_rules_before_deduplication": 268,
+          "candidate_rules": 269,
+          "accepted_rules_before_deduplication": 269,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 235,
+        "source_rules_after_semantic_deduplication": 236,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 235,
+        "main_rules": 236,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 300,
+          "input_rules": 301,
           "exact_duplicates_removed": 2,
           "parent_covered_removed": 63,
           "semantic_merges": 0,
-          "output_rules": 235
+          "output_rules": 236
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -79,15 +79,15 @@
           "path": "rules/domain/AI_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 235,
-          "sha256": "99666bb1a0630605f6cb324ea8676ac8a1284028971025937b3e67d763a27e92"
+          "rules": 236,
+          "sha256": "8feea90646fca92c890c792c02db7d57332d2d49ea5ebbedce2f0c05f73f8d8a"
         },
         {
           "path": "rules/domain/AI_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 235,
-          "sha256": "0f08123dcd2f6f8799e1bd514cd753e5e141f354431823977c5e4b367da7b182"
+          "rules": 236,
+          "sha256": "efc2ae5fcf1d3d86f1ddb590f51cdad984c26479c97316f487a63e37b6323e9a"
         }
       ]
     },
@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3479,
-          "accepted_rules_before_deduplication": 3479,
+          "candidate_rules": 3478,
+          "accepted_rules_before_deduplication": 3478,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 70976,
+          "input_rules": 70975,
           "exact_duplicates_removed": 25526,
-          "parent_covered_removed": 19453,
+          "parent_covered_removed": 19452,
           "semantic_merges": 603,
           "output_rules": 25394
         },
@@ -474,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3479,
-          "accepted_rules_before_deduplication": 3479,
+          "candidate_rules": 3478,
+          "accepted_rules_before_deduplication": 3478,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,8 +588,8 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 80990,
-          "exact_duplicates_removed": 34116,
+          "input_rules": 80989,
+          "exact_duplicates_removed": 34115,
           "parent_covered_removed": 25079,
           "semantic_merges": 406,
           "output_rules": 21389
