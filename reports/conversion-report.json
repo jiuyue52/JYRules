@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "mihomo_version": "alpha-bc76c13",
+  "mihomo_version": "alpha-94b13ae",
   "summary": {
     "task_definitions": 14,
     "enabled_tasks": 14,
@@ -281,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3906,
-          "accepted_rules_before_deduplication": 3906,
+          "candidate_rules": 3905,
+          "accepted_rules_before_deduplication": 3905,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3473,
-          "accepted_rules_before_deduplication": 3473,
+          "candidate_rules": 3483,
+          "accepted_rules_before_deduplication": 3483,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69703,
-          "exact_duplicates_removed": 25516,
-          "parent_covered_removed": 18061,
+          "input_rules": 69712,
+          "exact_duplicates_removed": 25527,
+          "parent_covered_removed": 18059,
           "semantic_merges": 611,
           "output_rules": 25515
         },
@@ -460,8 +460,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3906,
-          "accepted_rules_before_deduplication": 3906,
+          "candidate_rules": 3905,
+          "accepted_rules_before_deduplication": 3905,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -474,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3473,
-          "accepted_rules_before_deduplication": 3473,
+          "candidate_rules": 3483,
+          "accepted_rules_before_deduplication": 3483,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,9 +588,9 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 79717,
-          "exact_duplicates_removed": 34104,
-          "parent_covered_removed": 23862,
+          "input_rules": 79726,
+          "exact_duplicates_removed": 34115,
+          "parent_covered_removed": 23860,
           "semantic_merges": 393,
           "output_rules": 21358
         },
