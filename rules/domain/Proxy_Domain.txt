@@ -23923,6 +23923,7 @@
 +.playstation
 +.playstation.com
 +.playstation.net
++.playstationnetwork.com
 +.playvalorant.com
 +.playvids.com
 +.playwarcraft3.com
@@ -25843,6 +25844,7 @@
 +.scatville.com
 +.scb
 +.scdn.co
++.scea.com
 +.scene7.com
 +.scenesource.me
 +.schaeffler
@@ -26959,6 +26961,7 @@
 +.sonydesign.com
 +.sonydna.com
 +.sonyentertainmentnetwork.com
++.sonyinteractive.com
 +.sonylatvija.com
 +.sonypictures.com
 +.sonypicturesanimation.com
