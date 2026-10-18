@@ -10840,6 +10840,7 @@
 +.cursor-cdn.com
 +.cursor.com
 +.cursorapi.com
++.cursorvm.com
 +.curvefish.com
 +.curvybbwwives.com
 +.curvyerotic.com
@@ -23115,6 +23116,7 @@
 +.open
 +.open.firstory.me
 +.openai.com
++.openai.org
 +.openamt.com
 +.openapiplatform.com
 +.openapiservice.com
@@ -25858,6 +25860,7 @@
 +.schwab.com
 +.schwab.com.cn
 +.schwabassetmanagement.com
++.schwabcdn.com
 +.schwabplan.com
 +.schwarz
 +.sci-hub.mksa.top
@@ -28360,6 +28363,7 @@
 +.timestalks.com
 +.timeweb.cloud
 +.timeweb.com
++.timeweb.tech
 +.timi1.me
 +.timi1.tv
 +.timi2.tv
