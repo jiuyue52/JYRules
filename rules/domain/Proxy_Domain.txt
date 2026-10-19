@@ -6545,7 +6545,6 @@
 +.asmrzy8.com
 +.asn-online.org
 +.asn247.net
-+.asobostudio.com
 +.asp-cc.com
 +.asp.net
 +.aspbjournals.org
@@ -7889,7 +7888,12 @@
 +.beforeigners.com
 +.befuck.com
 +.befuck.net
++.beget.cloud
 +.beget.com
++.beget.hosting
++.beget.pro
++.beget.tech
++.begetcdn.cloud
 +.begin-trade.com
 +.behance.net
 +.behindkink.com
@@ -13792,7 +13796,6 @@
 +.flickrhivemind.net
 +.flickriver.com
 +.flightradar24.com
-+.flightsimulator.com
 +.fling.com
 +.flipboard.com
 +.flipfap.com
@@ -24717,6 +24720,7 @@
 +.putinho.net
 +.putlocker.com
 +.putty.org
++.pv-cdn.net
 +.pvp.net
 +.pvp.tv
 +.pvubank.com

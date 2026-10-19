@@ -19,7 +19,6 @@
 +.applicationinsights.net
 +.appserviceenvironment.cn
 +.aria.ms
-+.asobostudio.com
 +.asp.net
 +.aspnetcdn.com
 +.assets-yammer.com
@@ -186,7 +185,6 @@
 +.exp-tas.com
 +.fasttrackreadysupport.com
 +.femalefounderscomp.com
-+.flightsimulator.com
 +.flipwithsurface.com
 +.fluidpreview.com
 +.footprintdns.com

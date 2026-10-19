@@ -398,6 +398,7 @@
 +.production-public.tubi.io
 +.pscdn.co
 +.psg.cdn.hgc.com.hk
++.pv-cdn.net
 +.redbyhbo.com
 +.registerhulu.com
 +.scdn.co
