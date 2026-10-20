@@ -20168,6 +20168,7 @@
 +.magicalmirai.com
 +.magicmovies.com
 +.magnet2048.com
++.magnific.com
 +.mahabodhi.org
 +.mahajantech.com
 +.mahjongsoul.com
@@ -24409,6 +24410,7 @@
 +.postimages.org
 +.postimg.cc
 +.postini.com
++.postman.com
 +.postmarkapp.com
 +.potatso.com
 +.potvpn.com
