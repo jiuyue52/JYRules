@@ -7,9 +7,12 @@
 +.algolia.net
 +.alkalicore-pa.clients6.google.com
 +.alkalimakersuite-pa.clients6.google.com
++.ant.dev
 +.anthropic.com
++.anthropic.team
 +.antigravity-unleash.goog
 +.antigravity.google
++.antspace.dev
 +.anythingllm.com
 +.api.statsig.com
 +.api.together.xyz
@@ -24,6 +27,7 @@
 +.cerebras.ai
 +.character.ai
 +.chat.com
++.chatbotclaude.com
 +.chatgpt.com
 +.chatgpt.site
 +.chutes.ai
@@ -32,10 +36,16 @@
 +.ciciaicdn.com
 +.clau.de
 +.claude.ai
++.claude.app
 +.claude.com
 +.claude.dev
++.claude.new
++.claude.site
++.claudeacademy.com
 +.claudemcpclient.com
 +.claudemcpcontent.com
++.claudepages.dev
++.claudestudio.com
 +.claudeusercontent.com
 +.clawhub.ai
 +.client-api.arkoselabs.com
@@ -66,6 +76,7 @@
 +.cursor.com
 +.cursor.sh
 +.cursorapi.com
++.cursorvm.com
 +.d-id.com
 +.deepmind.com
 +.deepmind.google
@@ -131,6 +142,7 @@
 +.lmstudio.ai
 +.lovart.ai
 +.lpsnmedia.net
++.magnific.com
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
@@ -160,6 +172,7 @@
 +.opal.google.com
 +.openai.com
 +.openai.com.cdn.cloudflare.net
++.openai.org
 +.openai.qualtrics.com
 +.openaiapi-site.azureedge.net
 +.openaiassets.blob.core.windows.net
@@ -208,6 +221,7 @@
 +.themeforest.net
 +.trae.ai
 +.tripo3d.ai
++.typesafe.ai
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.windsurf.build
 +.windsurf.com

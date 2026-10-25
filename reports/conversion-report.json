@@ -41,26 +41,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/666OS/rules/release/mihomo/domain/AI.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 269,
-          "accepted_rules_before_deduplication": 269,
+          "candidate_rules": 284,
+          "accepted_rules_before_deduplication": 284,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 236,
+        "source_rules_after_semantic_deduplication": 250,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 236,
+        "main_rules": 250,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 302,
+          "input_rules": 317,
           "exact_duplicates_removed": 2,
-          "parent_covered_removed": 64,
+          "parent_covered_removed": 65,
           "semantic_merges": 0,
-          "output_rules": 236
+          "output_rules": 250
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -79,15 +79,15 @@
           "path": "rules/domain/AI_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 236,
-          "sha256": "8feea90646fca92c890c792c02db7d57332d2d49ea5ebbedce2f0c05f73f8d8a"
+          "rules": 250,
+          "sha256": "9631af35f0b4ba05cda374640c0f8a713f5e84dd2a9eba2cc2f63e8114029a88"
         },
         {
           "path": "rules/domain/AI_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 236,
-          "sha256": "efc2ae5fcf1d3d86f1ddb590f51cdad984c26479c97316f487a63e37b6323e9a"
+          "rules": 250,
+          "sha256": "97e3282d2e3d8cbe74dd970e5cec53e409ba7d6ff728e00c23609d0908fe8140"
         }
       ]
     },
