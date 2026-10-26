@@ -5127,6 +5127,7 @@
 +.addthiscdn.com
 +.addthisedge.com
 +.addtoany.com
++.addtodropbox.com
 +.addyoutube.com
 +.adelaidebbs.com
 +.adgoogle.net
@@ -11743,6 +11744,7 @@
 +.docleradn.com
 +.doclercdn.com
 +.docs.com
++.docsend.com
 +.doctor-videos.com
 +.doctorvoice.org
 +.documentforce.com
@@ -11950,12 +11952,15 @@
 +.dropboxapi.com
 +.dropboxbusiness.com
 +.dropboxcaptcha.com
++.dropboxexperiment.com
 +.dropboxforum.com
 +.dropboxforums.com
 +.dropboxinsiders.com
++.dropboxlegal.com
 +.dropboxmail.com
 +.dropboxpartners.com
 +.dropboxstatic.com
++.dropboxteam.com
 +.dropboxusercontent.com
 +.droppages.com
 +.drpc.org
@@ -15825,9 +15830,11 @@
 +.helixstudios.net
 +.helloandroid.com
 +.helloavgirls.com
++.hellofax.com
 +.hellokittybeats.com
 +.hellomoto.com
 +.helloqueer.com
++.hellosign.com
 +.hellosmartbook.com
 +.hellouk.org
 +.hellporno.com
