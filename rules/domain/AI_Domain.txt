@@ -20,6 +20,8 @@
 +.apis.google.com
 +.app-analytics-services.com
 +.apps.mzstatic.com
++.appsgenaiserver-pa.clients.google.com
++.appsgenaiserver-pa.clients6.google.com
 +.arena.ai
 +.auth0.com
 +.bard.google.com

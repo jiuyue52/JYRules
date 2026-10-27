@@ -418,6 +418,7 @@
 +.spotify-com.akamaized.net
 +.spotify-everywhere.com
 +.spotify.com
++.spotify.com.edgesuite.net
 +.spotify.design
 +.spotify.link
 +.spotifycdn.com
@@ -541,7 +542,6 @@ ocvideo.apple.com
 play-edge.itunes.apple.com
 players.brightcove.net
 prod-api.crackle.com
-spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 static.siege-amazon.com

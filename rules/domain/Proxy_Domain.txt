@@ -28004,15 +28004,6 @@
 +.teslaenergy.services
 +.teslamotors.com
 +.teslazta.net
-+.test-ipv6.belwue.net
-+.test-ipv6.com
-+.test-ipv6.fratec.net
-+.test-ipv6.freerangecloud.com
-+.test-ipv6.iu13.net
-+.test-ipv6.ke.liquidtelecom.net
-+.test-ipv6.noroutetohost.net
-+.test-ipv6.roedu.net
-+.test-ipv6.sin.vr.org
 +.testonfox.com
 +.teva
 +.tew.org
