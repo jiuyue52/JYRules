@@ -281,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3888,
-          "accepted_rules_before_deduplication": 3888,
+          "candidate_rules": 3889,
+          "accepted_rules_before_deduplication": 3889,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69661,
+          "input_rules": 69662,
           "exact_duplicates_removed": 25536,
-          "parent_covered_removed": 20005,
+          "parent_covered_removed": 20006,
           "semantic_merges": 622,
           "output_rules": 23498
         },
@@ -460,8 +460,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3888,
-          "accepted_rules_before_deduplication": 3888,
+          "candidate_rules": 3889,
+          "accepted_rules_before_deduplication": 3889,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,9 +588,9 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 79699,
+          "input_rules": 79700,
           "exact_duplicates_removed": 34144,
-          "parent_covered_removed": 26250,
+          "parent_covered_removed": 26251,
           "semantic_merges": 389,
           "output_rules": 18916
         },
