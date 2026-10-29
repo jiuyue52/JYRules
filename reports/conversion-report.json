@@ -281,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3894,
-          "accepted_rules_before_deduplication": 3894,
+          "candidate_rules": 3892,
+          "accepted_rules_before_deduplication": 3892,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3496,
-          "accepted_rules_before_deduplication": 3496,
+          "candidate_rules": 3495,
+          "accepted_rules_before_deduplication": 3495,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,8 +395,8 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 70240,
-          "exact_duplicates_removed": 25565,
+          "input_rules": 70237,
+          "exact_duplicates_removed": 25562,
           "parent_covered_removed": 20534,
           "semantic_merges": 623,
           "output_rules": 23518
@@ -460,8 +460,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3894,
-          "accepted_rules_before_deduplication": 3894,
+          "candidate_rules": 3892,
+          "accepted_rules_before_deduplication": 3892,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -474,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3496,
-          "accepted_rules_before_deduplication": 3496,
+          "candidate_rules": 3495,
+          "accepted_rules_before_deduplication": 3495,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,8 +588,8 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 80269,
-          "exact_duplicates_removed": 34165,
+          "input_rules": 80266,
+          "exact_duplicates_removed": 34162,
           "parent_covered_removed": 26716,
           "semantic_merges": 391,
           "output_rules": 18997
