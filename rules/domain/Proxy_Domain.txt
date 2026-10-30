@@ -701,6 +701,7 @@
 +.1lib.limited
 +.1lib.org
 +.1lib.world
++.1mg.com
 +.1mobile.com
 +.1monsterbeatsbydreus.com
 +.1p2p3p4p.com
@@ -1360,6 +1361,8 @@
 +.338tm.com
 +.33a.com
 +.33a93.com
++.33across.com
++.33apk.com
 +.33av.tv
 +.33ava.com
 +.33c.run
@@ -1446,6 +1449,7 @@
 +.360plm.com
 +.360ssh.com
 +.360trailers.com
++.360yield.com
 +.3614.com
 +.361486.com
 +.3614j.com
@@ -1621,6 +1625,7 @@
 +.3b8z8.com
 +.3b9ea.com
 +.3b9h9.com
++.3bmeteo.com
 +.3bmm.com
 +.3bmmgoe.life
 +.3bok.xyz
@@ -1675,6 +1680,7 @@
 +.3kqq.com
 +.3lateral.com
 +.3lib.net
++.3lift.com
 +.3maoak.com
 +.3movs.com
 +.3movs.xyz
@@ -2696,6 +2702,14 @@
 +.5mb48g.com
 +.5mg2jnbo.com
 +.5mo.fun
++.5movierulz.fitness
++.5movierulz.forex
++.5movierulz.kitchen
++.5movierulz.pictures
++.5movierulz.plumbing
++.5movierulz.solutions
++.5movierulz.university
++.5movierulz.ventures
 +.5n7y.com
 +.5na6b8k5ubz50hx.com
 +.5o6.cc
@@ -4752,6 +4766,7 @@
 +.9f9a.com
 +.9fc39.com
 +.9fe63.com
++.9ffyu1g9c.com
 +.9gag.com
 +.9h2211.com
 +.9h997.com
@@ -4824,6 +4839,7 @@
 +.9zipai.net
 +.a-good-life.com
 +.a-hentai.tv
++.a-mo.net
 +.a-msedge.net
 +.a-normal-day.com
 +.a-scada.com
@@ -5094,6 +5110,7 @@
 +.actalis.com
 +.actfortibet.org
 +.actifio.com
++.action.com
 +.activated.win
 +.activematter.game
 +.activeteachonline.com
@@ -5130,6 +5147,7 @@
 +.addtodropbox.com
 +.addyoutube.com
 +.adelaidebbs.com
++.adform.net
 +.adgoogle.net
 +.adguard-dns.com
 +.adguard-mail.com
@@ -5167,6 +5185,7 @@
 +.adobe-audience-finder.com
 +.adobe-video-partner-finder.com
 +.adobe.com
++.adobe.net
 +.adobeaemcloud.com
 +.adobeaemcloud.net
 +.adobeawards.com
@@ -5202,9 +5221,11 @@
 +.adobetechcommdemo.com
 +.adobexdplatform.com
 +.adorevids.com
++.adp.com
 +.adporn.cc
 +.adpornu.xyz
 +.ads-twitter.com
++.adsafeprotected.com
 +.adsense.com
 +.adskcloud.com
 +.adskcloud.net
@@ -5213,6 +5234,7 @@
 +.adskengpp.net
 +.adskengpr.net
 +.adspower.net
++.adsrvr.org
 +.adtcc.com
 +.adtidy.net
 +.adtidy.org
@@ -5345,6 +5367,7 @@
 +.afr.com
 +.afraid.org
 +.afreecatv.com
++.afribaba.com
 +.afriboyz.com
 +.africa
 +.africamagic
@@ -5370,6 +5393,7 @@
 +.agentclientprotocol.com
 +.agilebits.com
 +.agkmg.com
++.agoda.com
 +.agoogleaday.com
 +.agri-bank.com
 +.agu.org
@@ -5611,6 +5635,7 @@
 +.albagals.com
 +.albastudio.co
 +.albeats.com
++.albumaty.com
 +.alchemysynth.com
 +.alefbank.com
 +.alettaoceanlive.com
@@ -5657,6 +5682,7 @@
 +.all-sex-links.com
 +.all3dsexpics.com
 +.all4mom.org
++.allawnos.com
 +.allblackx.com
 +.allcoin.com
 +.allconnected.co
@@ -5796,6 +5822,7 @@
 +.amazon.com.co
 +.amazon.jobs
 +.amazon.red
++.amazonalexa.com
 +.amazonalexavoxcon.com
 +.amazonauthorinsights.com
 +.amazonaws-china.com
@@ -5917,6 +5944,7 @@
 +.anatomy.tv
 +.anb.org
 +.ancensored.com
++.ancestry.com
 +.anchorfree.com
 +.ancsconf.org
 +.and
@@ -5956,6 +5984,7 @@
 +.animalsporn.net
 +.animalsporn.tv
 +.animalzoosex.me
++.animanch.com
 +.anime-pictures.net
 +.anime-tube.pw
 +.animecrazy.net
@@ -5996,6 +6025,7 @@
 +.ansin.erodayo.com
 +.answering-islam.org
 +.ant.design
++.antarvasna3.com
 +.antarvasnaclips.com
 +.antarvasnax.com
 +.antdigitalcurrency.com
@@ -6083,6 +6113,7 @@
 +.apa.org
 +.apache.org
 +.apap45.com
++.aparat.com
 +.apartmentratings.com
 +.apartments.com
 +.apat1989.org
@@ -6141,6 +6172,7 @@
 +.appe-store.com
 +.appexchange.com
 +.appget.com
++.appier.net
 +.appimagehub.com
 +.appl-e.com
 +.appl.com
@@ -6408,11 +6440,14 @@
 +.arabianchicks.com
 +.arabidopsis.org
 +.arabnek.com
++.arabtnt.com
++.arabx.cam
 +.arabxn.com
 +.arabxnxx.org
 +.arabysexy.com
 +.arabysexy.mobi
 +.aramco
++.arbada.com
 +.arc.net
 +.arcadewank.com
 +.arcgis.com
@@ -6428,6 +6463,7 @@
 +.archlinuxarm.org
 +.archlinuxcn.org
 +.arcraiders.com
++.arcticwolf.net
 +.arctosia.com
 +.ardentix.com
 +.area120.com
@@ -6653,6 +6689,7 @@
 +.atubex.com
 +.atypi.org
 +.au
++.aucey.com
 +.aucheapbeats.com
 +.auchu.com
 +.audacy.com
@@ -6814,6 +6851,7 @@
 +.autosketch.com
 +.autumn-jade.com
 +.auuauu.xyz
++.auvik.com
 +.auxdubai.com
 +.av-baron.com
 +.av-channel.com
@@ -6882,6 +6920,7 @@
 +.avcar2.vip
 +.avcar666.com
 +.avcarbfw834.xyz
++.avcdn.net
 +.avcens.xyz
 +.avcnn.com
 +.avcool.com
@@ -7077,6 +7116,7 @@
 +.awxcdn.com
 +.awyy5.xyz
 +.ax
++.ax-msedge.net
 +.ax455.com
 +.ax49.com
 +.axa
@@ -7148,6 +7188,7 @@
 +.azurewebsites.net
 +.b-cdn.net
 +.b-eroland.net
++.b-msedge.net
 +.b-ok.asia
 +.b-ok.cc
 +.b-ok.global
@@ -7331,6 +7372,7 @@
 +.banana.com
 +.banana9527.com
 +.banatfun.com
++.bancodevenezuela.com
 +.bandag.cc
 +.bandag.com
 +.bandcamp.com
@@ -7353,6 +7395,7 @@
 +.banjiahongyun.com
 +.bank131.com
 +.bankmobilevibe.com
++.bankofamerica.com
 +.banned.video
 +.bannedbook.net
 +.bannedbook.org
@@ -7369,7 +7412,6 @@
 +.banzhu123.com
 +.banzhuy.com
 +.baobeiqiezi.com
-+.baomihua.com
 +.baoruichi.com
 +.baoshuu.com
 +.baoshuwang.net
@@ -7426,6 +7468,7 @@
 +.bayern
 +.baytvs.com
 +.bayvoice.net
++.bazaarvoice.com
 +.bazel.build
 +.bb
 +.bb-cdn.life
@@ -8026,6 +8069,9 @@
 +.bethesda.net
 +.bethesdagamestudios.com
 +.bethsoft.com
++.betika.com
++.betking.com
++.betpawa.com
 +.betterbim.com
 +.betterexplained.com
 +.bettergpt.chat
@@ -8048,9 +8094,11 @@
 +.bfd38.com
 +.bffs.com
 +.bffshd.com
++.bfmtv.com
 +.bfnn.org
 +.bft86.com
 +.bfulibl.net
++.bfvideo.site
 +.bg
 +.bgicdn.com
 +.bgm.tv
@@ -8068,6 +8116,7 @@
 +.bhh95.com
 +.bhk6cxk4gm.net
 +.bhm3.com
++.bhojpurisex.site
 +.bhx9r6o2y6.shop
 +.bhxx1.cc
 +.bhye1024.biz
@@ -8081,6 +8130,7 @@
 +.biaoqs1.xyz
 +.biaoqs2.xyz
 +.bible
++.biblegateway.com
 +.biblesforamerica.org
 +.bibo1.com
 +.bibox.com
@@ -8090,6 +8140,7 @@
 +.bidong25.com
 +.bidong9.com
 +.bidorbuyindia.com
++.bidswitch.net
 +.biedian.me
 +.big2048.com
 +.bigassporn.tv
@@ -8143,6 +8194,7 @@
 +.bikaa.xyz
 +.bikac.xyz
 +.bikaios.xyz
++.bikewale.com
 +.biki.com
 +.bilanex.com
 +.bili2.cc
@@ -8394,6 +8446,7 @@
 +.blogtd.org
 +.blogterest.net
 +.bloodshed.net
++.blooket.com
 +.bloomberg
 +.bloomberg.cn
 +.bloomberg.com
@@ -8668,6 +8721,7 @@
 +.bokepseks.org
 +.bokepvidz.com
 +.boki2.com
++.bol.com
 +.bolehvpn.net
 +.bolin.netfirms.com
 +.bollywoodlife.com
@@ -8702,6 +8756,7 @@
 +.bookfi.net
 +.booking.com
 +.bookmybridgestonetyre.com
++.bookmyshow.com
 +.bookonsky.net
 +.booksc.me
 +.booksc.org
@@ -8829,6 +8884,7 @@
 +.bravotube.tv
 +.brawlstars.com
 +.brawlstarsgame.com
++.braze.com
 +.brazilpartneruniversity.com
 +.brazz.org
 +.brazzer.com
@@ -9250,6 +9306,8 @@
 +.bystys.tech
 +.byt588.com
 +.bytedapm.com
++.bytefcdn-oversea.com
++.bytefcdn-ttpus.com
 +.byteglb.com
 +.byteoversea.com
 +.byteoversea.net
@@ -9359,6 +9417,7 @@
 +.caj8.com
 +.cal.com
 +.calameo.com
++.calculator.net
 +.calebelston.com
 +.calendarserver.org
 +.calendarz.com
@@ -9506,6 +9565,8 @@
 +.caowo7.com
 +.caowo9.com
 +.caowotv.com
++.capcut.com
++.capcutapi.com
 +.capetown
 +.capital.com
 +.capitalg.com
@@ -9516,7 +9577,9 @@
 +.carabinasypistolas.com
 +.caravan
 +.carbon.com
++.cardekho.com
 +.cardinalkungfoundation.org
++.cardmarket.com
 +.carebay.com
 +.careerfundas.com
 +.careerjournal.com
@@ -9528,6 +9591,7 @@
 +.caribbeancompr.com
 +.carmotorshow.com
 +.carrd.co
++.carsensor.net
 +.carstagram.com
 +.cartoon-sex.tv
 +.cartoon18.com
@@ -9694,6 +9758,7 @@
 +.cdbook.org
 +.cdef.org
 +.cdig.info
++.cdiscount.com
 +.cdjp.org
 +.cdkworkshop.com
 +.cdmatech.com
@@ -9768,6 +9833,7 @@
 +.cengbie.com
 +.cenkei.com
 +.centerforhumanreprod.com
++.centinel-analytica.com
 +.centos.org
 +.centralnation.com
 +.centralvalidation.com
@@ -9836,6 +9902,7 @@
 +.charlestonroadregistry.com
 +.charmescorts.com
 +.charticulator.com
++.chase.com
 +.chat.com
 +.chat.lmsys.org
 +.chat97.com
@@ -10045,9 +10112,11 @@
 +.chocam.com
 +.chocolatey.org
 +.chodeetsu.com
++.choiceadvantage.com
 +.choicereviews.org
 +.chomp.com
 +.chonglangtv.org
++.chordtela.com
 +.chorig.org
 +.chped.com
 +.chrdnet.com
@@ -10223,6 +10292,7 @@
 +.cl9f.com
 +.clamwin.com
 +.claravenger.com
++.clarin.com
 +.clarionproject.org
 +.clarivate.com
 +.clash.com
@@ -10236,6 +10306,7 @@
 +.clasporno.org
 +.classicalguitarblog.net
 +.classicnike.com
++.classlink.com
 +.classone.cc
 +.classymomsex.com
 +.claude.com
@@ -10261,6 +10332,7 @@
 +.clearsurance.com
 +.clearwisdom.net
 +.clementine-player.org
++.clever.com
 +.clg05.org
 +.clg11.cc
 +.clg21.cc
@@ -10308,6 +10380,7 @@
 +.clmma10.xyz
 +.clock.isc.org
 +.clojure.org
++.cloud.com
 +.cloudapp.net
 +.cloudappsecurity.com
 +.cloudburstresearch.com
@@ -10365,6 +10438,7 @@
 +.cloudn.me
 +.cloudns.net
 +.cloudrobotics.com
++.cloudsink.net
 +.cloudvolumes.com
 +.cloudyzgirl.com
 +.cloupia.com
@@ -10424,7 +10498,6 @@
 +.cn.shafaqna.com
 +.cn.streetvoice.com
 +.cn02.me
-+.cnabc.com
 +.cnappinstall.googleadapis.com
 +.cnbc.com
 +.cnbcfm.com
@@ -10518,6 +10591,7 @@
 +.collectionofbestporn.com
 +.collective99.com
 +.colleee.net
++.collegeboard.org
 +.collegejournal.com
 +.collegepornonly.com
 +.collegesexgames.com
@@ -10566,11 +10640,13 @@
 +.componentkit.org
 +.computer.org
 +.computingreviews.com
++.computrabajo.com
 +.coms.live
 +.comsoc.org
 +.con.cc
 +.conair.me
 +.confluxnetwork.org
++.connatix.com
 +.connect-in-canada.com
 +.connectcommerce.info
 +.connectcommerce.tv
@@ -10592,10 +10668,13 @@
 +.contechacademy.com
 +.content.googleadapis.com
 +.contentful.com
++.contentsquare.net
 +.contest.com
 +.context7.com
++.contextweb.com
 +.convertio.co
 +.convio.net
++.conviva.com
 +.convrgencegame.com
 +.cookiebot.com
 +.cookiechoices.org
@@ -10712,6 +10791,7 @@
 +.crazyav.xyz
 +.crazybook.xyz
 +.crazyfiction.xyz
++.crazygames.com
 +.crazylivecams.com
 +.crazynovel.xyz
 +.crazypool.org
@@ -10732,6 +10812,7 @@
 +.creampieforgranny.com
 +.createspace.com
 +.createwhatsnext.com
++.creativecdn.com
 +.creativecloud.com
 +.creativecommons.engineering
 +.creativecommons.org
@@ -10743,9 +10824,13 @@
 +.creditcardsbay.com
 +.creditkarma.com
 +.crewai.com
++.cricbuzz.com
++.cricinfo.com
 +.cricketcountry.com
 +.cristyli.com
 +.crit-staging.com
++.criteo.com
++.criteo.net
 +.critiquebrainz.org
 +.crixet.com
 +.crmdynint-gcc.com
@@ -10753,6 +10838,7 @@
 +.crocoblock.com
 +.crocotube.com
 +.cromite.org
++.cronista.com
 +.crossborderexpansion.com
 +.crossfitfirestone.com
 +.crossmediapanel.com
@@ -11003,6 +11089,7 @@
 +.dafanhao-app.com
 +.dafaqieweb2.com
 +.dafoh.org
++.dafont.com
 +.daftporn.com
 +.daftsex-hd.com
 +.daftsex.com
@@ -11091,6 +11178,7 @@
 +.dashlane.com
 +.dashly.help
 +.dashly.me
++.dashnxdomain.net
 +.dashwood360.com
 +.dastanhisexy.cc
 +.dat.foundation
@@ -11098,6 +11186,8 @@
 +.data.com
 +.data18.com
 +.datacloudmy.com
++.datadoghq.com
++.datadome.co
 +.dataframeworks.com
 +.dataliberation.org
 +.datasheets360.com
@@ -11137,6 +11227,7 @@
 +.dcard.link
 +.dcba333.online
 +.dcchinaren.com
++.dcinside.com
 +.dclk
 +.dcmilitary.com
 +.dcoin.pro
@@ -11225,6 +11316,7 @@
 +.deepfreeze.com
 +.deepfreeze.net
 +.deepfreeze.tech
++.deepintent.com
 +.deepl.com
 +.deepmind.com
 +.deepmx.com
@@ -11283,6 +11375,7 @@
 +.dem32.com
 +.dem37.com
 +.dem55.com
++.demandbase.com
 +.demandware.com
 +.demdex.net
 +.democracy.earth
@@ -11312,11 +11405,14 @@
 +.designxml.com
 +.designxml.net
 +.desihoes.com
++.desikahani2.net
 +.desiporn.tube
 +.desipornfilms.com
 +.desiraesworld.com
 +.desire-xx.supertop-100.com
 +.desiresecrets.com
++.desitales2.com
++.desitelugusex.com
 +.desk.com
 +.desktopmovie.com
 +.desktopmovie.net
@@ -11352,6 +11448,7 @@
 +.deviantart.com
 +.deviantart.net
 +.deviantclip.com
++.devil69porn.tv
 +.devilsfilm.com
 +.devm2m.com
 +.devopsassessment.net
@@ -11417,11 +11514,9 @@
 +.dictionary.com
 +.didce.com
 +.diddykongracing.com
-+.didi-food.com
 +.didi007.org
 +.didi12.xyz
 +.didiaustralia.blog
-+.didiglobal.com
 +.didilist.com
 +.diedart.com
 +.diedart1.com
@@ -11433,6 +11528,7 @@
 +.digicert-cn.com
 +.digicert-validation.com
 +.digicert.com
++.digikala.com
 +.digiket.com
 +.digisfera.com
 +.digital-anime.com
@@ -11529,6 +11625,7 @@
 +.dirtyshack.com
 +.dirtyship.com
 +.disco-api.com
++.discogs.com
 +.discoins.com
 +.discomax.com
 +.disconnect.me
@@ -11686,6 +11783,7 @@
 +.dm530.net
 +.dm530p.org
 +.dm999.cc
++.dmac-solutions.net
 +.dmc27.com
 +.dmcdn.net
 +.dmdy4.vip
@@ -11757,6 +11855,7 @@
 +.dodv.com
 +.doeda.com
 +.dogcumshot.net
++.dogdrip.net
 +.dogecoin.com
 +.dogfart.com
 +.dogfartnetwork.com
@@ -11799,6 +11898,7 @@
 +.doom.com
 +.doom9.org
 +.dooprimed1.com
++.doordash.com
 +.doosho.com
 +.doourbest.org
 +.dopaminegirl.com
@@ -11807,6 +11907,7 @@
 +.doseofporn.com
 +.dot.net
 +.dota2.com
++.dotaplabs.net
 +.dotcernpilot.info
 +.dotdeb.org
 +.dotfacebook.com
@@ -11814,6 +11915,7 @@
 +.dotfreesex.com
 +.dotherex.com
 +.dothq.org
++.dotomi.com
 +.dotplane.com
 +.dotsub.com
 +.dotvpn.com
@@ -11823,6 +11925,7 @@
 +.doubleclick.net
 +.doublehop.me
 +.doublethinklab.org
++.doubleverify.com
 +.doucao.net
 +.douchi.space
 +.doudlj.org
@@ -11859,6 +11962,7 @@
 +.download.dappcdn.com
 +.download.qatp1.net
 +.downloadhelper.net
++.downloadpage.xyz
 +.downloadpass.com
 +.downloadsforipod.com
 +.dpdns.org
@@ -12004,6 +12108,7 @@
 +.dtv
 +.dtv2009offers.com
 +.dtvce.com
++.dual-s-msedge.net
 +.dualeotruyen1s.com
 +.duangcloud.com
 +.duangcloud.org
@@ -12064,6 +12169,7 @@
 +.duyaoss.net
 +.duyaossr.com
 +.duyyy.com
++.dv.tech
 +.dvag
 +.dvdpac.com
 +.dvdstudiopro.biz
@@ -12162,6 +12268,7 @@
 +.e29de.com
 +.e2aa12227b44.com
 +.e2g6.com
++.e2ro.com
 +.e2v7y.com
 +.e34k.com
 +.e3ed60b8689b6b22.com
@@ -12399,6 +12506,7 @@
 +.economist.com
 +.economistgroup.com
 +.economistgroupcareers.com
++.ecosia.org
 +.ecotect.com
 +.ecotect.net
 +.ecscad.com
@@ -12423,6 +12531,7 @@
 +.edicypages.com
 +.edisebay.com
 +.editorx.com
++.edmentum.com
 +.edmontonservice.com
 +.edninfo.com
 +.edoors.com
@@ -12467,6 +12576,7 @@
 +.een36.com
 +.een56.com
 +.een58.com
++.eenadu.net
 +.eenike.com
 +.eeussed.com
 +.eeussgh.com
@@ -12756,6 +12866,7 @@
 +.esbeatsbydrebuy.com
 +.escandinavia-arg.com
 +.escapefromtarkov.com
++.escort.club
 +.escort.guide
 +.escortamsterdam1.com
 +.escortdude.com
@@ -12858,6 +12969,8 @@
 +.evanottyvideos.com
 +.evemodels.com
 +.eventsinfocus.org
++.everesttech.net
++.evergage.com
 +.everia.club
 +.everipedia.org
 +.evernote.com
@@ -12868,6 +12981,7 @@
 +.evev7.com
 +.evilangel.com
 +.evise.com
++.evo-games.com
 +.evolver.com
 +.evolver3d.com
 +.evolverpro.com
@@ -12876,6 +12990,7 @@
 +.ewd2.com
 +.eworld.com
 +.ewprod.com
++.ex.co
 +.exacttarget.com
 +.exascale-tech.com
 +.excedo.com
@@ -12935,6 +13050,7 @@
 +.ezc3.com
 +.ezpeer.com
 +.ezua.com
++.ezviz7.com
 +.f-dro1d.org
 +.f-droid.com
 +.f-droid.org
@@ -12982,8 +13098,10 @@
 +.faapy.com
 +.faasbook.com
 +.fab.com
++.fabguys.com
 +.fabhairypussy.com
 +.fabricmc.net
++.fabswingers.com
 +.fabu11.com
 +.fabu12.com
 +.fabuye.top
@@ -13364,6 +13482,7 @@
 +.fapforfun.net
 +.faphdporn.com
 +.faphouse.com
++.faphouse2.com
 +.fapmovz.com
 +.fapnado.com
 +.fapomania.com
@@ -13634,6 +13753,7 @@
 +.fffucked.com
 +.ffk82.com
 +.fflick.com
++.fflivegame.com
 +.fflnk.net
 +.fflogs.com
 +.ffmpeg.org
@@ -13682,6 +13802,7 @@
 +.fiddle.jshell.net
 +.fide.com
 +.fidelity
++.fidelity.com
 +.fido
 +.fiendlist.info
 +.fifastreet.com
@@ -13695,6 +13816,7 @@
 +.fikfap.com
 +.fileflyer.com
 +.filemail.com
++.filesdl.top
 +.fileserve.com
 +.filesmonster.vip
 +.filesor.com
@@ -13706,6 +13828,15 @@
 +.filmespornos.net
 +.filmingfortibet.org
 +.filmsexeporno.com
++.filmywap.technology
++.filmyzilla56.com
++.filmyzilla62.com
++.filmyzilla63.com
++.filmyzilla65.com
++.filmyzilla67.com
++.filmyzilla68.com
++.filmyzilla69.com
++.filmyzilla70.com
 +.filtercams.com
 +.filthdump.com
 +.filthyfamily.com
@@ -13779,6 +13910,7 @@
 +.fitnakedgirls.com
 +.fiu1.com
 +.five-d.com
++.fiverr.com
 +.fivestarpornsites.com
 +.fixtracking.com
 +.fixupx.com
@@ -13803,6 +13935,9 @@
 +.flaiapp.com
 +.flameunleashed.com
 +.flaru.com
++.flashscore.com
++.flashscore.mobi
++.flashtalking.com
 +.flashtranny.com
 +.flatandfuckedmilfs.com
 +.flathub.org
@@ -13871,6 +14006,7 @@
 +.fmav51.icu
 +.fmcebook.com
 +.fmdesktop.com
++.fmkorea.com
 +.fnac.com
 +.fnacebook.com
 +.fnb6.com
@@ -13904,6 +14040,7 @@
 +.food
 +.foofle.com
 +.fooooo.com
++.football.com
 +.footprintdns.com
 +.footseen.com
 +.footstockings.com
@@ -13916,6 +14053,7 @@
 +.ford
 +.forduck.com
 +.forduck9.com
++.forebet.com
 +.foreignaffairs.com
 +.foreignpolicy.com
 +.forex.com
@@ -13927,6 +14065,7 @@
 +.formula1.com
 +.forpojie.pics
 +.fortawesome.com
++.forter.com
 +.forthebadge.com
 +.forthethrone.com
 +.fortnite.com
@@ -14248,6 +14387,7 @@
 +.freepornvideos.life
 +.freesexalbum.com
 +.freesexgames.games
++.freesexkahani.com
 +.freesexvideos2k.com
 +.freesexyindians.com
 +.freesexyindians.org
@@ -14483,6 +14623,7 @@
 +.fusionproductionapps.com
 +.fuskator.com
 +.futanarihq.com
++.futbin.com
 +.futhead.com
 +.futpromos.com
 +.futu.cn
@@ -14766,6 +14907,7 @@
 +.gbiz
 +.gbsfdh.xyz
 +.gbxml.net
++.gcash.com
 +.gcbt.xyz
 +.gcdn.co
 +.gcdz.pw
@@ -15004,6 +15146,7 @@
 +.gimy.co
 +.gimy.tv
 +.ginmoe.com
++.giphy.com
 +.gipscorp.com
 +.giratina.com
 +.girl-secret.com
@@ -15082,6 +15225,7 @@
 +.glitchwave.com
 +.global-sci.org
 +.global.market.xiaomi.com
++.global.xiaomi.net
 +.globaledu.org
 +.globaljihad.net
 +.globalmediaoutreach.com
@@ -15158,6 +15302,7 @@
 +.go2av.com
 +.go6h.com
 +.goagent.biz
++.goal.com
 +.gobeatsye.com
 +.gobianywhere.com
 +.goblocks.com
@@ -15191,6 +15336,7 @@
 +.gogocdn.net
 +.gogole.com
 +.gogotaku.info
++.goguardian.com
 +.gohentai.net
 +.goicq.org
 +.gokbayrak.com
@@ -15332,6 +15478,7 @@
 +.gork6upf98tv5d.com
 +.gosexpod.com
 +.goshemalecams.com
++.goskope.com
 +.gosky.pro
 +.gospelherald.com
 +.gosq.co
@@ -15405,6 +15552,8 @@
 +.greatroc.org
 +.greatzhonghua.org
 +.grecord.net
++.gree-apps.net
++.gree-pf.net
 +.green-box-tv.com
 +.green-entrepreneurship.cc
 +.greenbuildingstudio.com
@@ -15437,6 +15586,7 @@
 +.gsccdn.com
 +.gsearch.media
 +.gshow.com
++.gsmarena.com
 +.gsn18.com
 +.gsn78.com
 +.gsst01.me
@@ -15474,6 +15624,7 @@
 +.guiacg.com
 +.guifw.xyz
 +.guishan.org
++.gumgum.com
 +.gumroad.com
 +.gun-world.net
 +.gunsamerica.com
@@ -15568,6 +15719,7 @@
 +.h8616.com
 +.h8a8.com
 +.h8b9.com
++.haberler.com
 +.habr.com
 +.habrastorage.org
 +.hacg.me
@@ -16026,6 +16178,7 @@
 +.hexxeh.net
 +.heydoga.com
 +.heydouga.com
++.heytapmobile.com
 +.heyuedi.com
 +.heywire.com
 +.heyzo.com
@@ -16085,6 +16238,7 @@
 +.hibdontire.com
 +.hicairo.com
 +.hiccears.com
++.hicloudcam.com
 +.hidden-advent.org
 +.hiddenvoyeurspy.com
 +.hiddify.com
@@ -16142,7 +16296,6 @@
 +.hitxhot.com
 +.hive.blog
 +.hiveon.net
-+.hiwifi.com
 +.hizb-ut-tahrir.info
 +.hizb-ut-tahrir.org
 +.hizbuttahrir.org
@@ -16270,7 +16423,6 @@
 +.hk.gradconnection.com
 +.hk.hao123img.com
 +.hk.jiepang.com
-+.hk.weibo.com
 +.hk01.com
 +.hk1lib.org
 +.hkacg.com
@@ -16340,6 +16492,7 @@
 +.hlork9.org
 +.hlqiyaoba.com
 +.hlsp1.pw
++.hltv.org
 +.hlvod.com
 +.hlw001.life
 +.hlw002.life
@@ -16384,6 +16537,7 @@
 +.holed.com
 +.holloporn.com
 +.hollyrandall.com
++.hollywoodbets.net
 +.hololens.com
 +.holyspiritspeaks.org
 +.home-made-porn-movies.com
@@ -16410,6 +16564,7 @@
 +.homemadeporntubes.com
 +.homemadevids.net
 +.homemoviestube.com
++.homepage.vivo.com
 +.homeperversion.com
 +.homephoneplus.com
 +.homepornbay.com
@@ -16479,6 +16634,7 @@
 +.horseporn.tv
 +.host.livekit.cloud
 +.hostborneo.org
++.hostedemail.com
 +.hostloc.com
 +.hot
 +.hot-arab-films.com
@@ -16804,8 +16960,6 @@
 +.huashemei2.xyz
 +.huashundg.com
 +.huati.cc
-+.huaweicloud-dns.net
-+.huaweicloud-dns.org
 +.huaxiabao.org
 +.huaxin-lls.xyz
 +.huaxin80.com
@@ -16814,6 +16968,7 @@
 +.huazhantj.com
 +.hubblephone.com
 +.hubi.com
++.hubspot.com
 +.hubspotlinksstarter.com
 +.hubspotstarter.net
 +.hudson.org
@@ -16870,6 +17025,7 @@
 +.humanrightspressawards.org
 +.humblebundle.com
 +.humoron.com
++.humoruniv.com
 +.hung-ya.com
 +.hungryclit.com
 +.huobi.co
@@ -16980,6 +17136,7 @@
 +.i7wx.com
 +.i818hk.com
 +.i91dz.com
++.i993.com
 +.i999.tv
 +.iaablog.com
 +.iaea.org
@@ -17027,7 +17184,6 @@
 +.icbc-cz.com
 +.icbc-ltd.com
 +.icbc-uk.com
-+.icbc-us.com
 +.icbcasia.com
 +.icbcindia.com
 +.icbcit.com
@@ -17115,10 +17271,12 @@
 +.icuminside.com
 +.id
 +.id.hao123.com
++.id.me
 +.idarkdoll.com
 +.idcflare.com
 +.idea-server.com
 +.ideal-teens.com
++.idealista.com
 +.ideapocket.com
 +.idelreal.org
 +.idemocracy.asia
@@ -17282,6 +17440,7 @@
 +.ilhamtohtiinstitute.org
 +.ilife.wang
 +.illianacomputerrecycling.com
++.illuminateed.com
 +.illusion111.com
 +.illusionas.com
 +.illusionchn.com
@@ -17302,6 +17461,7 @@
 +.iloveimg.com
 +.iloveinterracial.com
 +.ilovelongtoes.com
++.ilovepdf.com
 +.ilovexs.com
 +.ilulu.fun
 +.ilulu.live
@@ -17376,6 +17536,7 @@
 +.imperiodefamosas.com
 +.impermium.com
 +.improd.works
++.imrworldwide.com
 +.imstagram.com
 +.imtagram.com
 +.imtintl.com
@@ -17400,11 +17561,14 @@
 +.incy.cc
 +.indazn.com
 +.indaznlab.com
++.indeed.com
 +.independentoperatorcn.com
++.indexww.com
 +.indexxx.com
 +.india.com
 +.indiablooms.com
 +.indiaipad.com
++.indiamart.com
 +.indian-free-xnxx.com
 +.indianarrative.com
 +.indiancolleges.com
@@ -17420,10 +17584,13 @@
 +.indiansexpussy.com
 +.indiansexstories.net
 +.indiansexstories2.net
++.indiansexstories3.com
++.indiatimes.com
 +.indiatvnews.com
 +.indiegogo.com
 +.indiemerch.com
 +.indienudes.com
++.indoav.com
 +.indonesiaporn.name
 +.industrialtoys.com
 +.infinitetoons.com
@@ -17432,6 +17599,7 @@
 +.infinityward.com
 +.influencersgonewild.com
 +.influxdata.com
++.infobae.com
 +.infocert.digital
 +.infoq.com
 +.informs.org
@@ -17460,6 +17628,8 @@
 +.inkui.com
 +.inlethd.com
 +.inmediahk.net
++.inmobi.com
++.inmobicdn.net
 +.innovations-i.com
 +.inoreader.com
 +.inporn.com
@@ -17535,6 +17705,7 @@
 +.instgram.com
 +.institut-tibetain.org
 +.instituteofwar.org
++.instructure.com
 +.instv38.com
 +.insuyo.xyz
 +.int
@@ -17614,6 +17785,8 @@
 +.intgram.com
 +.inthenameofconfuciusmovie.com
 +.intimateinvasions.com
++.intl.miui.com
++.intl.xiaomi.com
 +.intltencentcos.com
 +.intodns.com
 +.intporn.com
@@ -17635,6 +17808,7 @@
 +.investing.com
 +.inxian.com
 +.inxporn.com
++.inxxx.com
 +.io
 +.ioe.com
 +.ioffergift.com
@@ -17720,6 +17894,7 @@
 +.ipods.com
 +.ipodtouch.co
 +.ipodtouch.com
++.iponweb.net
 +.ipoock.com
 +.iporntoo.com
 +.iporntv.net
@@ -17766,6 +17941,7 @@
 +.isbgpsafeyet.com
 +.isca-speech.org
 +.ischool.com
++.iscorp.com
 +.isfocus.net
 +.isgame365.cc
 +.isgreat.org
@@ -17829,6 +18005,7 @@
 +.itsfuck.com
 +.itshidden.com
 +.itsoc.org
++.itsupport247.net
 +.itunbes.com
 +.ituneas.com
 +.itunes-radio.net
@@ -17872,6 +18049,7 @@
 +.iwork.com
 +.iwork.wang
 +.iwyn138.com
++.ixl.com
 +.ixnxx.tv
 +.ixquick.com
 +.ixsystems.com
@@ -17908,7 +18086,9 @@
 +.jable.tv
 +.jade-net-home.com
 +.jadult.net
++.jagran.com
 +.jaguar
++.jalan.net
 +.jaleco.com
 +.jamaat.org
 +.jamanetwork.com
@@ -18630,6 +18810,7 @@
 +.juggsjoy.com
 +.juhuaren.com
 +.juiceced.xyz
++.juicyscore.com
 +.juicytwink.com
 +.jukan.xyz
 +.jukujo-club.com
@@ -18655,6 +18836,7 @@
 +.just1024.com
 +.justacg.com
 +.justav.net
++.justdial.com
 +.justdied.com
 +.justdns.info
 +.justduckit.com
@@ -18822,6 +19004,7 @@
 +.karayou.com
 +.kards.com
 +.karger.com
++.kargo.com
 +.karinahart.com
 +.karlajames.com
 +.karmapa-teachings.org
@@ -19071,8 +19254,10 @@
 +.kkys123.com
 +.kkzz55.com
 +.kl4ff7k6cz6e.com
++.klaviyo.com
 +.klf1.bond
 +.klik.me
++.klikbca.com
 +.klrn.org
 +.km
 +.km107.xyz
@@ -19155,11 +19340,13 @@
 +.kobi88.com
 +.kobo.com
 +.kobobooks.com
++.kochava.com
 +.kodfcx8s.xyz
 +.kodi.tv
 +.kodi.wiki
 +.kodingen.com
 +.koeln
++.kohls.com
 +.kokvip1.com
 +.komatsu
 +.komoot.com
@@ -19183,6 +19370,7 @@
 +.kongquehai.org
 +.koogay.org
 +.koolsolutions.com
++.kooora.com
 +.koornk.com
 +.kopfhorergunstigshop.com
 +.koranmandarin.com
@@ -19322,7 +19510,11 @@
 +.kvbprime.com
 +.kvcwvhb6cr9f.com
 +.kw
++.kwai-pro.com
 +.kwai.com
++.kwai.net
++.kwaipros.com
++.kwcdn.com
 +.kxgvv.com
 +.kxsw.life
 +.ky
@@ -19467,6 +19659,7 @@
 +.launchpadlibrarian.com
 +.launchpadlibrarian.net
 +.launchpadlibrarian.org
++.lausd.net
 +.lavteam.org
 +.laxd.com
 +.lazerpenguin.com
@@ -19515,6 +19708,7 @@
 +.leclerc
 +.lecloud.net
 +.lecoin.cc
++.lecturas.com
 +.lede-project.org
 +.ledger.com
 +.leecountytimes.com
@@ -19532,6 +19726,7 @@
 +.leiting02.com
 +.leiting368.com
 +.leitingba.com
++.lel.asia
 +.leliao1.com
 +.lemmynsfw.com
 +.lemoncams.com
@@ -19599,6 +19794,7 @@
 +.lhav.cc
 +.lhav.com
 +.li
++.liadm.com
 +.liangxin8.life
 +.liangyou.net
 +.liangzhichuanmei.com
@@ -19634,6 +19830,7 @@
 +.liewen.cc
 +.lifanzhai.com
 +.life-global.org
++.life360.com
 +.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
@@ -19685,6 +19882,7 @@
 +.linemobile.com
 +.linemyshop.com
 +.lineshoppingseller.com
++.linewize.net
 +.linfenshengyue.org
 +.lingeriepornonly.com
 +.linglingfa.com
@@ -19752,9 +19950,11 @@
 +.liveauction.com
 +.livecamclips.com
 +.livecoin.net
++.livedoor.com
 +.livefilestore.com
 +.livegore.com
 +.livehdcams.com
++.liveintent.com
 +.livejasmin.com
 +.livejasminbabes.net
 +.livejournal.com
@@ -19768,6 +19968,7 @@
 +.liveprivates.com
 +.liverail.com
 +.liverail.tv
++.livescore.com
 +.livesex.com
 +.livesexasian.com
 +.livesketchshare.com
@@ -19783,6 +19984,7 @@
 +.lizhizhuangbi.com
 +.ljren88.com
 +.lk
++.lk21official.cc
 +.lkcn.net
 +.ll82y2ifdd.top
 +.llama.com
@@ -19808,6 +20010,7 @@
 +.lmm167.shop
 +.lmmbtc.com
 +.lms01.com
++.ln-msedge.net
 +.lncn.org
 +.lnrwg.com
 +.lnstagram-help.com
@@ -19890,6 +20093,7 @@
 +.longtailvideo.com
 +.longtermly.net
 +.longtoes.com
++.loobygamesonline.com
 +.look3.icu
 +.lookinside.com
 +.lookpic.com
@@ -19935,6 +20139,7 @@
 +.lovetvshow.com
 +.lovex.life
 +.lowergiseries.com
++.lowes.com
 +.lowiro.com
 +.lp99.pw
 +.lpl
@@ -20242,6 +20447,7 @@
 +.makeitopen.com
 +.makeitrealcontest.com
 +.makemymood.com
++.makemytrip.com
 +.makerworld.com
 +.makesenseofdata.com
 +.makeship.com
@@ -20277,6 +20483,7 @@
 +.mangafox.me
 +.mangafuna.xyz
 +.mangafunb.fun
++.mangago.me
 +.mangahentai.me
 +.mangahome.com
 +.mangmang.run
@@ -20371,6 +20578,7 @@
 +.mappingonline.com
 +.maptiler.com
 +.marc.info
++.marca.com
 +.mariadb.org
 +.marinecadcam.com
 +.marioandluigidreamteam.com
@@ -20598,6 +20806,7 @@
 +.medrxiv.org
 +.meem79.com
 +.meendo.com
++.meesho.com
 +.meetandfuck.games
 +.meetandfuckgames.com
 +.meetav.com
@@ -20670,6 +20879,7 @@
 +.meoriental.com
 +.mepn.com
 +.meraki-go.com
++.meraki.com
 +.merakigo.com
 +.mercari.com
 +.mercatox.com
@@ -20681,8 +20891,10 @@
 +.meridian.net
 +.meripet.com
 +.merkl.xyz
++.merriam-webster.com
 +.meshmixer.com
 +.meshmixerforum.com
++.meslibertines.com
 +.mesoamerican2.buzz
 +.mesotw.com
 +.messenger.com
@@ -20864,6 +21076,7 @@
 +.mikuexpo.com
 +.mil
 +.milehighmedia.com
++.mileroticos.com
 +.milfav.icu
 +.milfbundle.com
 +.milfed.com
@@ -20874,6 +21087,7 @@
 +.milfmovs.com
 +.milfnut.com
 +.milfporn.pro
++.milfporn.tv
 +.milfporn8.com
 +.milfpornonly.com
 +.milfprime.com
@@ -21135,6 +21349,7 @@
 +.mktroute.com
 +.ml
 +.mlb
++.mlb.com
 +.mlcool.com
 +.mlzs.work
 +.mm
@@ -21188,6 +21403,7 @@
 +.mobifcuk.com
 +.mobile-icq.com
 +.mobile01.com
++.mobiledokan.com
 +.mobilefacebook.com
 +.mobileicq.com
 +.mobileinternational.com
@@ -21249,6 +21465,7 @@
 +.molesports.com
 +.molianmo.com
 +.molihua.org
++.moloco.com
 +.molviewer.com
 +.mom-gfs.com
 +.mom-sex-videos.com
@@ -21283,6 +21500,7 @@
 +.monash
 +.monbeats2013.com
 +.mondex.org
++.moneycontrol.com
 +.moneydj.com
 +.moneyhome.biz
 +.moneywithfacebook.com
@@ -21374,6 +21592,7 @@
 +.moresci.sale
 +.morewithautodesk.com
 +.morganclaypool.com
++.morlento.vip
 +.morningsun.org
 +.mornporn.com
 +.morphcharts.com
@@ -21423,6 +21642,9 @@
 +.moviesarena.com
 +.moviesfree4u.xyz
 +.moviesneek.com
++.moviessda.com
++.moviezwap.best
++.moviezwap.taxi
 +.movika.com
 +.moxing.mobi
 +.moxing.news
@@ -21454,6 +21676,7 @@
 +.mp4so.com
 +.mp4us.com
 +.mp5001.com
++.mparticle.com
 +.mpettis.com
 +.mpfinance.com
 +.mpgw-my.com
@@ -21544,6 +21767,7 @@
 +.mtao.fun
 +.mtc37.com
 +.mtdh2022.com
++.mtgglobals.com
 +.mthruf.com
 +.mtly991.com
 +.mtn
@@ -21599,6 +21823,7 @@
 +.mumu95.com
 +.munai1tv.com
 +.muncloud.dog
++.mundodeportivo.com
 +.muoujiejie.com
 +.muramura.tv
 +.muryouav.net
@@ -21655,7 +21880,6 @@
 +.my.com
 +.my.games
 +.my.pcloud.com
-+.my.weibo.com
 +.my03.com
 +.my0hkg4snbwsf9enh1rbpdlmxqe.xyz
 +.my0sz4b4eu9i3bhi8d439plktds.xyz
@@ -21799,11 +22023,13 @@
 +.myhtlmebook.com
 +.myhulu.com
 +.myicloud.net
++.myinstants.com
 +.myiphide.com
 +.myipod.net
 +.myipstack.com
 +.myjetbrains.com
 +.myjkwd.com
++.mykamababa.com
 +.mykomica.org
 +.mylcloud.net
 +.myleji.com
@@ -21829,6 +22055,7 @@
 +.mynetname.net
 +.mynike.com
 +.mynixos.com
++.myntra.com
 +.mynumber.org
 +.myoctocat.com
 +.myol6lvgskls3rqoratc5.xyz
@@ -21980,7 +22207,6 @@
 +.nanrenvip.co
 +.nanyang.com
 +.nanyangpost.com
-+.nanzao.com
 +.naoconto.com
 +.naol.cc
 +.napiszex.com
@@ -22015,6 +22241,7 @@
 +.naughtysophie.com
 +.naughtytugs.com
 +.naughtywomenpics.com
++.naukri.com
 +.navacg.com
 +.naver.com
 +.naver.me
@@ -22173,6 +22400,7 @@
 +.nervanasys.com
 +.nesaporn.com
 +.nesaporn.mobi
++.nesine.com
 +.nest.com
 +.netacad.com
 +.netacad.net
@@ -22204,6 +22432,7 @@
 +.netflixdnstest9.com
 +.netflixinvestor.com
 +.netflixtechblog.com
++.netkeiba.com
 +.netlify.com
 +.netlifydns.com
 +.netlifystatus.com
@@ -22544,6 +22773,7 @@
 +.nilegu.com
 +.ninecommentaries.com
 +.nineteentube.com
++.ninisite.com
 +.ninjacloak.com
 +.ninjaproxy.ninja
 +.nintendium.com
@@ -22681,6 +22911,7 @@
 +.northboot.xyz
 +.norton
 +.norton.com
++.nosv.org
 +.note.com
 +.notepad-plus-plus.org
 +.noticias-rt.com
@@ -22693,6 +22924,7 @@
 +.nottinghampost.com
 +.nousresearch.com
 +.novelai.net
++.novelix.vip
 +.noveltrove.com
 +.novids.com
 +.novinhabucetuda.com
@@ -22721,6 +22953,7 @@
 +.nptsibinbank.com
 +.npy30.com
 +.nr
++.nr-data.net
 +.nra
 +.nradio.me
 +.nrdh99.buzz
@@ -22953,6 +23186,7 @@
 +.oculusrift.com
 +.oculusvr.com
 +.odcoc.com
++.oddspark.com
 +.odos.xyz
 +.odysee.com
 +.oecd-ilibrary.org
@@ -22992,6 +23226,7 @@
 +.ohyeah1080.com
 +.oiktv.com
 +.oiobbs.com
++.ojogodobicho.com
 +.ok.me
 +.ok275.com
 +.okaapps.com
@@ -23053,6 +23288,7 @@
 +.omgili.com
 +.omgteens.com
 +.omniroot.com
++.omnitagjs.com
 +.omnitalk.com
 +.omnitalk.org
 +.omnitek.tv
@@ -23114,6 +23350,7 @@
 +.onkakao.net
 +.online-deals.net
 +.online-instagram.com
++.online-metrix.net
 +.online.recoveryversion.org
 +.onlineapplestore.com
 +.onlinecha.com
@@ -23316,6 +23553,7 @@
 +.oursweb.net
 +.ouryahoo.com
 +.out-app-purchase.com
++.outbrain.com
 +.outdoorpublicsex.com
 +.outingsapp.com
 +.outletbeatsshop.com
@@ -23328,7 +23566,6 @@
 +.overleaf.com
 +.overplay.net
 +.oversea.istarshine.com
-+.overseas.weibo.com
 +.overthumbs.com
 +.overwall.cc
 +.ovh
@@ -23398,6 +23635,7 @@
 +.packagingcadcam.com
 +.packagist.org
 +.packetix.net
++.packzy.com
 +.pacloudflare.com
 +.pacopacomama.com
 +.padmanet.com
@@ -23410,6 +23648,7 @@
 +.pagesix.com
 +.pagespeedmobilizer.com
 +.pageview.mobi
++.pagibigfundservices.com
 +.pahabicilemezsurprizler.com
 +.paheal.net
 +.paidpornguide.com
@@ -23938,6 +24177,7 @@
 +.pkqjiasu.com
 +.pkuanvil.com
 +.pl
++.pla3.com
 +.placemix.com
 +.placesdocs.com
 +.planetminecraft.com
@@ -23948,6 +24188,7 @@
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platinumlinks.org
++.platorelay.com
 +.platov.co
 +.play-asia.com
 +.play-bmm.shop
@@ -24297,6 +24538,7 @@
 +.porno-apk.com
 +.porno-erotica.com
 +.porno.com
++.porno365.golf
 +.porno365.net
 +.porno365.website
 +.porno49.com
@@ -24618,6 +24860,7 @@
 +.prof
 +.profilemaster.com
 +.profreeporno.com
++.programme-tv.net
 +.progress.com
 +.progressive
 +.project-poi.com
@@ -24640,6 +24883,7 @@
 +.promonsterbeatsbydre.com
 +.prompthero.com
 +.pron.tv
++.property24.com
 +.propertysex.com
 +.proporn.com
 +.proptiger.com
@@ -24668,6 +24912,7 @@
 +.proxyium.com
 +.proxyrarbg.org
 +.proxyroad.com
++.proxysite.com
 +.proxytunnel.net
 +.proxz.com
 +.proyectoclubes.com
@@ -24725,6 +24970,7 @@
 +.publicsuffix.org
 +.publishproxy.com
 +.pubmatic.com
++.pubmnet.com
 +.puffinbrowser.com
 +.puffstore.com
 +.pugetsoundbmw.com
@@ -24977,6 +25223,7 @@
 +.qualcommventures.cn
 +.qualcommventures.com
 +.qualphone.com
++.qualys.com
 +.qualysapi.qatp1.net
 +.qualysguard.qpdp1.net
 +.quanben-xiaoshuo.com
@@ -25009,6 +25256,7 @@
 +.quixel.com
 +.quiz.directory
 +.quizazz.com
++.quizwinz.com
 +.qumingwz.com
 +.qunnu.com
 +.quora.com
@@ -25098,6 +25346,7 @@
 +.rapbull.net
 +.rapefilms.net
 +.rapetube.me
++.rapid7.com
 +.rapidconverter.com
 +.rapidmoviez.com
 +.rapidprototyping-cadcam.com
@@ -25293,6 +25542,7 @@
 +.redditstatic.com
 +.redditstatus.com
 +.redfaptube.com
++.redfin.com
 +.redgifs.com
 +.redhat.com
 +.redhat.org
@@ -25418,6 +25668,7 @@
 +.rhyw31.life
 +.ricefever.com
 +.richardli
++.richaudience.com
 +.ricoh
 +.ridepenguin.com
 +.rigpa.org
@@ -25425,6 +25676,7 @@
 +.riku.me
 +.ril
 +.rileyguide.com
++.ring.com
 +.rinvdh7.xyz
 +.rio
 +.riot-games.com
@@ -25449,6 +25701,7 @@
 +.rjgsp.buzz
 +.rjgsp1.buzz
 +.rk.com
++.rlcdn.com
 +.rlczdo.xyz
 +.rlwlw.com
 +.rm01.xyz
@@ -25621,6 +25874,7 @@
 +.ru1lib.org
 +.ruangedukasi.club
 +.ruanyifeng.com
++.rubiconproject.com
 +.ruby-lang.org
 +.rubygems.org
 +.rudderstack.com
@@ -25639,6 +25893,7 @@
 +.rule34pornvids.com
 +.rule34video.com
 +.ruleporn.com
++.ruliweb.com
 +.rumah123.com
 +.rumble.com
 +.rumt-sg.com
@@ -25660,6 +25915,7 @@
 +.rushporn.online
 +.russiabeyond.com
 +.russiaislove.com
++.russianfood.com
 +.russianrape.org
 +.russiatoday.com
 +.russiatoday.net
@@ -25684,6 +25940,7 @@
 +.rwe
 +.rxhj.net
 +.rxr76.com
++.ryanair.com
 +.ryukyu
 +.rzz53.com
 +.s-bluemix.net
@@ -25747,6 +26004,7 @@
 +.sagepub.com
 +.sagernet.org
 +.sahabatsetiasmartone.com
++.sahibinden.com
 +.saiganak.com
 +.saintyculture.com
 +.sakura
@@ -25767,6 +26025,7 @@
 +.salesforcemarketingcloud.com
 +.sallydangeloxxx.com
 +.salon63.com
++.sambad.com
 +.sambaporno.com
 +.sambhota.org
 +.samebags.com
@@ -25849,6 +26108,7 @@
 +.satoshilabs.com
 +.satv01.me
 +.saucenao.com
++.savefrom.net
 +.savemedia.com
 +.savethesounds.info
 +.savetibet.org
@@ -25888,6 +26148,7 @@
 +.scala-sbt.org
 +.scaleflex.com
 +.scaleform.com
++.scan-manga.com
 +.scandalplanet.com
 +.scanlover.com
 +.scanservice1.qcpp1.net
@@ -25917,6 +26178,7 @@
 +.schiffvitamins.com
 +.schmidt
 +.scholarpedia.org
++.schoology.com
 +.schwab.com
 +.schwab.com.cn
 +.schwabassetmanagement.com
@@ -26004,6 +26266,7 @@
 +.seancody.com
 +.seaofsolitude.com
 +.seaporn.org
++.search-start.org
 +.search.com
 +.searchlightpictures.com
 +.searchtruth.com
@@ -26105,6 +26368,7 @@
 +.sensualgirls.org
 +.sensualmothers.com
 +.sensueel.net
++.sentinelone.net
 +.sentry-cdn.com
 +.senzuritv.net
 +.seo-dash.net
@@ -26166,6 +26430,7 @@
 +.sex-hay.pro
 +.sex-hot-sites.com
 +.sex-ly.com
++.sex-studentki.team
 +.sex-teen.net
 +.sex-young.com
 +.sex.cam
@@ -26244,6 +26509,7 @@
 +.sexkorea.net
 +.sexlikereal.com
 +.sexlist.tv
++.sexlog.com
 +.sexmadeathome.com
 +.sexmature.club
 +.sexmcc.com
@@ -26256,6 +26522,7 @@
 +.sexmutant.com
 +.sexnaweb.net
 +.sexnudo.com
++.sexnyk.com
 +.sexo123.net
 +.sexodama.com
 +.sexodeamor.com
@@ -26298,6 +26565,7 @@
 +.sexualhentai.net
 +.sexuallybroken.com
 +.sexuria.com
++.sexvid1.com
 +.sexvideo10.com
 +.sexvideo12com.pro
 +.sexvideos.host
@@ -26327,6 +26595,7 @@
 +.sexyasiangirls.cc
 +.sexyavenue.com
 +.sexybabesz.com
++.sexybluefilm.com
 +.sexycandidgirls.com
 +.sexyculo.com
 +.sexyfeet.tv
@@ -26391,7 +26660,6 @@
 +.sfunpay.com
 +.sfw028.com
 +.sg
-+.sg.weibo.com
 +.sg101.xyz
 +.sg120.me
 +.sg149.xyz
@@ -26454,6 +26722,7 @@
 +.sharepoint.com
 +.sharepointonline.com
 +.sharethis.com
++.sharethrough.com
 +.sharizelvideos.com
 +.shark-cn.com
 +.sharkyporn.com
@@ -26470,6 +26739,7 @@
 +.shegg.com
 +.shegods.com
 +.sheikyermami.com
++.shein.com
 +.shelfstuff.com
 +.shell
 +.shellcheck.net
@@ -26670,6 +26940,7 @@
 +.similar-porn.fun
 +.simility.com
 +.simonsgirls.com
++.simontokx.asia
 +.simplecd.me
 +.simplecd.org
 +.simpleproductivityblog.com
@@ -26692,6 +26963,7 @@
 +.singtaonewscorp.com
 +.singtaoopo.com
 +.singtaousa.com
++.singular.net
 +.sino-monthly.com
 +.sinoants.com
 +.sinoca.com
@@ -26777,7 +27049,9 @@
 +.sky333.cc
 +.skyassets.com
 +.skybet.com
++.skybridge.click
 +.skybt.info
++.skyhigh.cloud
 +.skylanders.com
 +.skymansion.net
 +.skymatter.com
@@ -26844,6 +27118,8 @@
 +.sm52.vip
 +.sm53.top
 +.smaad.net
++.smaato.net
++.smadex.com
 +.smailru.net
 +.smallteenpussy.com
 +.smart
@@ -26852,6 +27128,7 @@
 +.smart-edge.net
 +.smart-edge.org
 +.smart-edge.systems
++.smartadserver.com
 +.smartcommunitiescoalition.com
 +.smartcommunitiescoalition.org
 +.smartdnsproxy.com
@@ -26949,6 +27226,7 @@
 +.sockslist.net
 +.socrec.org
 +.sofan.cc
++.sofascore.com
 +.softbank
 +.softbank-ipo.com
 +.softbank-jp.com
@@ -27002,6 +27280,7 @@
 +.solveforx.com
 +.soman.com
 +.somee.com
++.sondakika.com
 +.sonematic.net
 +.sonemic.com
 +.songdaoys.com
@@ -27139,12 +27418,14 @@
 +.spiritofecstasy.com
 +.spizoo.com
 +.spj80.com
++.splashtop.com
 +.splatoon2tournament.com
 +.splunk.com
 +.spo-msedge.net
 +.spore.com
 +.sportsfacebook.com
 +.sportstream.com
++.sportybet.com
 +.spotflux.com
 +.spotify-everywhere.com
 +.spotify.com
@@ -27203,6 +27484,7 @@
 +.ss-inf.net
 +.ss-link.com
 +.ss.city
++.ss.com
 +.ss.pythonic.life
 +.ss022.xyz
 +.ss135.xyz
@@ -27255,6 +27537,7 @@
 +.ssxzxl1.com
 +.st
 +.st.com
++.stackadapt.com
 +.stackage.org
 +.stackapps.com
 +.stackauth.com
@@ -27299,6 +27582,7 @@
 +.starbuckssummergame.com
 +.starcraft.com
 +.starcraft2.com
++.starfall.com
 +.starfieldtech.com
 +.starfishfx.com
 +.starfox.com
@@ -27325,6 +27609,7 @@
 +.starwarsjedifallenorder.com
 +.starwarskids.com
 +.starwarstheoldrepublic.com
++.staseraintv.com
 +.stash.wiki
 +.stasyq.com
 +.statebank
@@ -27550,7 +27835,9 @@
 +.supermariorun.com
 +.superpages.com
 +.superpapermario.com
++.superporn.com
 +.supersexeamateur.com
++.supertms.com
 +.superuser.com
 +.supervpn.net
 +.superzooi.com
@@ -27575,6 +27862,7 @@
 +.suruga-ya.com
 +.surveycake.com
 +.surveymonkey.com
++.susercontent.com
 +.sushi.ski
 +.susiewildin.com
 +.sustainablebuildingstudio.com
@@ -27696,6 +27984,7 @@
 +.sysctl-explorer.net
 +.sysinternals.com
 +.sysresccd.org
++.system-monitor.com
 +.system76.com
 +.sysub.com
 +.sytes.net
@@ -27712,6 +28001,7 @@
 +.szyr655.com
 +.t-finance.group
 +.t-g.com
++.t-mobile.com
 +.t-msedge.net
 +.t-splines.com
 +.t-tech.team
@@ -27731,6 +28021,7 @@
 +.t9c6.com
 +.taa-usa.org
 +.tab
++.tabelog.com
 +.taboola.com
 +.tabooporn.tv
 +.tabooporns.com
@@ -27780,6 +28071,7 @@
 +.takegoto.com
 +.taknai.com
 +.takporn.com
++.taktube.net
 +.talentlens.com
 +.taleofthenight.com
 +.talk853.com
@@ -27792,7 +28084,10 @@
 +.talkonly.net
 +.talksport.com
 +.talktome.com
++.tamildhool.tech
 +.tamilsexvideos.cc
++.tamilsexvids.net
++.tamilsexzone.com
 +.tampermonkey.net
 +.tamtam.chat
 +.tanc.org
@@ -27820,6 +28115,7 @@
 +.taoism.net
 +.taoluhuifang.net
 +.taoziav.com
++.tapad.com
 +.tapanwap.com
 +.tapatalk.com
 +.taptotokyo.com
@@ -27895,6 +28191,7 @@
 +.teacherfucksteens.com
 +.teachmyass.com
 +.teachparentstech.org
++.teads.tv
 +.teaiii.com
 +.teamamericany.com
 +.teamneedforspeed.com
@@ -28030,6 +28327,7 @@
 +.tgfcer.com
 +.tgirlcentral.com
 +.tgirlpostop.com
++.tgju.org
 +.tgp6.com
 +.tgstat.com
 +.tgtime.store
@@ -28038,7 +28336,6 @@
 +.tgyav.com
 +.th
 +.th.hao123.com
-+.th.weibo.com
 +.th8.tv
 +.thai-xxx.com
 +.thai69.com
@@ -28081,6 +28378,7 @@
 +.theblaze.com
 +.theblemish.com
 +.theblock.co
++.theblowers.com
 +.thebobs.com
 +.thebodyshop-usa.com
 +.thebondagefiles.com
@@ -28207,6 +28505,7 @@
 +.theporntoplist.com
 +.theporny.com
 +.theportalwiki.com
++.therapservices.net
 +.theregister.com
 +.thesafeporn.com
 +.thesaurus.com
@@ -28243,6 +28542,7 @@
 +.thewirechina.com
 +.thewitcher.com
 +.thewonderful101.com
++.theyarehuge.com
 +.theync.com
 +.theyxxx.com
 +.thieme-connect.com
@@ -28271,6 +28571,7 @@
 +.thotbook.tv
 +.thottok.com
 +.thotvids.com
++.thousandeyes.com
 +.threadingbuildingblocks.org
 +.threadreaderapp.com
 +.threads.com
@@ -28278,6 +28579,7 @@
 +.threatlabz.com
 +.thrixxx.com
 +.throughnightsfire.com
++.thscore99.com
 +.thtmod.com
 +.thtmod1.com
 +.thtv.vip
@@ -28415,7 +28717,6 @@
 +.timelinestoryteller.com
 +.timesmembership.com
 +.timesnownews.com
-+.timesofindia.indiatimes.com
 +.timestalks.com
 +.timeweb.cloud
 +.timeweb.com
@@ -28467,6 +28768,7 @@
 +.titsintops.com
 +.tittykings.com
 +.tj
++.tjk.org
 +.tjmaxx
 +.tjx
 +.tk
@@ -28494,6 +28796,7 @@
 +.tlvod.com
 +.tlwb004.xyz
 +.tm
++.tm-azurefd.net
 +.tmagazine.com
 +.tmdb.org
 +.tmei-taoyuan.com
@@ -28746,14 +29049,18 @@
 +.travelexch.com
 +.travelexmoneycard.com
 +.travelgirls.com
++.travian.com
 +.travis-ci.com
 +.travis-ci.org
++.travixo.vip
 +.trbcdn.net
 +.trello.com
 +.trellocdn.com
 +.trellonet.com
++.tremorhub.com
 +.trendmicro.com
 +.trendsmap.com
++.trendyol.com
 +.trendyporn.com
 +.treyarch.com
 +.trglt3.com
@@ -28763,6 +29070,7 @@
 +.trikepatrol.com
 +.triokini.com
 +.trip.com
++.triplinkintl.com
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
@@ -28779,6 +29087,7 @@
 +.truebeachporn.com
 +.truebim.com
 +.truebuddha-md.org
++.truecaller.com
 +.truedepth3d.com
 +.truedwg.com
 +.truenas.com
@@ -28793,6 +29102,7 @@
 +.trustedanalytics.net
 +.trusteddwg.com
 +.trustedpeach.com
++.trustedstack.com
 +.trustisfps.com
 +.trustlogin.com
 +.trustpilot.com
@@ -28849,6 +29159,7 @@
 +.tt556.xyz
 +.tt888m.com
 +.ttcdn-us.com
++.ttdns2.com
 +.tteee.cc
 +.tteshop.com
 +.ttkkttkk.com
@@ -28973,6 +29284,7 @@
 +.turbotax.com
 +.turkeyblocks.org
 +.turkistantimes.com
++.turn.com
 +.turn.livekit.cloud
 +.tushijiav.xyz
 +.tushy.com
@@ -29021,8 +29333,8 @@
 +.tw.gigacircle.com
 +.tw.hao123.com
 +.tw.jiepang.com
++.tw.linovelib.com
 +.tw.streetvoice.com
-+.tw.weibo.com
 +.tw01.org
 +.tw1115.xyz
 +.tw985.com
@@ -29129,6 +29441,7 @@
 +.twnextdigital.com
 +.twoo.com
 +.twporn.net
++.twpornstars.com
 +.twreporter.org
 +.twskype.com
 +.twstalker.com
@@ -29144,6 +29457,7 @@
 +.txcb.net
 +.txcloud.net
 +.txdirectv.com
++.txnhh.com
 +.txqzz34r.com
 +.txsjs.top
 +.txsss.me
@@ -29178,6 +29492,7 @@
 +.typenetwork.com
 +.typepad.com
 +.typesquare.com
++.typing.com
 +.typography.com
 +.tyre-cadcam.com
 +.tyrecadcam.com
@@ -29293,6 +29608,7 @@
 +.ulop.net
 +.ultimaforever.com
 +.ultimaonline.com
++.ultimate-guitar.com
 +.ultradonkey.com
 +.ultravpn.com
 +.ultraxs.com
@@ -29376,6 +29692,7 @@
 +.upox.com
 +.upr.org
 +.uproxy.org
++.ups.com
 +.upsangel.com
 +.uptimerobot.com
 +.uptodown.com
@@ -29398,7 +29715,6 @@
 +.urukawa.com
 +.us
 +.us-east-1.myhuaweicloud.com
-+.us.weibo.com
 +.usa-beatsbydreheadphonesonsale.net
 +.usa1lib.org
 +.usacn.com
@@ -29407,6 +29723,7 @@
 +.usatodaynetworkservice.com
 +.uscardforum.com
 +.uscnpm.org
++.useinsider.com
 +.uselessjunk.com
 +.usenix.org
 +.useplannr.com
@@ -29419,6 +29736,7 @@
 +.usmitbbs.com
 +.usocctn.com
 +.usocial.pro
++.usps.com
 +.ustibetcommittee.org
 +.ustream.tv
 +.usus.cc
@@ -29584,6 +29902,7 @@
 +.vanta.com
 +.vantagefx.com
 +.vantrue.store
++.varzesh3.com
 +.vastenm.com
 +.vatn.org
 +.vaultify.com
@@ -29745,6 +30064,7 @@
 +.videosmadeathome.com
 +.videosporno.life
 +.videovor.com
++.videoxx.com
 +.videoxxxporn.biz
 +.videozzz.com
 +.vidinfo.org
@@ -29818,6 +30138,7 @@
 +.viralcum.com
 +.viralporn.com
 +.virgin
++.virginm.net
 +.virginpornlinks.com
 +.viriondb.com
 +.virsto.com
@@ -30098,7 +30419,6 @@
 +.vpro.net
 +.vps.hosting
 +.vps000.com
-+.vpser.net
 +.vpsmm.com
 +.vpsxb.net
 +.vpszs.com
@@ -30180,6 +30500,7 @@
 +.w88top.com
 +.w8933.com
 +.wa.me
++.wac-msedge.net
 +.waccas.com
 +.waffle1999.com
 +.wahas.com
@@ -30318,6 +30639,7 @@
 +.wbstatic.net
 +.wbvm4s.com
 +.wbwh.tech
++.wbx2.com
 +.wcav.pro
 +.wclz8888.com
 +.wcwcwcwc.com
@@ -30432,6 +30754,7 @@
 +.wetplace.com
 +.wetpussygames.com
 +.wetsextube.com
++.wetter.com
 +.wetv.qq.com
 +.wetv.vip
 +.wetvinfo.com
@@ -31011,6 +31334,7 @@
 +.wyqqdz.com
 +.wyta.cc
 +.wytxz.com
++.wyzecam.com
 +.wz29.cc
 +.wzlthw.com
 +.wzmyg.com
@@ -31137,6 +31461,7 @@
 +.xaazablog.com
 +.xacg.me
 +.xacgame.com
++.xahani.com
 +.xamarin.com
 +.xandr.com
 +.xanga.com
@@ -31304,6 +31629,7 @@
 +.xhamster.desi
 +.xhamster.me
 +.xhamster.org
++.xhamster1.desi
 +.xhamster13.com
 +.xhamster14.com
 +.xhamster15.com
@@ -31312,6 +31638,7 @@
 +.xhamster19.com
 +.xhamster2.com
 +.xhamster3.com
++.xhamster46.desi
 +.xhamster48.com
 +.xhamster49.com
 +.xhamster9.com
@@ -31321,6 +31648,7 @@
 +.xhcdn.com
 +.xhlive.org
 +.xhmaster.com
++.xhname.com
 +.xhnews.live
 +.xhopen.com
 +.xhot.pro
@@ -31329,8 +31657,12 @@
 +.xhpjc6-cdn-settings.appsflyersdk.com
 +.xhreal5.com
 +.xhs777.com
++.xhsocial.com
++.xhspot.com
 +.xhss.me
++.xhstream.com
 +.xhub.tv
++.xhwide.com
 +.xhydh.top
 +.xhydh005.xyz
 +.xhydh123.com
@@ -31575,6 +31907,7 @@
 +.xn--3e0b707e
 +.xn--3et96bj49ahpq.com
 +.xn--3hcrj9c
++.xn--42cf7cgd7gxbd4m7c.cc
 +.xn--45br5cyl
 +.xn--45brj9c
 +.xn--4dbrk0ce
@@ -31748,6 +32081,7 @@
 +.xnostars.com
 +.xnpool.com
 +.xnxvideos.org
++.xnxx-arabic.com
 +.xnxx-cdn.com
 +.xnxx-sex-tube.com
 +.xnxx-sex-videos.com
@@ -31787,6 +32121,7 @@
 +.xnxxsexmovies.com
 +.xnxxtime.com
 +.xnxxvideo.mobi
++.xnxxvideos.me
 +.xnxxvideos.rest
 +.xnxxx.cc
 +.xo.com
@@ -31946,6 +32281,7 @@
 +.xvlivecams.com
 +.xvservice.net
 +.xvsr3m.com
++.xvv1deos.com
 +.xvxx.stream
 +.xvxxtube.com
 +.xwbo.com
@@ -32081,6 +32417,7 @@
 +.xxx-ways.com
 +.xxx.com
 +.xxx18.uno
++.xxx18hot.com
 +.xxx18teen.net
 +.xxx2022.com
 +.xxx2023.com
@@ -32155,6 +32492,7 @@
 +.xxxpornmovs.com
 +.xxxpornotuber.com
 +.xxxpornzeed.com
++.xxxpostpic.org
 +.xxxreal.com
 +.xxxscenes.net
 +.xxxsexanal.com
@@ -32443,6 +32781,7 @@
 +.yidacx.com
 +.yidio.com
 +.yie9.com
++.yieldmo.com
 +.yiess.xyz
 +.yifanhun.com
 +.yigaywan.com
@@ -32977,6 +33316,8 @@
 +.zdusercontent.com
 +.zdxbeta.net
 +.zdxcloud.net
++.zearn.org
++.zedge.net
 +.zee.com
 +.zee5.com
 +.zee5.tv
@@ -32993,6 +33334,7 @@
 +.zeit.co
 +.zeitworld.com
 +.zello.com
++.zelvora.vip
 +.zen8ok.xyz
 +.zencdn.net
 +.zencoder.com
@@ -33144,6 +33486,7 @@
 +.ziddu.com
 +.ziglang.org
 +.zillionk.com
++.zillow.com
 +.ziluoli.xyz
 +.zind.cloud
 +.zingtruyen.net
@@ -33389,7 +33732,6 @@ cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
-cisco.evergage.com
 community.oneplus.com
 crl.versign.net
 databank.worldbank.org
