@@ -116,7 +116,6 @@
 +.014.cc
 +.01401.com
 +.0142f5348f8cd094.com
-+.0149.com
 +.016sf.com
 +.01975cf969f20191.com
 +.01bzw.xyz
@@ -1245,6 +1244,7 @@
 +.123baofeng.com
 +.123bo.com
 +.123boligang.com
++.123cha.com
 +.123clouddisk.com
 +.123clouddrive.net
 +.123du.cc
@@ -3078,7 +3078,6 @@
 +.332831.com
 +.333-555.com
 +.333.com
-+.3331.com
 +.33315.com
 +.333232.xyz
 +.333333.com
@@ -25826,6 +25825,7 @@
 +.dasungtech.com
 +.dat881.com
 +.data380.com
++.data4.net
 +.data5u.com
 +.data86.com
 +.data86.net
@@ -34599,7 +34599,6 @@
 +.gaxgame.com
 +.gaxify.com
 +.gaxrmyy.com
-+.gaze.run
 +.gazellegames.net
 +.gazx.org
 +.gb55009.com
@@ -39739,7 +39738,6 @@
 +.gzenxx.com
 +.gzeryun.com
 +.gzexpo.com
-+.gzfc.net
 +.gzfeice.com
 +.gzfeice.net
 +.gzfengmao.com
@@ -79866,6 +79864,7 @@
 +.smarteredu.net
 +.smartermicro.com
 +.smartgaga.com
++.smartgslb.com
 +.smarthey.com
 +.smarthomecn.com
 +.smarthuayan.com
