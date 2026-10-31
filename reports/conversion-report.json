@@ -41,26 +41,26 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/666OS/rules/release/mihomo/domain/AI.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 284,
-          "accepted_rules_before_deduplication": 284,
+          "candidate_rules": 293,
+          "accepted_rules_before_deduplication": 293,
           "rejected_rules": 0,
           "rejected": {}
         }
       ],
       "exclude": [],
       "set_operations": {
-        "source_rules_after_semantic_deduplication": 252,
+        "source_rules_after_semantic_deduplication": 258,
         "exclude_rules_after_semantic_deduplication": 0,
-        "main_rules": 252,
+        "main_rules": 258,
         "removed_source_rules": 0,
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 320,
+          "input_rules": 329,
           "exact_duplicates_removed": 2,
-          "parent_covered_removed": 66,
+          "parent_covered_removed": 69,
           "semantic_merges": 0,
-          "output_rules": 252
+          "output_rules": 258
         },
         "exclude_deduplication": {
           "input_rules": 0,
@@ -79,15 +79,15 @@
           "path": "rules/domain/AI_Domain.mrs",
           "format": "mrs",
           "behavior": "domain",
-          "rules": 252,
-          "sha256": "e58db6740118213ecbc8dbef57de62573fb9b48463d76b0b3bad9c325d9921db"
+          "rules": 258,
+          "sha256": "feb748d10edffa71e4a65ba33b5c37ec4ad38d254ce9e004c19508296df12d44"
         },
         {
           "path": "rules/domain/AI_Domain.txt",
           "format": "text",
           "behavior": "domain",
-          "rules": 252,
-          "sha256": "10c74108a313a150e1fa87548def73bdc57f91d11c865b0f15c91248595a2c9d"
+          "rules": 258,
+          "sha256": "e6d7ec899ee5483e83565137ba86c16ebb29c492da324d5a3d98acd9e70f5a16"
         }
       ]
     },
@@ -281,8 +281,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3896,
-          "accepted_rules_before_deduplication": 3896,
+          "candidate_rules": 3893,
+          "accepted_rules_before_deduplication": 3893,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -295,8 +295,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3475,
-          "accepted_rules_before_deduplication": 3475,
+          "candidate_rules": 3477,
+          "accepted_rules_before_deduplication": 3477,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -395,9 +395,9 @@
         "converted_source_rules": 0,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 69480,
+          "input_rules": 69479,
           "exact_duplicates_removed": 24786,
-          "parent_covered_removed": 20521,
+          "parent_covered_removed": 20520,
           "semantic_merges": 643,
           "output_rules": 23530
         },
@@ -460,8 +460,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3896,
-          "accepted_rules_before_deduplication": 3896,
+          "candidate_rules": 3893,
+          "accepted_rules_before_deduplication": 3893,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -474,8 +474,8 @@
           "status": "ok",
           "final_source": "https://raw.githubusercontent.com/jiuyue52/MihomoRules/refs/heads/main/rules/skk/ip/china_ip_ipv6.mrs",
           "detected_format": "mrs",
-          "candidate_rules": 3475,
-          "accepted_rules_before_deduplication": 3475,
+          "candidate_rules": 3477,
+          "accepted_rules_before_deduplication": 3477,
           "rejected_rules": 0,
           "rejected": {}
         },
@@ -588,9 +588,9 @@
         "converted_source_rules": 1,
         "partial_overlaps_retained": 0,
         "source_deduplication": {
-          "input_rules": 79117,
+          "input_rules": 79116,
           "exact_duplicates_removed": 32999,
-          "parent_covered_removed": 26718,
+          "parent_covered_removed": 26717,
           "semantic_merges": 401,
           "output_rules": 18999
         },
