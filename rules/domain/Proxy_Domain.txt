@@ -577,6 +577,7 @@
 +.18comic.cc
 +.18comic.company
 +.18comic.fun
++.18comic.ink
 +.18comic.life
 +.18comic.live
 +.18comic.me
@@ -8274,6 +8275,7 @@
 +.bingoporno.com
 +.bingparachute.com
 +.bingsandbox.com
++.bingstatic.com
 +.bingvisualsearch.com
 +.bingworld.com
 +.bingx.com
@@ -8979,6 +8981,7 @@
 +.bsappapi.com
 +.bscdnweb.com
 +.bsf4.com
++.bsky.chat
 +.bstatic.com
 +.bsxm1213.pro
 +.bt
@@ -15188,6 +15191,7 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubhackathon.com
++.githubhelp.com
 +.githubnext.com
 +.githubstatus.com
 +.githubsupport.com
@@ -21726,6 +21730,7 @@
 +.msftconnecttest.com
 +.msftncsi.com
 +.msftnet.org
++.msftstatic.com
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msguancha.com
@@ -28705,7 +28710,10 @@
 +.tiktokeu-cdn.com
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
++.tiktokshop.com
++.tiktokstaticb.com
 +.tiktokv.com
++.tiktokvapp.com
 +.tilda.cc
 +.tildaapi.com
 +.tildacdn.com
