@@ -8266,6 +8266,7 @@
 +.befuck.net
 +.beget.cloud
 +.beget.com
++.beget.email
 +.beget.hosting
 +.beget.pro
 +.beget.tech
