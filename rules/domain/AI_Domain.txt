@@ -127,6 +127,7 @@
 +.heygen.com
 +.hf.co
 +.hf.space
++.http-intake.logs.us5.datadoghq.com
 +.huggingface.co
 +.identrust.com
 +.immersivetranslate.com
@@ -203,6 +204,7 @@
 +.ppl-ai-file-upload.s3.amazonaws.com
 +.pplx-res.cloudinary.com
 +.pplx.ai
++.production-copilot-host-westus.webpubsub.azure.com
 +.production-openaicom-storage.azureedge.net
 +.qoder.com
 +.replicate.com
