@@ -25957,6 +25957,7 @@
 +.qubook.cc
 +.quebec
 +.quequemo.net
++.questionablequesting.com
 +.questvisual.com
 +.qugonghua.org
 +.quicinc.com
@@ -28132,6 +28133,7 @@
 +.soylentnews.org
 +.sp.cool
 +.spa177des.vip
++.spacebattles.com
 +.spaceexplored.com
 +.spacemail.com
 +.spaceship.com
@@ -30649,6 +30651,7 @@
 +.v2baa.com
 +.v2box.net
 +.v2cross.com
++.v2ex.co
 +.v2ex.com
 +.v2fly.org
 +.v2ny.com
