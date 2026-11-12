@@ -8,6 +8,7 @@
 +.alkalicore-pa.clients6.google.com
 +.alkalimakersuite-pa.clients6.google.com
 +.ant.dev
++.anthropic.ai
 +.anthropic.com
 +.anthropic.team
 +.antigravity-unleash.goog
@@ -45,6 +46,7 @@
 +.claude.new
 +.claude.site
 +.claudeacademy.com
++.claudeai.com
 +.claudemcpclient.com
 +.claudemcpcontent.com
 +.claudepages.dev
