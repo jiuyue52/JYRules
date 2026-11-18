@@ -13062,6 +13062,7 @@
 +.elephanttube.com
 +.elephanttubenew.com
 +.elevenlabs.com
++.elevenlabsusercontent.com
 +.elgaronline.com
 +.elifesciences.org
 +.elite.com

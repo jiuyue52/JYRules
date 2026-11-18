@@ -254,6 +254,7 @@ cp4.cloudflare.com
 d3ssuo6fbvr.cloudfront.net
 default.exp-tas.com
 edgeservices.bing.com
+graph.facebook.com
 gspe1-ssl.ls.apple.com
 guzzoni.apple.com
 imagine.meta.com
