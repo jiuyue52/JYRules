@@ -9204,6 +9204,7 @@
 +.bravoteens.com
 +.bravotube.net
 +.bravotube.tv
++.bravotv.com
 +.brawlstars.com
 +.brawlstarsgame.com
 +.braze.com
@@ -10860,6 +10861,7 @@
 +.cn1.iuiu.com
 +.cnappinstall.googleadapis.com
 +.cnbc.com
++.cnbccouncils.com
 +.cnbcfm.com
 +.cnbeta.com
 +.cnbetacdn.com
@@ -14433,6 +14435,7 @@
 +.fo187y.4558.me
 +.foampositeshoes.com
 +.fochk.org
++.focusfeatures.com
 +.focusvpn.com
 +.fofg.org
 +.fofoyy.com
@@ -16301,6 +16304,7 @@
 +.hayabusa.media
 +.hayday.com
 +.haydaygame.com
++.hayu.com
 +.hbabit.com
 +.hbalu.com
 +.hbb37.com
@@ -17921,6 +17925,7 @@
 +.ilhamtohtiinstitute.org
 +.ilife.wang
 +.illuminateed.com
++.illumination.com
 +.illusion111.com
 +.illusionas.com
 +.illusionchn.com
@@ -22337,7 +22342,6 @@
 +.msk.kitazawa.me
 +.msn.com
 +.msn.net
-+.msnbc.com
 +.msnewskids.com
 +.msnewskids.net
 +.msnewskids.org
@@ -22874,8 +22878,11 @@
 +.nbcolympics.com
 +.nbcsports.com
 +.nbcudigitaladops.com
++.nbcumv.com
 +.nbcuni.com
++.nbcunicareers.com
 +.nbcuniversal.com
++.nbcuniversalprivacy.com
 +.nbdh15.buzz
 +.nbtvpn.com
 +.nbwz188.com
@@ -28944,6 +28951,7 @@
 +.telegramdownload.com
 +.telegramindex.com
 +.telekom.com
++.telemundo.com
 +.telerik.com
 +.telesell.com
 +.telex.cc
@@ -29666,6 +29674,7 @@
 +.torrentprivacy.com
 +.torrenty.org
 +.torrindex.net
++.tortoisegit.org
 +.tortoisesvn.net
 +.torvpn.com
 +.tosh.comedycentral.com
@@ -30280,6 +30289,7 @@
 +.udndata.com
 +.udnfunlife.com
 +.udtrucksmeena.com
++.udxfpp.com
 +.ued299.com
 +.uflash.tv
 +.ufo-vpn.com
@@ -30349,9 +30359,14 @@
 +.uniswap.org
 +.unity.com
 +.unity3d.com
++.universalbeijingresort.com
++.universalhorrorunleashed.com
++.universalkidsresort.com
 +.universalorlando.com
 +.universalpictures.com
++.universalpicturesathome.com
 +.universalpicturesinternational.com
++.universalproductsexperiences.com
 +.universalscalablefirmware.org
 +.universalstudioshollywood.com
 +.universitypressscholarship.com
@@ -30386,6 +30401,7 @@
 +.upfrontcfd.com
 +.upfrontfea.com
 +.upghsbc.com
++.uphe.com
 +.upholdjustice.org
 +.upjav.cc
 +.upjav.org
