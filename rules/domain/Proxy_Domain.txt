@@ -9733,6 +9733,7 @@
 +.cachefly.com
 +.cachefly.net
 +.cachinese.com
++.cachix.org
 +.cacnw.com
 +.cactusvpn.com
 +.cad-mep.com
@@ -13935,9 +13936,11 @@
 +.fastlane.tools
 +.fastly-analytics.com
 +.fastly-edge.com
++.fastly-insights.com
 +.fastly-terrarium.com
 +.fastly.com
 +.fastly.net
++.fastlydns.net
 +.fastlylabs.com
 +.fastlylb.net
 +.fastssh.com
@@ -30935,6 +30938,7 @@
 +.vivaxnxx.com
 +.vivo
 +.vivoglobal.com
++.vivox.com
 +.vivthomas.com
 +.vixen.com
 +.vixengroup.com
@@ -34927,6 +34931,7 @@ cbsservice.aws.syncbak.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
 community.oneplus.com
+courses.myecnu.org
 crl.versign.net
 databank.worldbank.org
 datarouter.apps.netherrealm.com
