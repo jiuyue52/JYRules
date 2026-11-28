@@ -211,6 +211,7 @@
 +.faceit-cdn.net
 +.faceit.com
 +.fanatical.com
++.fce.gg
 +.fflogs.com
 +.ficgs.com
 +.fifastreet.com
